@@ -1,0 +1,5 @@
+Episode: 290
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Deep discussion of learning JavaScript, comparing JavaScript with CoffeeScript, discussing syntax and paradigms. Bobuk promotes CoffeeScript as alternative to JavaScript with better syntax.
+Key quotes: Я запустил тот курс, который мне в глаза прыгнул по JavaScript. | CoffeeScript — это язык, который однозначно транслируется в JavaScript, у которого при этом хоть какой-то понятный синтексис, в отличие от JavaScript.

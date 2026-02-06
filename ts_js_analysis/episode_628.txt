@@ -1,0 +1,5 @@
+Episode: 628
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of JavaScript ecosystem, framework choices, and development practices in modern web development.
+Key quotes: [Umputun]: Я делал код-ревью каким-то программистам, которые писали JavaScript.

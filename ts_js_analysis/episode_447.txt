@@ -1,0 +1,5 @@
+Episode: 447
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: Multiple casual mentions of JavaScript as one of common programming languages for beginners, mentioned alongside PHP and R. No substantive discussion of language features.
+Key quotes: [Umputun]: Нет, ну там начинается с JavaScript, потому что JavaScript – это первый язык для того, чтобы сделать, чтобы кнопка нажималась. | [Gray]: Обратите внимание, что у него здесь special language, это PHP, JavaScript или Rook.

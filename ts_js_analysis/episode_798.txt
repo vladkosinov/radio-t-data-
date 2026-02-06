@@ -1,0 +1,5 @@
+Episode: 798
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Mentions of JavaScript in context of templating approaches and JavaScript programmers' approaches to problems. The mentions are brief and contextual without substantive technical discussion.
+Key quotes: "Это не джаваскриптистов" (not JavaScript developers) | "Для современного джаваскрипта у каждой записи должен быть ID" (For modern JavaScript, every record must have an ID)

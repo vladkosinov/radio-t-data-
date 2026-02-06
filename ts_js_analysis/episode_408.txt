@@ -1,0 +1,5 @@
+Episode: 408
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 20 | Total: 20
+Summary: Extensive discussion of JavaScript language design philosophy. Compares with Lisp, analyzes Netscape's decision to use JavaScript instead of Lisp, discusses functional programming concepts.
+Key quotes: Я вообще очень переживаю, что в свое время выбрали JavaScript, а они стали писать на Lisp. Настолько легче было бы, кроме шуток. | Дело в том, что, во-первых, я уверен, что все современные языки программирования требуют понимания неочевидных вещей.

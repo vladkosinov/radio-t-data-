@@ -1,0 +1,5 @@
+Episode: 682
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Technical discussion of JSON vs JavaScript numeric parsing issues. Explains JSON is not executable JavaScript. Shows browser inconsistencies in parsing JSON numbers. Discusses differences between eval and proper JSON parsing in JavaScript.
+Key quotes: "JSON — это не просто интерпретируемый кусок... JavaScript и Python" | "браузеры... говорят, что нет, нифига, как бы оно не парсится"

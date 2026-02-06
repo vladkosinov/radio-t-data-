@@ -1,0 +1,6 @@
+Episode: 858
+Classification: MIXED
+TS mentions: 2 | JS mentions: 11 | Total: 13
+Summary: Discussing code examples and mentions JavaScript being used to write responses to Python code examples.
+Key quotes: Там я ему два куска на питоне дал, да, на питоне, он написал ответ, я не помню на чем, на JavaScript.
+  | Поддерживается Go, Java, JavaScript, Python и SQL.

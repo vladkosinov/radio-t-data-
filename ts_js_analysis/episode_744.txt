@@ -1,0 +1,5 @@
+Episode: 744
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: JavaScript mentioned in metaphorical/joking context - comparing forcing someone to work with JavaScript to forced labor. Discussion of Slack (JavaScript/Electron-based), HTML and CSS as components of code distribution. Used as punchline and casual reference rather than technical discussion of the language or ecosystem.
+Key quotes: "Берешь программиста, сажаешь его на JavaScript и заеду заставляешь работать" (Take a programmer, make them sit on JavaScript and force them to work). "Вы все кричите, что вот эти JavaScript, электроны, HTML это полный отстой" (You all say JavaScript, Electron, HTML is complete garbage). Mostly joking tone without technical analysis.

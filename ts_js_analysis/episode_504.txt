@@ -1,0 +1,7 @@
+Episode: 504
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: JavaScript's market dominance and role as a programming language are discussed.
+Key quotes:
+  - "У нас оно уже давно было в мире нормальных языков, а у них вот появилось для JavaScript."
+  - "Я всегда считал, что фронтенд — это те, которые HTML, CSS, JavaScript и так далее, а бэкэнд — это какой-то суровый C и C++."

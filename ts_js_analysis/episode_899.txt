@@ -1,0 +1,6 @@
+Episode: 899
+Classification: MIXED
+TS mentions: 1 | JS mentions: 5 | Total: 6
+Summary: Discussing web framework choices; mentions React (doesn't exist), then TypeScript and how not all tools use TypeScript.
+Key quotes: На React не пишут, но TypeScript, да.
+  | Только там JavaScript есть, что ты хотел.

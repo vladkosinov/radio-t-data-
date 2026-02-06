@@ -1,0 +1,5 @@
+Episode: 698
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of JavaScript client implementation for ProtonMail. Explains client-side data hiding through JavaScript checking LocalStorage. Shows how data is always present in page but JavaScript controls visibility based on authentication state.
+Key quotes: "Данные прячутся при помощи JavaScript" | "JavaScript внутри проверяет у себя в LocalStory"

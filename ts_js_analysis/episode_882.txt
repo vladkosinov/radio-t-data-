@@ -1,0 +1,6 @@
+Episode: 882
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Mention that a tool requires JavaScript development.
+Key quotes: Ты знаешь, что тебе придется на джаваскрипте писать?
+  | Вот эти, которые на JavaScript, им 10 минут тоже за счастье будет, наверное.

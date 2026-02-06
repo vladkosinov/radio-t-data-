@@ -1,0 +1,5 @@
+Episode: 438
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of a JavaScript programmer (Angular developer) in a GitHub incident context. JavaScript is mentioned only in passing to describe a person's skills.
+Key quotes: [Umputun]: Ну, вообще он на JavaScript, программист на Angular. | [Bobuk]: Нет, я читал другую историю про то, что на Байду, почти на всем портале, был кусок джаваскрипта, который как бы принудительно грузился из того самого репозитория где-то там на гитхабе.

@@ -1,0 +1,5 @@
+Episode: 702
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 2 | Total: 4
+Summary: Discussion of Deno as new Node.js alternative created by original Node.js creator. First-class TypeScript support without build step. Comparison with Node.js and discussion of JavaScript ecosystem improvements.
+Key quotes: "создатель Node.js, он ушел и создал новый Node.js, только теперь TypeScript.js" | "единственное, что меня в реальности порадовало, это то, что у них теперь есть внутренняя поддержка TypeScript'а"

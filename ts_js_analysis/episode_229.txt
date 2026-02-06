@@ -1,0 +1,5 @@
+Episode: 229
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Mixed discussion about JavaScript development and developer roles. Substantive aspects include explanation of why templates are written in JavaScript (because template developers have more client-side background where JS is prevalent), and the distinction between "real" programmers who write JavaScript code versus technical specialists who work on frontend markup. Discussion becomes tangential with meta-commentary about whether certain developers are "real programmers" based on their language choice.
+Key quotes: "шаблоны вообще, их обычно пишут люди, которые привыкли больше к клиентской стороне, к клиент-сайду. А там гораздо больше, если распространен, понимаешь, JavaScript" (templates are written by people used to client-side work, where JavaScript is more prevalent); "те, которые пишут на JavaScript, они есть настоящие" (those who write in JavaScript are real programmers)

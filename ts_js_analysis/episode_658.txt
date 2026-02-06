@@ -1,0 +1,5 @@
+Episode: 658
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 14 | Total: 14
+Summary: Detailed technical discussion of QuickJS - a JavaScript interpreter/compiler. Explains difference from Node.js (runtime vs engine). Discusses ability to compile JavaScript to standalone binaries. Explores potential to replace Go/Python with JavaScript.
+Key quotes: "QuickJS это компилятор JavaScript, большого сабсета JavaScript" | "можно будет писать на JavaScript вместо Go и получать один бинарик в конце"

@@ -1,0 +1,5 @@
+Episode: 966
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Brief mentions that something was done in TypeScript and that various debuggers support JavaScript, Python, LLDB, GDB, Go, PHP, and Ruby. Also mentions TypeScript and Python SDKs are available. Very passing mentions without substantive discussion.
+Key quotes: "они на TypeScript все сделали" | "JavaScript, Python, LLDB поддерживают, GDB, Go"

@@ -1,0 +1,7 @@
+Episode: 493
+Classification: MIXED
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "При этом вот что еще важно по этой категории C. Допускается выполнение контента на других языках программирования, транслированных в JavaScript, но ключевой JavaScript-код должен быть либо свободным,"
+  - "И обнаружили, что, ты не поверишь, на GitHub невозможно работать без проперетарного JavaScript-кода."

@@ -1,0 +1,5 @@
+Episode: 480
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Mentions JavaScript in context of programming language popularity statistics and trends. No technical discussion, just listing JavaScript among popular languages.
+Key quotes: [Ksenks]: Там интересны тенденции за последние 6 лет, что JavaScript прям растет с каждым годом | [Umputun]: В списке дополненных языков JavaScript идет, прямо всех делает.

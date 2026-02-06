@@ -1,0 +1,5 @@
+Episode: 470
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Comments on young programmers learning JavaScript as a career path. Discussion about JavaScript's role in modern education rather than technical language features.
+Key quotes: [Umputun]: Но вот если посмотреть на комментарии к этой статье и вот эти отклики молодого поколения борзого, который пишет на JavaScript | [Ksenks]: То есть вот у школьников сейчас, несмотря на то, что программист пишет программу на JavaScript, даже сейчас это не является карьерой мечты

@@ -1,0 +1,5 @@
+Episode: 390
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 30 | Total: 30
+Summary: Extensive discussion of JavaScript ecosystem, learning languages, BASIC vs. JavaScript accessibility. Debate on JavaScript as primary language for beginners vs. established languages.
+Key quotes: Я в JavaScript, как свинья в апельсинах. | JavaScript наше все, и да, конечно, можно подумать и PHP хороший язык, но все это по сравнению с JavaScript это вчерашний день.

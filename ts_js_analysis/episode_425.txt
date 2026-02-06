@@ -1,0 +1,5 @@
+Episode: 425
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 22 | Total: 22
+Summary: Deep discussion on functional programming in JavaScript, comparing it to Lisp and exploring JavaScript's functional nature. Hosts debate whether JavaScript is truly functional and discuss backend JavaScript usage and its problems.
+Key quotes: [Umputun]: JavaScript – это продолжатель Lisp. | [Ksenks]: Следующая тема про использование JavaScript, я так понимаю, на бэкэнде. И вообще про перенасыщенность JavaScript на просторах интернета.

@@ -1,0 +1,5 @@
+Episode: 714
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Brief mentions of JavaScript and TypeScript in passing while discussing adapters written in multiple languages (Ruby, JavaScript, Java, Shell). No substantive discussion of the languages themselves - just listing technology choices for different implementations.
+Key quotes: "Вот тут TypeScript есть немножко" (There's a bit of TypeScript here). Simple statement about implementation language without elaboration.

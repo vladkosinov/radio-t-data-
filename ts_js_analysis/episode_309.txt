@@ -1,0 +1,5 @@
+Episode: 309
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 23 | Total: 29
+Summary: MAJOR: Extensive introduction to TypeScript as new language from Microsoft. Detailed discussion of TypeScript features (classes, optional typing), comparison with JavaScript, CoffeeScript, and Dart. Discusses compilation to JavaScript.
+Key quotes: Microsoft выкатила превью, как они утверждают нового языка. На самом деле просто расширение для JavaScript, которое представляет из себя, ну, давайте скажем, JavaScript с нормальным определением классов. | И, что самое важное, с опциональной степизацией. [...] Это такой кросс-компайлер в JavaScript.

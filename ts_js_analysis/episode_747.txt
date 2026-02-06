@@ -1,0 +1,5 @@
+Episode: 747
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of JavaScript dependency security with Dependabot, security policies for JavaScript packages, and cross-origin restrictions for JavaScript in iFrames. Some technical points about JavaScript ecosystem tooling and browser security model, but mostly brief mentions within broader dependency management discussion.
+Key quotes: "Включить дипендобота-алерты, который умеет разные позорные джаваскрипты сам проверять" (Enable Dependabot alerts to check for JavaScript vulnerabilities). "JavaScript из iFrame не имеет доступа к основному окну" (JavaScript in iFrame can't access parent window). Mix of technical security details and passing mentions.

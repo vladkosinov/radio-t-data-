@@ -1,0 +1,5 @@
+Episode: 88
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Mixed discussion of JavaScript programmers and technology. Substantive aspects include debate about JavaScript necessity for web applications (disabling JS breaks many sites) and the distinction between markup designers and JavaScript programmers. The conversation also veers into name-dropping about JavaScript developer salaries and market rates, with tangential remarks about programmer arrogance and hiring practices.
+Key quotes: "Верстальщик плюс JavaScript-программист" (Designer plus JavaScript programmer - are two separate roles); "отключи я сейчас JavaScript, оно работать перестает" (disable JavaScript now and it stops working); "наглые программисты, требующие совершенно, на мой взгляд, несовместимых со своими квалификациями денег" (arrogant programmers demanding incompatible pay for their skills)

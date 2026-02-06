@@ -1,0 +1,5 @@
+Episode: 428
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Mixed discussion: critique of Python GUI problems leading to learning JavaScript, historical context on JavaScript's origins and design philosophy. Discussion touches on paradigm issues but also includes dismissive jokes.
+Key quotes: [Bobuk]: При этом попытались принести в него синтаксис Java, а точнее, скорее, синтаксис C, для того, чтобы получить какое-то более-менее сносное распространение. | [Ksenks]: Хорошо, если он мультипарадигменный, чтобы сразу попробовать разное.

@@ -1,0 +1,7 @@
+Episode: 556
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript is mentioned in development context.
+Key quotes:
+  - "Я даже на JavaScript пишу, поэтому... Я даже jQuery знаю, как использовать."
+  - "Опять же была статья, по-моему, даже ее обсуждали здесь в подкасте, что какой-то из университетов отказался от преподавания на Java и перешел на преподавание на JavaScript."

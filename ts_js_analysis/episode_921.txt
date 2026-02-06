@@ -1,0 +1,6 @@
+Episode: 921
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Mention of framework attempts for various programming languages.
+Key quotes: Ну, какое-то время, помнишь, были попытки для каждого языка программирования написать какой-нибудь фреймворк, который компилирует, ну, например, код на Go в JavaScript, чтобы исполнять его на клиенте.
+  | 62% использовали JavaScript в последние дни.

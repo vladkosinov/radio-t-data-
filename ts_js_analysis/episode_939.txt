@@ -1,0 +1,6 @@
+Episode: 939
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 26 | Total: 26
+Summary: Hosts criticize JavaScript ecosystem dependency management. Alek discusses Dependabot nightmare managing JavaScript project dependencies, comparing Spring Java repositories to Node.js repository chaos. They discuss why JavaScript ecosystem reliability is problematic with constant breaking changes.
+Key quotes: До этого у нас был Spring репозитории, а теперь Java репозитории, а теперь JavaScript.
+  | И ирония вот этих типа наботов для мира JavaScript, ну это же абсолютно удивительный факт, но они ведь сами это все не чинят.

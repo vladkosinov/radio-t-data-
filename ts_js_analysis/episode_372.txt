@@ -1,0 +1,5 @@
+Episode: 372
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Single-page application architecture with JavaScript. Discussion of REST API vs. SOAP/XML-RPC for JavaScript developers. Technical patterns for JavaScript web applications.
+Key quotes: Пообещал все сделать сингл-пейдж буквально, как крутые на JavaScript умеют. | REST для поколения JavaScript-программистов.

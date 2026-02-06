@@ -1,0 +1,5 @@
+Episode: 794
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Brief statistical mentions comparing JavaScript's commercial usage ranking to other languages like PHP, Java, and Python. The mentions are purely statistical without substantive discussion of JavaScript's features or ecosystem.
+Key quotes: "По коммерческому использованию JavaScript, конечно, всех делает, за ним C Sharp, за ним Java" (For commercial usage, JavaScript beats everyone, followed by C Sharp, then Java) | "Обошел и сравнялся с PHP TypeScript" (Caught up and equaled PHP TypeScript)

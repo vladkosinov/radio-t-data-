@@ -1,0 +1,5 @@
+Episode: 467
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JavaScript's weak type safety compared to Go. Hosts debate JavaScript's C-like syntax versus its actual functional programming paradigm and safety issues.
+Key quotes: [Bobuk]: Проблема JavaScript, с моей точки зрения, что люди смотрят на него, а у него такой C-like синтексис. А вообще JavaScript, это язык с довольно сильным функциональным аспектом. | [Umputun]: Потому что это самый незащищенный от дурака язык, который я видел, кроме JavaScript

@@ -1,0 +1,7 @@
+Episode: 513
+Classification: MIXED
+TS mentions: 2 | JS mentions: 6 | Total: 8
+Summary: TypeScript and its use with Angular framework are discussed. JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Они его анонсировали как средство для замены JavaScript на фронтенде."
+  - "Есть, в конце концов, шестой ECMAScript, который типа дальнейшее развитие JavaScript."

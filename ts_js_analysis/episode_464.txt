@@ -1,0 +1,5 @@
+Episode: 464
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of constant framework changes in JavaScript ecosystem causing developer frustration and lack of growth. Combines criticism of JavaScript churn with language feature discussions.
+Key quotes: [Umputun]: Суть его заметки, в том, что каждый день у него новый фреймворк. | [Umputun]: Во-первых, я вообще не представляю, как они в JavaScript живут с таким количеством изменяемых параметров.

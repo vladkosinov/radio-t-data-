@@ -1,0 +1,5 @@
+Episode: 995
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Brief mentions that LLMs (including Claude) write code poorly in both C and TypeScript. Umputun observes that LLMs seem worse with C than TypeScript but both are problematic. Notes that overuse of type specifications in Rust makes programs overly verbose. Very passing remarks without detailed discussion.
+Key quotes: "на C LLM пишут еще хуже, чем на TypeScript. На TypeScript они пишут отвратительно. На C, по-моему, еще хуже"

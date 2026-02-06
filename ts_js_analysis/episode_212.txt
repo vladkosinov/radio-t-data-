@@ -1,0 +1,5 @@
+Episode: 212
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Technical discussion of Python-to-JavaScript translation tools and web development optimization. Hosts explain Pyjamas (a framework allowing Python developers to write browser applications as if writing JavaScript), OpenLazarus application server, and Google PageSpeed module which optimizes JavaScript/CSS by removing whitespace and comments. Discussion focuses on practical tooling that makes JavaScript development more accessible and efficient without requiring direct JavaScript writing.
+Key quotes: "Pyjamas — это такая GWT для питона. Это средство, которое позволяет на питоне разрабатывать приложения, которые работают в браузере, как на джаваскрипте" (Pyjamas is like GWT for Python - a tool letting you develop Python apps that work in the browser like JavaScript); "убирать там всякие лишние пробелы, убирать комментарии из CSS, из JavaScript... этот самый чертов мод PageSpeed... может делать с JavaScript" (PageSpeed removes whitespace and comments from JavaScript)

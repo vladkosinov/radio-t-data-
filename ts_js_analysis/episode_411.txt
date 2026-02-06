@@ -1,0 +1,5 @@
+Episode: 411
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript in context of Yandex web stack. No substantive discussion.
+Key quotes: Вообще он написан на HTML и JavaScript. | Ты берешь там JavaScript, смотришь, что дергается.

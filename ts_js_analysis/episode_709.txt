@@ -1,0 +1,5 @@
+Episode: 709
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript mentioned as one example language among Python and PHP when discussing MongoDB Aggregation Pipeline features and performance of serious applications. No substantive discussion of JavaScript specifics - just listed as an alternative for backend scripting.
+Key quotes: "На фоне, там просто впереди будет Python, PHP, JavaScript и прочие замечательные языки" (In the background there will be Python, PHP, JavaScript and other wonderful languages). Brief mention of JavaScript limitations with native image compilation.

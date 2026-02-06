@@ -1,0 +1,5 @@
+Episode: 835
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Hosts discuss JavaScript charting libraries and how different developers structure solutions differently. They discuss JavaScript developers' approaches to problem-solving, CDK (JavaScript for infrastructure as code), and compare JavaScript vs YAML for configuration, showing how JavaScript developers prefer code-driven approaches.
+Key quotes: "У JavaScript-программистов такое другое строение мозга... то, что мне кажется очевидным, им кажется, надо в другое место ставить" (JavaScript programmers have such a different brain structure... what seems obvious to me seems to them like it should go somewhere else) | "они выбрали это перед обычным CloudFormation-овским ямлом" (they chose this over plain CloudFormation YAML)

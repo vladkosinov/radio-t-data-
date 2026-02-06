@@ -1,0 +1,5 @@
+Episode: 775
+Classification: MIXED
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Hosts discuss framework churn in JavaScript ecosystem and mention TypeScript as a framework evaluation criterion in hiring interviews. They briefly note that following the JavaScript framework trend is necessary to stay current in the field, and that evaluating candidates on TypeScript knowledge is part of modern hiring practices.
+Key quotes: "если ты варишься, например, в мире JavaScript, то тебе надо следить за 75-й фреймворком на этой неделе, а иначе вон из профессии" (If you're in the JavaScript world, you have to follow the 75th framework of the week, otherwise you're out of the profession) | "как ты относишься к TypeScript" (how do you feel about TypeScript)

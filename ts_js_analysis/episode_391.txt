@@ -1,0 +1,5 @@
+Episode: 391
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Browser-based RAW image format parser written in JavaScript. Technical achievement of implementing image processing in JavaScript.
+Key quotes: они действительно написали на JavaScript разборщик для нефов и прочих RAW-форматов. | Это прямо вообще очень круто.

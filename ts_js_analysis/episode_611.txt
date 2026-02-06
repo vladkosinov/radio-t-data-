@@ -1,0 +1,5 @@
+Episode: 611
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of JavaScript development ecosystem, tool chains, and practical development considerations.
+Key quotes: [Umputun]: Нет, но это можно JavaScript, это как бы локальные штуки.

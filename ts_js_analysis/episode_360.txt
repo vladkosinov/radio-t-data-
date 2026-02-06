@@ -1,0 +1,5 @@
+Episode: 360
+Classification: MIXED
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of JavaScript developers working with backend API mocking. Separation of JavaScript code from backend logic. Frontend developers testing with mock servers.
+Key quotes: Ты же работаешь с этими джаваскриптовыми программистами. | он, по-моему, так как раз и тестировал, пока у меня ходовая часть не была готова.

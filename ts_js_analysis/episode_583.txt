@@ -1,0 +1,5 @@
+Episode: 583
+Classification: SUBSTANTIVE
+TS mentions: 4 | JS mentions: 21 | Total: 25
+Summary: Extended comparison of JavaScript versus Java across industry verticals. Discussion covers JavaScript's dominance in web development, Express.js as the default framework, talent gaps between theory and industrial practice, and how framework knowledge gaps create a wide range of experience levels among JavaScript developers.
+Key quotes: [Umputun]: Вот этот паттерн, который крайне редко нужен для нормальных людей, он действительно настолько часто нужен в JavaScript?

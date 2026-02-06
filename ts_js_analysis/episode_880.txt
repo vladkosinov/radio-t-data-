@@ -1,0 +1,6 @@
+Episode: 880
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of early web technologies, mentions Theo's pride in writing first single-page application in JavaScript in 2005.
+Key quotes: Он с гордостью пишет, что написал первый single-page application на JavaScript в 2005 году.
+  | Типа в Джаваскрипте это, ну, мы уже, мне кажется, про это много раз говорили, можно еще раз потоптаться, конечно.

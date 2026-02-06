@@ -1,0 +1,6 @@
+Episode: 943
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Comparing JavaScript ecosystem to a zoo, metaphorical mention without technical content.
+Key quotes: Ну, как зоопарк в JavaScript.
+  | И сейчас его, естественно, жизнь чистая, шелковистая, ничего не падает, все работает прекрасно, и он говорит, что я работал на языках Python, Go, JavaScript, везде все плохо, все не работает, на кложе все работает.

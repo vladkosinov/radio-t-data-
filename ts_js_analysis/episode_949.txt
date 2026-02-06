@@ -1,0 +1,5 @@
+Episode: 949
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Umputun briefly mentions someone's Tetris game from 10 years ago was written in "pure JavaScript or TypeScript" as a demo example. The focus is on the test infrastructure complexity, not on TS/JS features themselves.
+Key quotes: "который в вебе работает, в виде демонстрационного примера, как писать на чистом джаваскрипте или тайпскрипте"

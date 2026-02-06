@@ -1,0 +1,5 @@
+Episode: 191
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of JavaScript performance improvements related to Squirrelfish interpreter and Flash emulation capabilities. Discussion is minimal - mentioning that empty loops execute faster with Squirrelfish (20k vs 10k per second) and that JavaScript can detect and load Flash or emulate it via GrayStripe. No substantial technical analysis of JavaScript features or capabilities.
+Key quotes: "пустой цикл... на Adobe Air выполнялся там... 10 тысяч раз в секунду, сейчас он будет выполняться 20 тысяч раз в секунду, потому что они переехали на Squirrelfish" (empty loop used to run 10k times/second on Adobe Air, now 20k because of Squirrelfish); "На JavaScript ты сначала определяешь, есть ли у пользователя флеш, и если нет, то он как бы загружается в режиме эмуляции" (In JavaScript you detect if user has Flash, if not it loads in emulation mode)

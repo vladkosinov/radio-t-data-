@@ -1,0 +1,5 @@
+Episode: 453
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript and CSS as web application assets. No substantive discussion of technology, just listing asset types alongside images.
+Key quotes: [Umputun]: Первым делом чуваки переписали все на свете, потому что все на свете, что касается JavaScript и HTML | [Umputun]: Мы понимаем, что из этих 80 мегабайт, наверное, 60 занимают разные CSS, картинки и прочие джаваскрипты.

@@ -1,0 +1,5 @@
+Episode: 762
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of JavaScript in anecdote about someone's background and language choices. Mention of JavaScript as contrast to C programming. Used as passing reference in biographical context rather than technical discussion of the language.
+Key quotes: "Занимается разработкой на JavaScript" (Works on JavaScript development). Used as descriptor rather than substantive technical discussion. Language mentioned as part of career path narrative.

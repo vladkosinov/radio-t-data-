@@ -1,0 +1,5 @@
+Episode: 765
+Classification: MIXED
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Hosts discuss JavaScript as a study option and compare it to Python for learning. They touch on NPM ecosystem reliability and the problem of JavaScript having too many dependencies and slow build tools, with sarcastic remarks about JavaScript tooling compared to Python.
+Key quotes: "То есть на JavaScript такой замечательный язык, что на нем даже тулзы для JavaScript описать нельзя" (JavaScript is such a wonderful language that you can't even describe JavaScript tools in it) | "15 миллионов зависимости, а во-вторых, это очень медленно" (15 million dependencies, and secondly, it's very slow)

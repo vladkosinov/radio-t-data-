@@ -1,0 +1,5 @@
+Episode: 593
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Passing mention of JavaScript in broader technology discussion without substantive focus.
+Key quotes: [Ksenks]: И вот они хотят тебе помочь найти, но они не знают, вот как бы связать твои запросы, ты там пишешь что-нибудь, я не знаю, надо какой-нибудь язык, например, не очень популярный, не JavaScript, а Erlang.

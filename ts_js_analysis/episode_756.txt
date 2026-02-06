@@ -1,0 +1,5 @@
+Episode: 756
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: Technical discussion of JavaScript performance optimization in Chrome/V8 engine. Detailed explanation of compilation pipeline: interpreter → Sparkplug compiler → TurboFan optimizer, with 23% performance improvement achieved. Discussion of Nginx support for JavaScript configuration scripting. Philosophical debate about whether JavaScript is necessary for modern web infrastructure, with skepticism from some hosts about DSLs using JavaScript and immutable data structures in JavaScript causing performance issues.
+Key quotes: "Каждый день Хром выполняет 90 лет джаваскрипта" (Chrome executes 90 years of JavaScript per day). "На 23% ускоряется выполнение джаваскрипта" (23% faster JavaScript execution achieved through Sparkplug). Technical discussion of JavaScript compilation and optimization strategies.

@@ -1,0 +1,5 @@
+Episode: 971
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Gray mentions that Grok AI recommended transitioning to TypeScript, while another AI provided detailed recommendations. Umputun questions why a native application would need JavaScript. Brief mentions of language choice without substantive discussion of features.
+Key quotes: "перейдите на TypeScript, ну, вот сделайте вот это" | "Может JavaScript какой-нибудь"

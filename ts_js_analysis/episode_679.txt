@@ -1,0 +1,5 @@
+Episode: 679
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: Discussion of JavaScript prototype inheritance implementation compared to Lua. Arguments about JavaScript's strange prototype system. Acknowledgment that JavaScript has certain elegance despite its flaws. Discusses nature of quirky languages and their usage.
+Key quotes: "прототипное наследование его реализации в JavaScript не самое удачное" | "кроме JavaScript есть второй язык... у которого тоже прототипы... это луа"

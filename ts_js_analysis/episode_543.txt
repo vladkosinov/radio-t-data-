@@ -1,0 +1,7 @@
+Episode: 543
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Первым делом чуваки переписали все на свете, потому что все на свете, что касается JavaScript и HTML, ну, флаг им в руки."
+  - "Ну, там ты отдаешь JPEG и PNG, а тут ты отдаешь JavaScript и CSS."

@@ -1,0 +1,5 @@
+Episode: 152
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Technical comparison of JavaScript engine performance across browsers. Hosts discuss Google Chrome's JavaScript speed relative to Safari, Firefox (TraceMonkey), Opera, and Adobe's Flash engine. Extensive benchmarking discussion showing Chrome is slower than Safari and similar to or slower than Firefox. Analysis covers how Chrome wins not through JavaScript speed but through being a minimal, clean browser without extensions. Discussion emphasizes the practical implications of JavaScript performance for real applications.
+Key quotes: "если сравнивать интерпретаторы JavaScript'а... то нет, он сейчас не самый быстрый. Он медленнее Safari" (if comparing JavaScript interpreters, Chrome is now not the fastest - it's slower than Safari); "Google Chrome берет... не по скорости вот этой самой, не бешеной интерпретацией JavaScript, а тем, что это браузер, в котором ничего нет" (Chrome wins not through raw JS speed but because it's a minimal browser)

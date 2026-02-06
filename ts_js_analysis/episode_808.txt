@@ -1,0 +1,5 @@
+Episode: 808
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript in context of serverless functions, Digital Ocean functions, and JSDoc. The mentions are incidental technical references without substantive discussion of JavaScript features or ecosystem.
+Key quotes: "Засовывай, что на Джаваскрипте кусочки, они там где-то запускаются" (Just throw some JavaScript pieces in, they run somewhere)

@@ -1,0 +1,5 @@
+Episode: 379
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Extended JavaScript discussion covering Angular framework, JSON as native format, functional reactive programming concepts. Comparison with Python and performance implications.
+Key quotes: Они пишут на голом джаваскрипте, Женя. | Не забывай просто, что для JavaScript, JSON, это примерно как, не знаю, как если ты писал еще когда-то с прямым доступом к памяти

@@ -1,0 +1,6 @@
+Episode: 944
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Umputun describes writing JavaScript script running inside MongoDB for data analysis.
+Key quotes: Ну, грубо говоря, написал на JavaScript скриптик, который запустил внутри Монге, который распечатал мне по всем коллекциям их размеры и вот это все.
+  | Как только ты видишь где-то приложение на джаваскрипте где-нибудь, там время типа 1.1.1970, ты понимаешь, наверняка нагло написано.

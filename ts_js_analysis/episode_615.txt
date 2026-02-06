@@ -1,0 +1,5 @@
+Episode: 615
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief isolated mention of JavaScript without substantive discussion.
+Key quotes: [Gray]: этой формочки, ты идешь туда и вставляешь себе JavaScript, и все.

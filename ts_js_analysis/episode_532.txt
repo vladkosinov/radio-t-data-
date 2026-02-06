@@ -1,0 +1,7 @@
+Episode: 532
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: JavaScript/Node.js for server-side development and backend programming is discussed.
+Key quotes:
+  - "Ну, я бы сказал, что JavaScript в любом случае здесь будет медленнее, чем Lua, потому что с практической точки зрения Lua довольно быстрый язык."
+  - "Нет, они хотят как замену Node.js вот"

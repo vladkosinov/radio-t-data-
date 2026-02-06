@@ -1,0 +1,5 @@
+Episode: 369
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: Discussion of JavaScript IDEs (WebStorm), Node.js architecture, Nashorn engine replacing Rhino, performance improvements. Technical deep-dive into JavaScript tooling.
+Key quotes: когда он перешел в область JavaScript и всего этого клавинского, говорит, лучше WebStorm, а ничего нет. | совершенно новый engine, который будет исполнять JavaScript, работает в 10 раз быстрее, чем Rhino.

@@ -1,0 +1,5 @@
+Episode: 401
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: MongoDB queries and scripting in JavaScript. Discussion of JavaScript expressiveness compared to Lisp, macro systems.
+Key quotes: Ты можешь написать запросик на джаваскрипте, который возьмет метаданные, сделает in в данных | если к JavaScript прикрутить свит, то он становится тоже довольно выразительным языком за счет макросов.

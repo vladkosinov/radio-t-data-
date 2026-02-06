@@ -1,0 +1,5 @@
+Episode: 113
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Technical discussion comparing Flash and JavaScript ecosystems. Bobuk explains that Flash internally uses ActionScript (based on JavaScript) running on AVM 2 (Abstract Virtual Machine, not Java VM), which already has a Just-In-Time compiler. Discussion covers how new browser JavaScript engines (like those in recent Chrome releases) are being compared to Flash performance, and how Adobe's Tamarin JavaScript engine (extracted from Flash) actually outperforms the new browser JS engines.
+Key quotes: "Flash внутри себя действительно использует в качестве основного языка JavaScript, точнее ActionScript реализации 2" (Flash internally uses JavaScript, specifically ActionScript implementation 2); "JavaScript-овый энджайн... по производительности уделывает все эти жалкие попытки написать нормальный JavaScript-интерпретатор" (JavaScript engine beats all these pitiful attempts at proper JavaScript interpreters)

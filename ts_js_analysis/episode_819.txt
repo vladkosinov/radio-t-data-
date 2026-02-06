@@ -1,0 +1,5 @@
+Episode: 819
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: Extended discussion about JavaScript's role in web security and iOS restrictions on JavaScript injection. Hosts debate Apple's security policy restricting JavaScript injection into web views, discuss how JavaScript enables password manager features, and examine the tension between security and functionality, illustrating JavaScript's critical role in web security infrastructure.
+Key quotes: "Там есть возможность выполнить джаваскрипт в контексте открытой страницы" (There's the ability to execute JavaScript in the context of an open page) | "Как пароли вставляются? Ты думаешь, не JavaScript?" (How are passwords inserted? Do you think it's not JavaScript?) | "между набором специализированных API и между тем что вставлять любой JavaScript просто чудовищная пропасть" (There's a chasm between specialized APIs and just injecting any JavaScript)

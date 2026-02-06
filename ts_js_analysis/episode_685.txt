@@ -1,0 +1,4 @@
+Episode: 685
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Brief mention of JavaScript in security context regarding cookie handling and authentication. Mentioned in passing without substantive discussion of JavaScript-specific features.

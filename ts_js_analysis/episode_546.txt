@@ -1,0 +1,7 @@
+Episode: 546
+Classification: MIXED
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "пойдет и весь мир с собой захватит, и JavaScript с собой заменит, и Android разработку заменит."
+  - "И я думаю, у них так, ну подождут, еще годик подождут, не так быстро, это же не JavaScript мир какой-то, то есть не Samsung, прости господи, а как бы настоящий мир, настоящих программистов типа Apple."

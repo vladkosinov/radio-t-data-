@@ -1,0 +1,5 @@
+Episode: 972
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: They discuss the evolution of JavaScript ecosystem from early Node.js+MongoDB (dynamic language + dynamic database) pattern to modern Node.js+TypeScript+structured databases with schemas. AndreyDotNet notes the original pattern was problematic and lacked structure. Shows discussion of how the JavaScript ecosystem learned and evolved toward better practices.
+Key quotes: "Node.js плюс MongoDB, то есть динамический язык JavaScript плюс MongoDB, тоже динамический, где ничего не структурировано, и это вообще такой ад" | "связка скорее это Node.js с TypeScript, плюс какая-нибудь все-таки база со схемой"

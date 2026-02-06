@@ -1,0 +1,5 @@
+Episode: 713
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 8 | Total: 11
+Summary: Detailed discussion of JavaScript popularity and language rankings from industry surveys. Specific statistics given: JavaScript 70, Python 56, Java 55, TypeScript 28, C++ 27. Discussion of JavaScript learning materials, ecosystem diversity (backend/frontend switching), and how TypeScript/C++ are comparable in adoption. Philosophical debate about language communities and their diversity.
+Key quotes: "ТОП-5 для мира это JavaScript, Python, Java. Причем они разделяются JavaScript 70, Python 56, Java 55, TypeScript 28. И C++ 27" (TOP-5 globally: JavaScript 70, Python 56, Java 55, TypeScript 28, C++ 27). Discussion of JavaScript as enabling developers to work across full stack.

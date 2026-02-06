@@ -1,0 +1,5 @@
+Episode: 689
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of JavaScript library for PDF report generation in browser. Explains marketing shift from open library to mandatory proprietary library. Shows evolution of JavaScript ecosystem library adoption patterns.
+Key quotes: "наша JavaScript-библиотека так хороша... обязательно стройте отчеты только нашей библиотекой"

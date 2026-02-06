@@ -1,0 +1,5 @@
+Episode: 574
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion lists JavaScript among the least-liked programming technologies along with PHP and C++. Brief mention of Node.js package management and its role in reducing code duplication. Context shifts between language popularity rankings and package management ecosystems.
+Key quotes: [Umputun]: Из того, что интересно простым людям, трудящимся, которые на PHP пишут и на прочих JavaScript, они решили убить все семейство.

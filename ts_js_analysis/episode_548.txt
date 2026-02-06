@@ -1,0 +1,7 @@
+Episode: 548
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: JavaScript and related web technologies are discussed extensively.
+Key quotes:
+  - "Ты уж скорее сказал, взяли бы JavaScript, припиндюрили к нему интерфейсы, и получился бы Go."
+  - "Но это же не означает, что JavaScript и PHP хорошие средства для написания сложных систем."

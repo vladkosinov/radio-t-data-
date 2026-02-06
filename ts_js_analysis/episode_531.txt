@@ -1,0 +1,7 @@
+Episode: 531
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Есть терминал, который на JavaScript."
+  - "То есть, если вам важно писать один раз и на JavaScript, то есть у вас есть знание, например, JavaScript, и вам это намного удобнее, чем изучать нативные технологии, и вы хотите сразу пройти обе платформы, да, то есть вам в React Native, по крайней мере, посмотреть, на что он может и что он умеет."

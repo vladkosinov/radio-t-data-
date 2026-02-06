@@ -1,0 +1,5 @@
+Episode: 678
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: In-depth discussion of JavaScript language design flaws: "this" keyword, prototype inheritance, immutability issues. Explains JavaScript was hastily designed Lisp interpreter converted to C-like syntax. Shows how rapid development led to quirks. References "JavaScript WAT" presentation.
+Key quotes: "ключевое слово this, прототипное наследование, нехватка имитабельности - три основных причины путаницы" | "изначально это реально был интерпретатор Lisp, который по-быстрому переделали"

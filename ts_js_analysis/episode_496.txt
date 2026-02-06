@@ -1,0 +1,7 @@
+Episode: 496
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "О, вы знаете JavaScript."
+  - "Все писал бы на JavaScript."

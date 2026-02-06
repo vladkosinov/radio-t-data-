@@ -1,0 +1,5 @@
+Episode: 166
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of JavaScript code theft in a plagiarism incident. Chinese outsourcers copied significant portions of JavaScript (along with CSS) from Plurk.com's site for a Chinese MSN microblogging service without permission. This illustrates typical behavior of outsourcers. While brief, it's substantive as it discusses a specific JavaScript code reuse incident and its implications for Web 2.0 applications.
+Key quotes: "эти самые анонимные аутсорсеры... просто в наглую взяли почти весь JavaScript с сайта Plurk.com и просто в наглую передрали его без особых даже изменений" (these outsourcers brazenly copied almost all JavaScript from Plurk.com without even changing it); "Украли CSS, украли JavaScript, самое главное" (They stole CSS and JavaScript - the important parts)

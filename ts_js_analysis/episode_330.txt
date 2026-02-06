@@ -1,0 +1,5 @@
+Episode: 330
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JSON format and JavaScript client-side usage. Compares JSON with Protobuf and MessagePack formats. Mentions JavaScript as client-side choice.
+Key quotes: Зато он прекрасно работает в клиентской стороне на JavaScript, например, в отличие от Protobuf. | мне, когда надо чего-то в JavaScript отдавать, то есть на client-сайт, я не заморачиваюсь и Джейсона даю.

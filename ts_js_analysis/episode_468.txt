@@ -1,0 +1,5 @@
+Episode: 468
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Comparison of Go language benefits for developers transitioning from JavaScript or PHP. Discussion focuses on type safety and safety features lacking in JavaScript.
+Key quotes: [Bobuk]: Слушай, но с этой точки зрения проще писать на JavaScript тогда, нет? | [Umputun]: У меня есть смутное подозрение, что люди, которые ловят кайф от перехода на Go, это люди, которые с JavaScript на него переходят

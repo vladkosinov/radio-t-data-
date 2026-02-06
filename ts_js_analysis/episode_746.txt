@@ -1,0 +1,5 @@
+Episode: 746
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 26 | Total: 32
+Summary: Guest developer discussion about JavaScript performance in real-world applications and Node.js. Technical discussion of JavaScript event handling in DOM manipulation, performance implications of interactive event-driven architectures. Extended debate about frontend vs server-side rendering paradigm, arguing that Node.js enables template sharing between server and client. Philosophical discussion about JavaScript developers' frustrations with current framework architecture vs simpler server-centric approaches.
+Key quotes: "Если говорить про то, как работают события на страничке у нас в JavaScript" (Discussing how events work in JavaScript on pages). "Фронтендеры говорят, что зачем нам делать что-то два раза, если мы можем взять наш красивый JavaScript, рендерить его на сервере, благо есть Node.js" (Developers want to use the same JavaScript templates on server and client via Node.js). Extended technical debate about architecture patterns.

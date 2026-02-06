@@ -1,0 +1,5 @@
+Episode: 779
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Brief mention of JavaScript, TypeScript, and other skills appearing in job postings for recruiters. The hosts mockingly cite absurd job requirements that list random skills including "Mia Khalifa" alongside programming languages, pointing to clueless recruitment practices.
+Key quotes: "В каждой строчке, типа, эксперт в JavaScript, TypeScript, Node.js, React.ai, Mia Khalifa" (Every line like: expert in JavaScript, TypeScript, Node.js, React.ai, Mia Khalifa)

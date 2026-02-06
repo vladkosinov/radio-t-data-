@@ -1,0 +1,5 @@
+Episode: 463
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: Discussion of Nginx adding JavaScript support as alternative to Lua scripting language. Hosts debate whether this is true JavaScript or a subset for backend server scripting.
+Key quotes: [Umputun]: О, у нас дальше Nginx, который умеет JavaScript запускать теперь. | [Ksenks]: Это, я так понимаю... Подмножество JavaScript. Ну да, это нечто на основе JavaScript.

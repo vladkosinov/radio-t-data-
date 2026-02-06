@@ -1,0 +1,5 @@
+Episode: 753
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript's tracking capabilities in context of AWS Lambda language support tiers. Mentions that JavaScript (via Node.js) is in AWS's first-class language tier, but no substantive discussion of the language itself or its ecosystem.
+Key quotes: "Могут JavaScript-ом отслеживать" (Can track with JavaScript). Brief mention of JavaScript as one of the first-class languages AWS supports. Mostly passing reference without technical depth.

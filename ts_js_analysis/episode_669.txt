@@ -1,0 +1,5 @@
+Episode: 669
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of Nim language compile-to-JavaScript capability. Compares compilation targets (JavaScript vs WebAssembly). Discusses JavaScript not being ideal target but providing compatibility and browser access through DOM integration.
+Key quotes: "у него есть возможность компиляции в JavaScript" | "есть готовая библиотека для работы с домом"

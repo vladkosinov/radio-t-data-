@@ -1,0 +1,5 @@
+Episode: 804
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 16 | Total: 18
+Summary: Extensive discussion about JavaScript ecosystem culture, library stability patterns, constant rewrites in JavaScript tools (like React Router, SASS), and comparing it to Go ecosystem maturity. Hosts discuss CDK (JavaScript for infrastructure), framework churn, how JavaScript has both stable and unstable worlds, and why developers stick with JavaScript despite these issues.
+Key quotes: "В JavaScript есть мир стабильный, а мир нестабильный" (JavaScript has both a stable and unstable world) | "культура, то есть, например, что-то гуглить... то она будет актуальна... А в джаваскрипте нет" (culture, meaning if you search for something, it will be relevant... but not in JavaScript)

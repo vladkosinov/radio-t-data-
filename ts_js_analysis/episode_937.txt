@@ -1,0 +1,6 @@
+Episode: 937
+Classification: MIXED
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Alek compares Language Server Protocol implementations, noting TypeScript and IntelliJ have good support.
+Key quotes: Даже такие прокачанные, как, казалось бы, типа TypeScript, типа IntelliJ, просто, я не знаю, делают все абсолютно лучше.
+  | Не решаем ли мы вот эти проблемы, как джаваскриптисты любят решать?

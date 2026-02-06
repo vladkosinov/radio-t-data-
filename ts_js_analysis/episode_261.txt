@@ -1,0 +1,5 @@
+Episode: 261
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Mentions of Codecademy as a JavaScript learning platform and brief references to JavaScript education. Discussion is primarily about the platform's teaching methods and real feedback mechanisms rather than substantive JavaScript technical content. JavaScript is mentioned as the subject being taught but not discussed in terms of features, capabilities, or technical aspects.
+Key quotes: "Это такой замечательный сайт, который придумал новый способ обучения... JavaScript" (It's a remarkable site that invented a new way to teach JavaScript); "там обратная связь реальная" (there's real feedback); "Пока не выучу JavaScript, о креативности забудь" (Until you learn JavaScript, forget about creativity)

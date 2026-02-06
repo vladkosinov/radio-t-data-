@@ -1,0 +1,5 @@
+Episode: 461
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of Node.js in context of language popularity trends. Ruby developers migrating to Node.js JavaScript mentioned as a market shift.
+Key quotes: [Umputun]: А вот это IOGS — это big deal в мире JavaScript? | [Bobuk]: Все, кто писали раньше на Руби, теперь пишут на ноде JS, на JavaScript.

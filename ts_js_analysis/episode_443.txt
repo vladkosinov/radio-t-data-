@@ -1,0 +1,5 @@
+Episode: 443
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of Dart language's history and compilation strategy. Hosts explain Dart was originally designed for JavaScript compilation and now compiles to it as a fallback strategy.
+Key quotes: [Bobuk]: Dart — это язык, который изначально был предназначен для компилирования в JavaScript. | [Umputun]: Нет, оно сейчас есть, но они собираются компилировать это в JavaScript.

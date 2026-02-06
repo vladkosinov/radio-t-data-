@@ -1,0 +1,5 @@
+Episode: 116
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: Extensive discussion of JavaScript as a platform for modern web applications. Hosts debate whether JavaScript can serve as a viable platform for high-performance applications, comparing it to Silverlight and Adobe Air. Discussion covers high-performance JavaScript, GWT (Google Web Toolkit), Chrome's emphasis on fast JavaScript execution, and JavaScript's potential as a standard platform alongside C++ for desktop-like applications in browsers. PetrDidenko emphasizes that Chrome's main innovation is high-performance JavaScript as a foundation for complex web apps.
+Key quotes: "высокопроизводительный джаваскрипт" (high-performance JavaScript); "это одна в один конкурент, ну, или, похоже, клон Adobe... это попытка просто взять браузер и внутри него добавить API для JavaScript" (this is a direct competitor to Adobe, or rather an attempt to add JavaScript APIs inside the browser)

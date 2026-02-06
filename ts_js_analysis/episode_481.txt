@@ -1,0 +1,5 @@
+Episode: 481
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript library for hardware support in browsers. Mostly about video format replacement, JavaScript mentioned only in passing.
+Key quotes: [Bobuk]: У него там есть JavaScript-библиотечка, которая позволяет | [Gray]: Ну, на данный момент он заменяется JavaScript-фреймворком, который поддерживается во всех браузерах.

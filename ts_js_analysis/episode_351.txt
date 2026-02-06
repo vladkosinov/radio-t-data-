@@ -1,0 +1,5 @@
+Episode: 351
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Bootstrap framework discussion with JavaScript event handling. Mentions Python/Ruby/Node.js bindings. JavaScript is part of broader framework discussion.
+Key quotes: даже некоторые события, происходящие с этими формами, можно неким образом задать. | есть привязка только к JavaScript, Python и Ruby.

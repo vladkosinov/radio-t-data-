@@ -1,0 +1,6 @@
+Episode: 933
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Gray mentions new capability to write JavaScript code (unclear if discussing new tool feature or language support).
+Key quotes: Что они умеют JavaScript теперь писать.
+  | Код писать на JavaScript.

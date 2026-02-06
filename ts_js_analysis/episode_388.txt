@@ -1,0 +1,5 @@
+Episode: 388
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Angular JavaScript framework discussion and hiring JavaScript developers. Practical experience with Angular learning curve and application development.
+Key quotes: Я ему его показал, он так вначале возбудился, говорит, красиво | один из наших орлов посмотрел на Angular JavaScript, не видя его в жизни вообще никогда до этого, и через две недели написал «все».

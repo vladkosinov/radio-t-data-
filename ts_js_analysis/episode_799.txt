@@ -1,0 +1,5 @@
+Episode: 799
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief contextual mentions of JavaScript programmers and their approach to problem-solving. The mentions are used as comparison points without substantive discussion of JavaScript as a language or technology.
+Key quotes: "Наш программист на JavaScript, который написал статью, чем хороший программист отличается от плохого?" (Our JavaScript programmer who wrote an article about what makes a good programmer different from a bad one?)

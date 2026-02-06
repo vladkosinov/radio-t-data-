@@ -1,0 +1,5 @@
+Episode: 602
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 2 | Total: 4
+Summary: Discussion integrating both TypeScript and JavaScript in development context with focus on language capabilities.
+Key quotes: [Umputun]: Говорят, Леша, что пока ты со мной не познакомился, ты любил Spring, ненавидел Go, тепло отзывался о JavaScript и косо смотрел на Docker.

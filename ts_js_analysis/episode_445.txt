@@ -1,0 +1,5 @@
+Episode: 445
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of functional programming paradigms in JavaScript, state management, immutability, and React library patterns. Hosts debate JavaScript's functional capabilities and browser-based dynamic architecture.
+Key quotes: [AlexeyReact]: Да, корневая концепция, что у тебя есть immutable данные, есть специальные структуры данных для JavaScript, собственно, библиотеки структуры данных, immutable совершенно | [Umputun]: То есть у тебя JavaScript это такая рыба, которая дёргает по ресту данные, и в принципе странички у тебя нет, она вся динамически строится.

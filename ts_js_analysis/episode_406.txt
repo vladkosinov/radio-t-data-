@@ -1,0 +1,5 @@
+Episode: 406
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of JavaScript and CSS in context of language popularity statistics. No substantive discussion.
+Key quotes: у этой одной темы, которая там, темплей, JavaScript, CSS | Мне кажется, что тут не совсем это, потому что на втором-третьем месте с большим адресом JavaScript и Java.

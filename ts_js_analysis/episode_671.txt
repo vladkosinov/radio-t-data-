@@ -1,0 +1,5 @@
+Episode: 671
+Classification: MIXED
+TS mentions: 1 | JS mentions: 4 | Total: 5
+Summary: Discussion of blockchain smart contract languages. Mentions Ethereum uses JavaScript dialect while other systems use different languages. Notes JavaScript (and TypeScript) as dominant frontend language. Brief but covers important domain.
+Key quotes: "в Ethereum используется просто диалект джаваскрипта" | "80% всех программистов... пишет фронт-энд на JavaScript, TypeScript"

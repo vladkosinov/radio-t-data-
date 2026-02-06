@@ -1,0 +1,5 @@
+Episode: 441
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 18 | Total: 24
+Summary: Extensive technical discussion on Dart's compilation strategy, TypeScript adoption for Angular 2, and JavaScript performance comparisons. Expert (Budam) explains transpilation, productivity differences between languages, and ecosystem decisions.
+Key quotes: [Budam]: Angular 2 полностью переписывается. Действительно будет писать на TypeScript 1.5, который есть суперсет того, что называется ES6. | [Budam]: Значит, падение в продуктивности в пять раз примерно. То, что на Flex человек, хороший, грамотный инженер, мог сделать за день, на JavaScript надо делать за неделю.

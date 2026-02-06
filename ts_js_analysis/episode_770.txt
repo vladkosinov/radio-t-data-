@@ -1,0 +1,5 @@
+Episode: 770
+Classification: SUBSTANTIVE
+TS mentions: 9 | JS mentions: 6 | Total: 15
+Summary: Extended discussion about TypeScript adoption and criticism among developers. Bobuk argues against completely replacing JavaScript with TypeScript, while Alek.sys defends TypeScript's type system as elegant and effective, noting that developers who actually learn TypeScript properly appreciate it. They discuss "cargo cult TypeScript" in outsourcing and broader ecosystem attitudes.
+Key quotes: "Аlek.sys]: Я не знаю ни одного человека, который бы сказал, блин, не, дай-ка я брошу это все, я буду теперь писать только на JavaScript с этих пор" (I don't know anyone who said they'd drop TypeScript and only write JavaScript) | "система типов, наверное, одна из самых таких... приятных" (the type system is probably one of the most... pleasant)

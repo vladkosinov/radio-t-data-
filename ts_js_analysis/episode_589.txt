@@ -1,0 +1,5 @@
+Episode: 589
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 14 | Total: 15
+Summary: Discussion comparing TypeScript and JavaScript in relation to type safety and development practices. Covers use cases for TypeScript adoption and comparison with other typed language alternatives.
+Key quotes: [Umputun]: Самая популярная технология JavaScript.

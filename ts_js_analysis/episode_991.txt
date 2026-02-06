@@ -1,0 +1,5 @@
+Episode: 991
+Classification: SUBSTANTIVE
+TS mentions: 4 | JS mentions: 7 | Total: 11
+Summary: Umputun discusses JavaScript bloat on modern websites (2MB JavaScript per page), questions why WebAssembly hasn't replaced JavaScript for performance. He shares personal experience writing TypeScript for three days and found it to be a solid, normal language. Discussion notes TypeScript and C# share designer Andreas Helsberger and explores how LLMs understand algorithms across programming languages.
+Key quotes: "человек, заходя на сайт с современным движком, грузит себе 2 мегабайта всего JavaScript" | "TypeScript прям нормальный язык такой. Я на TypeScript пописал дня три. Ну, реально нормальный язык"

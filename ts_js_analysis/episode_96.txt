@@ -1,0 +1,5 @@
+Episode: 96
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript mentioned only in context of job market statistics and language demand. The hosts discuss survey data showing JavaScript as one of many languages with job availability, connecting it to broader themes about oversupply of developers who learned Linux and open-source skills without real market demand. No substantive discussion of JavaScript features, technology, or use cases.
+Key quotes: "JavaScript вырос незначительно, однако области предоставляет наиболее богатое предложение вакансий open source на рынке труда" (JavaScript grew slightly but the area provides abundant open source job offers); "рынок труда Linux и вообще open-source разработчиков переполнен" (the job market for Linux and open-source developers is oversaturated)

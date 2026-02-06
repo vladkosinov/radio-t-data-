@@ -1,0 +1,5 @@
+Episode: 413
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript browser implementation. Minimal technical discussion.
+Key quotes: Это браузер, который целиком написан на джаваскрипте, кроме rendering engine | Слава богу, что не на PHP, да?

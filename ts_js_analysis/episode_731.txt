@@ -1,0 +1,5 @@
+Episode: 731
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript in context of 1C platform programming, with a joke about someone writing in JavaScript vs Ireland language. No substantive technical discussion - just passing references in anecdotal context.
+Key quotes: "1С с джаваскриптом, вы знаете, это такая связка" (1C with JavaScript is such a combination). Used as a punchline rather than technical analysis.

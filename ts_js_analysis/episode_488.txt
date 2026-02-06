@@ -1,0 +1,5 @@
+Episode: 488
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Criticism of Atom editor written in JavaScript, combined with Stack Overflow survey showing JavaScript's dominance. Mixed discussion of editor implementation and ecosystem trends.
+Key quotes: [Bobuk]: Он же там внутри на джаваскрипте, ну, как бы аккуратно это выразится. | [Umputun]: Слушайте, я тут с JavaScript миром прикоснулся на днях. До сих пор руки отмыть не могу.

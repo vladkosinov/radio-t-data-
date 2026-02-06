@@ -1,0 +1,5 @@
+Episode: 38
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of JavaScript library integration challenges in Gmail and Google Reader. Hosts explain that Google hasn't integrated necessary JavaScript libraries into Gmail yet, but Google Reader (being more "geek-oriented") is where JavaScript integration features are being tested. The open-source Google Jers extension with example JavaScript code is highlighted as a promising technology.
+Key quotes: "В Gmail они просто еще не интегрировали вот этот набор библиотек, которые необходимы внутри JavaScript" (Google hasn't integrated necessary JavaScript libraries into Gmail); "это очень перспективная технология" (this is a very promising technology)

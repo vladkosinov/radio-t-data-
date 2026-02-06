@@ -1,0 +1,5 @@
+Episode: 115
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of JavaScript in the context of comparing different web technologies (Adobe Air, Silverlight, JavaScript with AJAX). JavaScript is mentioned only as one option among several platform choices, with no substantive technical discussion of JavaScript itself. The hosts express concern about technology choices but don't elaborate on JavaScript-specific features or capabilities.
+Key quotes: "Silverlight, ну и JavaScript с AJAX-ами вытеснить с этой области" (Silverlight and JavaScript with AJAX will displace from this area); "Ну, нормальные люди как бы это скрыли где-нибудь, сделали бы на джаваскрипте" (Normal people would hide this somewhere, do it in JavaScript)

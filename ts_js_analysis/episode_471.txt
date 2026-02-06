@@ -1,0 +1,5 @@
+Episode: 471
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 5 | Total: 8
+Summary: Discussion of TypeScript and Dart for backend server development with Node.js. Hosts debate whether these languages are suitable for microservices and business logic.
+Key quotes: [Alek.sys]: Можно двигаться, например, в сторону каких-нибудь типа TypeScript, Dart или тому подобных. | [Alek.sys]: Если надо, например, бизнес-логику написать, то подойдет как раз какой-нибудь такой вот типа TypeScript или Dart

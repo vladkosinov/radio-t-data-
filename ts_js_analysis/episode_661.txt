@@ -1,0 +1,5 @@
+Episode: 661
+Classification: SUBSTANTIVE
+TS mentions: 7 | JS mentions: 23 | Total: 30
+Summary: Extensive discussion of WebAssembly as JavaScript replacement enabling other languages to compile to browser runtime. Explains JavaScript advantage being native for browsers. Discusses Angular framework complexity. Explores JSX mixing HTML with JavaScript code.
+Key quotes: "JavaScript... теряет такое свое главное преимущество... перестает быть нативным для браузера" | "многие очень любят JSX... смесь из тегов и джаваскрипта"

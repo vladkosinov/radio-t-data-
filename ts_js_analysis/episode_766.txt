@@ -1,0 +1,5 @@
+Episode: 766
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 5 | Total: 8
+Summary: Hosts discuss programming language rankings showing TypeScript as 3rd most loved and JavaScript as most commercially used. They debate TypeScript adoption among frontend developers, noting that many don't understand why they should use it, though Bobuk advocates strongly for it.
+Key quotes: "Особенно с учетом того, что у меня сейчас недавно тут был разговор с частью фронтендеров, которые не очень хотят переходить на TypeScript, потому что вообще не понимают, зачем им" (Especially considering I recently spoke with some frontend developers who don't want to switch to TypeScript because they don't understand why) | "Я не знаю, почему украинские аутсорсеры выходят с TypeScript" (I don't know why Ukrainian outsourcers are into TypeScript)

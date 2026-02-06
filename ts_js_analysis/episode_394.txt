@@ -1,0 +1,5 @@
+Episode: 394
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of MongoDB's native JavaScript language. No substantive discussion of the technology.
+Key quotes: За Монге нативный язык, это джаваскрипт вообще. | я сам на джаваскрипте не умею.

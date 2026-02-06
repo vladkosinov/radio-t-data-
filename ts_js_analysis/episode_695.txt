@@ -1,0 +1,4 @@
+Episode: 695
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of JavaScript feature detection in browsers. Technical mention without substantive discussion.

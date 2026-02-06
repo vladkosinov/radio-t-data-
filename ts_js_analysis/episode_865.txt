@@ -1,0 +1,6 @@
+Episode: 865
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Language list (Python, Go, JavaScript) mentioned in documentation examples.
+Key quotes: Есть Python, Go и JavaScript.
+  | Python, Go и JavaScript?

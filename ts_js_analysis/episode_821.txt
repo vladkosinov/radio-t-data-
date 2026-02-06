@@ -1,0 +1,5 @@
+Episode: 821
+Classification: NAME-DROP
+TS mentions: 3 | JS mentions: 0 | Total: 3
+Summary: Brief mentions of TypeScript, Python, and Kotlin as language options for DSL (Domain Specific Language) implementation in a specific context. The mentions are incidental references to language availability without substantive technical discussion.
+Key quotes: "DSL для формирования ответа сервера на Kotlin, TypeScript и Python" (DSL for server response generation in Kotlin, TypeScript and Python)

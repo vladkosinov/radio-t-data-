@@ -1,0 +1,5 @@
+Episode: 989
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions that JavaScript developers love to over-engineer projects with layers of abstraction and callbacks. One mention about a startup making a JavaScript wrapper to execute requests from browser. Very passing references without detailed discussion.
+Key quotes: "люди любят просто JavaScript, питон, они просто реально любят обмазаться всем этим" | "стартап, который делает условный JavaScript в раппер"

@@ -1,0 +1,4 @@
+Episode: 649
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of NPM (Node Package Manager) for JavaScript package distribution on GitHub. Joke about NPM being chaotic but allowing anyone to publish. JavaScript mentioned in ecosystem context, not discussed substantively.

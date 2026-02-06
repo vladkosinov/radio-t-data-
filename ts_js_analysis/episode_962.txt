@@ -1,0 +1,5 @@
+Episode: 962
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 6 | Total: 12
+Summary: Alek.sys and Gray discuss JavaScript as good for rapid "wipe coding" but note TypeScript is better. They discuss Codex being originally written in JavaScript but later rewritten. The conversation explores language ecosystem preferences and how TypeScript developers would contribute differently to projects than JavaScript developers.
+Key quotes: "какие-то самые хорошие языки для вайп-кодинга это типа JavaScript" | "кодекс же был изначально написан на JavaScript, как код-код. А потом они поняли, что им что-то не нравится"

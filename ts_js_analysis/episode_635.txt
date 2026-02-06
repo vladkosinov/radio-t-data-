@@ -1,0 +1,5 @@
+Episode: 635
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 12 | Total: 17
+Summary: Discussion about project priorities comparing migrating frontend to TypeScript (estimated weeks/years) versus adding Twitter subscription link. Covers dependency management issues and JavaScript ecosystem inefficiencies. Hosts debate implications of major refactoring vs minor features.
+Key quotes: "Перенести фронтенд с JavaScript на TypeScript" - может быть годы, либо недели | "JavaScript-овики самые интересные сделали, но добивать как-то не добивают"

@@ -1,0 +1,7 @@
+Episode: 522
+Classification: MIXED
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Там было разумное предположение, что JavaScript, в принципе, неплохой язык для того, чтобы что-то сделать и что-то увидеть."
+  - "В мире Go, если тебя реально волнует этот вопрос, в мире Go написание UI в традиционном виде, которые не веб-UI, которые на самом деле не на Go, а на какой-нибудь Angular, JavaScript, React, где еще на электроне написаны, это вообще не актуальная задача."

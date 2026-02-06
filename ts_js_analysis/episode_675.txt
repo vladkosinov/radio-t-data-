@@ -1,0 +1,5 @@
+Episode: 675
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: Discussion of JavaScript ecosystem culture with extreme fragmentation - average 180+ dependencies per project. Discusses every code line potentially being separate repository/module in JavaScript. Compares with Java/Maven ecosystem.
+Key quotes: "Средний open source проект... зависит от 180" | "Джавовские проекты... мавин со 180 зависимостью это был бы крутой мавин"

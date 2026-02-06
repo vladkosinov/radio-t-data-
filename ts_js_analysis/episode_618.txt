@@ -1,0 +1,5 @@
+Episode: 618
+Classification: MIXED
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: Discussion with multiple JavaScript mentions in various development contexts but varying depth of analysis.
+Key quotes: [Umputun]: То бишь в value ты можешь записать кусок на JavaScript.

@@ -1,0 +1,6 @@
+Episode: 885
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Hosts identify guests as 'JavaScriptist' and 'Pythonist' based on their expertise.
+Key quotes: Один из которых джаваскриптист, другой питонист.
+  | Я не знаю, количество записей, потому что не в JavaScript, Tlone трудно сделать.

@@ -1,0 +1,6 @@
+Episode: 848
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: Hosts discuss the choice of template literal prefixes in different languages. They compare JavaScript's dollar-brace notation with TypeScript's approach and other languages like Rust (dollar-brace), Swift (slash-paren), and Go, analyzing design consistency across programming languages.
+Key quotes: То есть в этом, в джаваскрипте там знак доллара, здесь просто не выбрали слэш.
+  | А как сделано вызов функции в... Ну, я не знаю, в джаваскрипте тут, внутри этих... Точно так же.

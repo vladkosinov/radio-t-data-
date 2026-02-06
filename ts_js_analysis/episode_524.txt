@@ -1,0 +1,7 @@
+Episode: 524
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: JavaScript and related web technologies are discussed extensively.
+Key quotes:
+  - "То есть, я так понимаю, что значит на JavaScript."
+  - "Ну, это какой-то JavaScript подход."

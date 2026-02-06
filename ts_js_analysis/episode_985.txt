@@ -1,0 +1,5 @@
+Episode: 985
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Brief mentions that someone optimized a JavaScript Next.js dev mode for better performance. Gray notes TypeScript is the most-used language in Autumn 2025 survey data. Umputun confirms this ranking. Very passing mentions without substantive technical discussion.
+Key quotes: "оптимизировали производительность этого Dev-режима" | "TypeScript самый используемый язык. Ну, это, я думаю, тут я и не совсем"

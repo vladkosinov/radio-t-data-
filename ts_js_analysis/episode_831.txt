@@ -1,0 +1,5 @@
+Episode: 831
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 8 | Total: 9
+Summary: Hosts discuss UI automation testing frameworks, comparing Playwright for JavaScript/frontend testing to alternatives like Selenium. They discuss testing tools available for different languages (Kotlin, Python, JavaScript, TypeScript) and debate tool design philosophy and usability.
+Key quotes: "Playwright — это единственный нормальный инструмент" (Playwright is the only normal tool) | "Который на JavaScript написан, да?" (It's written in JavaScript, right?) | "Это не самый худший вариант" (It's not the worst option)

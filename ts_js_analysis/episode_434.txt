@@ -1,0 +1,5 @@
+Episode: 434
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Discussion of Google's decision to use TypeScript instead of their custom JavaScript variant for Angular 2. Hosts praise TypeScript as a significant improvement.
+Key quotes: [Gray]: Так, в Google для AngularJS 2 решили отказаться от собственного шейни JavaScript в пользу TypeScript. | [Bobuk]: Это очень круто, очень круто на самом деле. В смысле, это прямо офигенное решение, потому что TypeScript, правда, намного приятнее.

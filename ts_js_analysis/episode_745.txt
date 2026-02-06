@@ -1,0 +1,5 @@
+Episode: 745
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Brief mention of closures as a "unique feature" of JavaScript in discussion about language features and innovation. Mostly passing reference to JavaScript in broader discussion about Spectre vulnerability exploitation through browser JavaScript execution. No substantive discussion of JavaScript features or ecosystem.
+Key quotes: "Уникальная фича какого-нибудь там языка JavaScript – это замыкание" (A unique feature of JavaScript is closures). Brief mention without elaboration on closure mechanics or JavaScript's implementation.

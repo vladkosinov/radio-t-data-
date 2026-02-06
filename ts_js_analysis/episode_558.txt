@@ -1,0 +1,7 @@
+Episode: 558
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 8 | Total: 10
+Summary: TypeScript is discussed in the context of modern JavaScript development. JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "То есть за сколько я сделаю программиста на JavaScript с SQL-программистом, ну, мне кажется, это вопрос дней."
+  - "А вредно считать, что ты сейчас такой, я не знаю, полдня прочитал про MySQL, полдня прочитал про JavaScript, на следующее утро ты там, я не знаю, FullStack."

@@ -1,0 +1,5 @@
+Episode: 437
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 9 | Total: 10
+Summary: Discussion of transpilation to JavaScript and framework decisions. Covers Dart language strategy, React Native, TypeScript adoption in Angular, and comparisons between language features.
+Key quotes: [Umputun]: Ну, Dart, он же как JavaScript, только хороший. У него настоящая объектная модель, у него там инкапсуляция, как у людей. | [Bobuk]: Я бы сказал, что он по выразительности ближе к JavaScript 2.

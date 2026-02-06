@@ -1,0 +1,5 @@
+Episode: 683
+Classification: MIXED
+TS mentions: 3 | JS mentions: 24 | Total: 27
+Summary: Mixed discussion of JavaScript ecosystem comparing with Java, Python, PHP. Mentions TypeScript and JavaScript in context of C#/Delphi. Discussion of language sizes and developer preferences. Substantive but scattered focus.
+Key quotes: "не просто там HTML-очку, и вроде все делаешь вот так вот end-to-end" | "Джаваскрипт офигенный язык. Пишите все на Джаваскрипт"

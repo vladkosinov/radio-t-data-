@@ -1,0 +1,5 @@
+Episode: 421
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: JavaScript automation scripting for OS (MacOS). Discussion of Node.js ecosystem and CAPTCHA behavior detection using JavaScript. Technical patterns for security.
+Key quotes: теперь можно писать автоматизацию Макаси на джаваскрипте? | это кусок JavaScript, который... Подразумевается, что роботы не смогут расколоть

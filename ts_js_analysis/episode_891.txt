@@ -1,0 +1,6 @@
+Episode: 891
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Umputun mentions RadioT website implemented in JavaScript (and HTML) alongside other languages.
+Key quotes: Один язык это JavaScript, второй язык, если это язык HTML с CSS, третий язык это Go и четвертый язык это Python.
+  | только хотел уточнить, так сказать, уже по... Слушайте, а если есть вот этот, типа, SQL injection, да, есть JavaScript injection, а будет какой-то, типа, RadioT topic injection, то есть предложить такой тайтл, чтобы он так инжекнулся в теги, чтобы сломал парсер, не парсер, а генератор XML, он путуна.

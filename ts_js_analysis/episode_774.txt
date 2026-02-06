@@ -1,0 +1,5 @@
+Episode: 774
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Hosts discuss JavaScript's event-driven concurrency model compared to other languages like Swift/iOS. They explain how JavaScript handles async operations on the main thread, where tasks magically happen without blocking, which is an advantage compared to platforms without this built-in async support.
+Key quotes: "В JavaScript нет такой проблемы" (JavaScript doesn't have this problem) | "задачки как-то незаметны от тебя магическим образом" (tasks somehow invisibly happen magically for you) | "В JavaScript еще круче" (JavaScript is even cooler)

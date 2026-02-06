@@ -1,0 +1,5 @@
+Episode: 954
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 6 | Total: 9
+Summary: Alek.sys discusses JavaScript linters that auto-fix simple errors (like unused imports) and compares them with TypeScript's approach. Bobuk explains TypeScript's type system is more elegant and idiomatically cleaner than Python's typing, though both have trade-offs. Discussion of language tooling and type system design.
+Key quotes: "в TypeScript сделано, конечно, гораздо красивее и там идеологически чище" | "неиспользованный этот импорт. Блин, ты что, строчку не можешь удалить?"

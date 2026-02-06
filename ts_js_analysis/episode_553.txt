@@ -1,0 +1,7 @@
+Episode: 553
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript's market dominance and role as a programming language are discussed.
+Key quotes:
+  - "Я, кстати, еще хотела, Алексей сказал, сколько там Java лет, 50-100, но я просто так для контекста, Java всего 22 и куча языков появились раньше Java, то есть Java в 95-м году появилась вместе с PHP, JavaScript и, например, Python, Ruby, C, C++, все это появилось намного раньше."
+  - "Давай возьмем JavaScript, который тащит за собой несколько гигабайт в папке NodeModules, например, которые потом никому не нужны."

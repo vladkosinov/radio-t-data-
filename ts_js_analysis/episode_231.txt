@@ -1,0 +1,5 @@
+Episode: 231
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Technical discussion of JavaScript performance improvements in Internet Explorer. Hosts mention that JavaScript execution became faster in IE (using JIT compilation) and explain that modern browser development is driven by the need to support increasingly complex web applications with heavy JavaScript requirements. Brief technical discussion connecting JavaScript performance optimization to practical browser competition and application requirements.
+Key quotes: "JavaScript там стал летать. Мол, всех делает, как стоячих... в JavaScript-овом движке... JIT" (JavaScript started flying in IE - makes everything look slow - via JIT in the JavaScript engine); "кажется, в Хауме правильно начала работать какая-то сложная система, в которой такое количество джаваскрипта, что просто все залетало" (in Chrome, some complex system with so much JavaScript just flew)

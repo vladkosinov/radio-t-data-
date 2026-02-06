@@ -1,0 +1,5 @@
+Episode: 373
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Single-page JavaScript applications and CDN caching strategy. Explanation of why CDN distribution is beneficial for JavaScript files.
+Key quotes: Смотри, почему имеет смысл пользоваться CDN-ами для раздачи JavaScript-а? | Потому что если он у тебя уже, ты заходил на страницу, которая берет JavaScript с этого CDN-а, то у тебя этот JavaScript уже в кэше.

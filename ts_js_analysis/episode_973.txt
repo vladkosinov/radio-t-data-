@@ -1,0 +1,5 @@
+Episode: 973
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 5 | Total: 8
+Summary: Discussion about UI built in TypeScript with interactive features (table/list with expand capability). Alek.sys criticizes how JavaScript ecosystem constantly requires updates and changes—constant breakage due to unnecessary complexity in tooling. Ksenks mentions JavaScript code quantity now exceeds C code. The conversation focuses on JavaScript ecosystem bloat and excessive dependencies.
+Key quotes: "Ты все время занят какой-то ерундой. Какие-то апдейты там постоянно в этих джаваскриптов. Что-то все время ломается" | "вся эта помойка из джаваскриптов и прочее, она переусложняет очень простую проблему"

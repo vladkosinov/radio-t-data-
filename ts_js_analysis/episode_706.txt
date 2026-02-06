@@ -1,0 +1,4 @@
+Episode: 706
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Brief mention of JavaScript and TypeScript in context of language ecosystem adoption survey. Not substantively discussed.

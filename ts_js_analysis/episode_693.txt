@@ -1,0 +1,4 @@
+Episode: 693
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief technical mention of JavaScript code execution in antivirus sandbox context. Mentioned without substantive feature discussion.

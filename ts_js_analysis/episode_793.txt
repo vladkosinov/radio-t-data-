@@ -1,0 +1,5 @@
+Episode: 793
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 6 | Total: 12
+Summary: Extended discussion about JavaScript's historical baggage and legacy compatibility issues. Hosts defend modern JavaScript as a normal language while criticizing TypeScript as Microsoft's attempt to fix JavaScript's problems, suggesting the ideal solution would be browsers executing only TypeScript or WebAssembly instead.
+Key quotes: "Современный JavaScript, он же вполне себе нормальный язык. Просто в нем такое количество легоси оставленного для совместимости" (Modern JavaScript is quite a normal language. It just has so much legacy left for compatibility) | "TypeScript как раз попытка внезапно от Microsoft сделать... что-то человеческое в этой области" (TypeScript is precisely an attempt by Microsoft to do... something human in this area)

@@ -1,0 +1,5 @@
+Episode: 465
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Casual mention of JavaScript alongside AWS Lambda alternatives. No substantive discussion of JavaScript itself, just mentioned as one deployment option.
+Key quotes: [Ruslan]: На JavaScript, да. Ну, если честно, я ими заинтересовался совсем чуть только | [Gray]: В общем, ребята очень сильно углубились в Node.js и вдохновились их атомом.

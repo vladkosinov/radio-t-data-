@@ -1,0 +1,5 @@
+Episode: 718
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 36 | Total: 36
+Summary: Extensive discussion of JavaScript popularity, ecosystem characteristics, and cultural aspects. Key topics: comparison of JavaScript with Lisp and C syntax, JavaScript developers' preferences (choosing JavaScript for personal satisfaction), hiring premium for JavaScript specialists (1.5-2x more than Java), language communities and culture, philosophy of JavaScript adoption. Discussion of why JavaScript became dominant (browser monopoly as only runtime option).
+Key quotes: "JavaScript-специалисты высшего класса получают в полтора-два раза больше, чем Java-программисты сравнимого уровня" (Top-tier JavaScript specialists earn 1.5-2x more than comparable Java developers). "JavaScript был единственным бегущим в браузере" (JavaScript was the only language running in browsers). Extensive debate about language culture and market dynamics.

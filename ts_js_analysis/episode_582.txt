@@ -1,0 +1,5 @@
+Episode: 582
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Umputun uses JavaScript as an example of a simple language that provides quick employment opportunities. Context is about programming education and career pathways for beginners, not about JavaScript language features or ecosystem.
+Key quotes: [Umputun]: Надо немножко JavaScript знать, и все, и напишешь, и вот, и зарабатывай свои 80 тысяч в среднем по стране.

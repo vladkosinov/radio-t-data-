@@ -1,0 +1,5 @@
+Episode: 381
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 74 | Total: 79
+Summary: Extensive discussion of JavaScript editors and development tools. Covers Sublime, WebStorm, NetBeans, Brackets. Technical features like debugging, intellisense, and CSS live editing.
+Key quotes: Нужно сразу сказать, что этот редактор подходит в основном для тех, кто пишет на JavaScript. | он совершенно беспроблемный, и он уже сейчас обладает достаточно большим количеством интересных фишек, на которые стоит посмотреть.

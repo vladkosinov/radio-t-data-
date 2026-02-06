@@ -1,0 +1,5 @@
+Episode: 415
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of JavaScript developers in hiring context. Part of broader discussion about different programming communities.
+Key quotes: набегут джаваскриптеры примерно в того же уровня, что и PHP-шники | Node.js-ники, я надеюсь, придут.

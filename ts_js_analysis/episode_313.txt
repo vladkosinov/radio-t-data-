@@ -1,0 +1,5 @@
+Episode: 313
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Discussion of programming paradigms and JavaScript prototypes. Analysis of article criticizing linear programming and favoring functional reactive programming with ELM integration with JavaScript.
+Key quotes: Не надо пытаться использовать прототипы, как в джаваскрипте. | У него идея функционального реактивного программирования, не у него, это известная штука, в том, что ты можешь преобразовать некие

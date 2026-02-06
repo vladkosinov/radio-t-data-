@@ -1,0 +1,5 @@
+Episode: 812
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 8 | Total: 9
+Summary: Hosts discuss JavaScript and HTML/CSS as web technologies, JavaScript's popularity in programming language rankings, and discuss TypeScript as a preference. They touch on the interconnectedness of JavaScript, HTML, and CSS for web development, and note JavaScript as a most popular language taught in courses.
+Key quotes: "JavaScript самый популярный" (JavaScript is the most popular) | "Веб-разработкой, а версткой, т.е. HTML, CSS, плюс JavaScript" (Web development, meaning HTML, CSS, plus JavaScript) | "Это, видимо, измученные JavaScript его любят" (These are apparently JavaScript users who love TypeScript)

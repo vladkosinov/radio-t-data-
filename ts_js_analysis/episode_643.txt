@@ -1,0 +1,5 @@
+Episode: 643
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of Asm.js as first-generation JavaScript subset for compilation and WebAssembly as alternative runtime. Explains JavaScript and Java are conceptually different despite similar names. Explores WebAssembly as universal runtime alternative to JavaScript.
+Key quotes: "Asm.js это была первая итерация... сабсет JavaScript" | "WebAssembly... является альтернативой JRE, рантайм, интерпретатор"

@@ -1,0 +1,5 @@
+Episode: 402
+Classification: MIXED
+TS mentions: 3 | JS mentions: 2 | Total: 5
+Summary: TypeScript mentioned in Microsoft GitHub repositories alongside JavaScript and other languages. Part of job requirements discussion covering multiple technologies.
+Key quotes: Все на TypeScript залайкали. То есть, видимо, TypeScript самое оно. | Они ищут, во-первых, JavaScript эксперта и программиста общего характера

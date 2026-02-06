@@ -1,0 +1,7 @@
+Episode: 520
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 11 | Total: 16
+Summary: TypeScript and its use with Angular framework are discussed. JavaScript/Node.js for server-side development and backend programming is discussed.
+Key quotes:
+  - "Это такой нормальный JavaScript, современный, с поддержкой строгой типизации и всем вот этим вот."
+  - "Это была идея в том, что Dart будет заменой JavaScript в браузере."

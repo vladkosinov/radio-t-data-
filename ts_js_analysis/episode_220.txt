@@ -1,0 +1,5 @@
+Episode: 220
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of JavaScript as a full-stack web development language. Hosts discuss HTML/CSS/JavaScript as a standard service architecture for cross-platform compatibility, and Node.js as a server-side JavaScript framework for managing HTTP servers asynchronously. Debate over whether it's practical or advisable to write everything in JavaScript, with MongoDB function writing and practical concerns about JavaScript for both client and server sides. Focus on JavaScript's potential as a universal platform for web development.
+Key quotes: "сервис на стороне человека должен быть HTML, CSS, JavaScript, который работает плюс-минус везде одинаково. И вот тебе кросс-платформность" (the service should be HTML, CSS, JavaScript which works pretty much the same everywhere - and there's your cross-platform solution); "Node.js это серверная сторона... реактивный HTTP сервер, который управляется на JavaScript... Такой весь асинхронный" (Node.js is server-side - a reactive HTTP server managed in JavaScript - all asynchronous)

@@ -1,0 +1,5 @@
+Episode: 595
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 26 | Total: 26
+Summary: Extended discussion of JavaScript ecosystem, development practices, framework choices, and technology trends in web development.
+Key quotes: [Alek.sys]: Если насчет Java, я еще могу, в принципе, как-то подумать и поверить в это, но мне кажется, этот JavaScript, этот искусственный интеллект просто уйдет в глубокую депрессию и, как робот Марвел, покончит с собой рано или поздно.

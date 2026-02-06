@@ -1,0 +1,6 @@
+Episode: 875
+Classification: SUBSTANTIVE
+TS mentions: 18 | JS mentions: 31 | Total: 49
+Summary: In-depth discussion of TypeScript vs JavaScript in frameworks. Hosts debate TypeScript's value proposition, build step overhead, type checking limitations (TypeChecking not Turing Complete), and the cost-benefit tradeoff for adopting TypeScript. Mentions frameworks like Hotwire/Htmx refusing TypeScript.
+Key quotes: Да, конечно, на JavaScript.
+  | На JavaScript писать надо.

@@ -1,0 +1,5 @@
+Episode: 478
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of Ransom32 JavaScript ransomware as first cross-platform example. Discussion focuses on ransomware-as-service concept rather than JavaScript technology.
+Key quotes: [Umputun]: Первый JavaScript вредонос для всех платформ | [Ksenks]: Тоже на JavaScript написан. Это уже красиво звучит.

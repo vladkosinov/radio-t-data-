@@ -1,0 +1,6 @@
+Episode: 872
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 9 | Total: 14
+Summary: Discussion about a manager handling a 8-month broken project, mentioning language selection for fixes.
+Key quotes: Он сказал, что он пришел на то, что у них билд был, JavaScript бандл был 168 мегабайт в хороший день, и они типа разработчики с утра запускали npm run dev и уходили пить кофе.
+  | Все там типа это ломало макбуки, это ничего не работало.

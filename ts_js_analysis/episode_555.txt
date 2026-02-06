@@ -1,0 +1,7 @@
+Episode: 555
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: JavaScript and related web technologies are discussed extensively.
+Key quotes:
+  - "Например, какие-то огромные тут куски описания, как теперь хорошо стало с JavaScript."
+  - "Я про это ничего не знаю, как там было до этого в JavaScript."

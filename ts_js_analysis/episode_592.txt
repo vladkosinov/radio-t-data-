@@ -1,0 +1,5 @@
+Episode: 592
+Classification: MIXED
+TS mentions: 2 | JS mentions: 2 | Total: 4
+Summary: Discussion mentioning both TypeScript and JavaScript in context of language and technology comparisons.
+Key quotes: [Alek.sys]: А почему у них в списке изменений для Голланда там JavaScript, TypeScript?

@@ -1,0 +1,5 @@
+Episode: 370
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Node.js vs. Java performance comparison with real example. Discussion of Dart as Google's alternative to JavaScript. Mentions JavaScript's growth in popularity.
+Key quotes: И на Node.js они закончили в два раза раньше, а по тестам у них получился одно и то же. | выбрал Dart, который в Гугле делается как замена JavaScript.

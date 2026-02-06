@@ -1,0 +1,5 @@
+Episode: 755
+Classification: SUBSTANTIVE
+TS mentions: 6 | JS mentions: 1 | Total: 7
+Summary: Detailed technical discussion of TypeScript support in development environments. Topics include: default TypeScript support in native macOS applications, JSX and TSX syntax support, language server protocol (LSP) for TypeScript, discussion of TypeScript's type system philosophy and design decisions. Praise for TypeScript's balanced approach to optional typing, comparison with other language type systems, discussion of union types and advanced type features.
+Key quotes: "Есть поддержка TypeScript, все рады" (TypeScript support, everyone happy). "Мне очень нравится, как они решили... Как они вообще подошли к типизации" (Really like how they approached typing). Extended discussion of TypeScript's type system being balanced without excessive complexity, with features like union types built in.

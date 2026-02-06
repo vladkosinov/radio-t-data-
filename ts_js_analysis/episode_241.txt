@@ -1,0 +1,5 @@
+Episode: 241
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Technical discussion of JavaScript translators and web platforms. Hosts examine various language-to-JavaScript translators (CoffeeScript, Python), examine GitHub/Google Code/CodePlex language statistics showing JavaScript's prominence, discuss Node.js as a framework for server-side JavaScript, and compare JavaScript/HTML5/CSS vs Microsoft's Silverlight/XAML strategy. Discussion covers JavaScript as an increasingly universal platform, with debate about whether JavaScript is suitable for modern application development and Microsoft's contrasting 5-year Silverlight investment.
+Key quotes: "Это такой скриптовый язык, который компилируется в джаваскрипт" (CoffeeScript is a scripting language that compiles to JavaScript); "Node.js... это такой фреймворк и набор компонентов для организации серверного джаваскрипта" (Node.js is a framework for server-side JavaScript organization); "Microsoft последние пять лет выращивала... Silverlight плюс XAML" instead of HTML5/JavaScript

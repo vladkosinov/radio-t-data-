@@ -1,0 +1,5 @@
+Episode: 980
+Classification: MIXED
+TS mentions: 2 | JS mentions: 8 | Total: 10
+Summary: Discussion about Protobuf's poor integration with web (JavaScript clients need gateways), while their protocol is better designed as RPC from the start. Gray mentions something is written entirely in TypeScript. They compare language popularity rankings, noting JavaScript remains highly popular but C# is ranked higher than expected. Alek.sys disputes this, believing JavaScript should be ranked higher than C#.
+Key quotes: "Protobuff с вебом напрямую так себе работает. То есть клиент на JavaScript, ему нужны какие-то гейты" | "JavaScript, TypeScript, C Shell"

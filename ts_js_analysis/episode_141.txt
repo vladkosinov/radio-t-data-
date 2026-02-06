@@ -1,0 +1,5 @@
+Episode: 141
+Classification: MIXED
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: Mixed discussion combining substantive technical elements with tangential banter. Substantive aspects: discussion of Opera Unite applications written in JavaScript, HTML, and CSS; introduction of Pyjamas (Python-to-JavaScript translator) as alternative to learning JavaScript. Non-substantive: humorous debate about Bobuk learning JavaScript late in life, avoidance of learning JavaScript, confusion about roles and joke interactions. The technical content about frameworks and tools is offset by extended joking about whether learning JavaScript is worth the effort.
+Key quotes: "Pyjamas... это такой фреймворк для питона. Суть которого сводится к тому, что там написан маленький такой транслятор, который питоновый код транслирует в JavaScript" (Pyjamas is a framework for Python with a translator that converts Python code to JavaScript); "Я все пытаюсь дождаться того времени, когда мне не придется учить JavaScript" (I'm waiting for the day when I won't have to learn JavaScript)

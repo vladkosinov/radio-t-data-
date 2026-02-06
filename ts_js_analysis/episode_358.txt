@@ -1,0 +1,5 @@
+Episode: 358
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: JavaScript as learning language on devices. Discussion of HTML, CSS, JavaScript knowledge transfer to hybrid applications using frameworks like PhoneGap/Cordova.
+Key quotes: можно вебовский аппликейшн на нем хорошо делать | писать не конкретно под эту платформу, а именно делать гибридное приложение.

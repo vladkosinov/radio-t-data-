@@ -1,0 +1,6 @@
+Episode: 935
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 2 | Total: 4
+Summary: Gray discusses writing small scripts in JavaScript and TypeScript, mentioning they work well for quick scripting tasks.
+Key quotes: Не, безусловно, стало намного лучше, потому что я вот всякие мелкие скрипты где-нибудь там на JavaScript, на TypeScript прекрасно пишет, и действительно никаких проблем.
+  | А когда ты просишь на незнакомом для тебя языке что-то написать, ну, да, это уже из области... Слушай, ну, могу честно сказать, что, так сказать, TypeScript для меня раз там примерно на одном уровне незнания находится.

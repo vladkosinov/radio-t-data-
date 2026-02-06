@@ -1,0 +1,7 @@
+Episode: 535
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: JavaScript and related web technologies are discussed extensively.
+Key quotes:
+  - "Например, включение картинок с внешних ресурсов или каких-нибудь JavaScript или CSS."
+  - "И, например, переписывают, переделывают этот HTML так, чтобы, условно говоря, JavaScript грузился последним."

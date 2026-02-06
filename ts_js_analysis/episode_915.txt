@@ -1,0 +1,6 @@
+Episode: 915
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 14 | Total: 19
+Summary: Ksenks criticizes a tool that has more JavaScript than SwiftUI despite being a Swift UI framework, discussing language choice in frameworks.
+Key quotes: Он пишет, у него там больше JavaScript'а, чем SwiftUI.
+  | Прикол здесь в том, что просто Go во многих своих проявлениях очень специфический язык, внутри которого легко по коду одной страницы понять, что это не C и не JavaScript.

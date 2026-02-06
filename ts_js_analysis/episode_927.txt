@@ -1,0 +1,6 @@
+Episode: 927
+Classification: MIXED
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: Bobuk explains how browser userscripts work by executing JavaScript in webpage context when site loads.
+Key quotes: Такая штука, которая позволяет в контексте, как только ты в браузере открываешь какой-то сайт, выпустить или выполнить определенный JavaScript.
+  | Ну, это же типа, я не знаю, почему люди еще... То есть почему-то для кого-то новость.

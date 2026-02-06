@@ -1,0 +1,5 @@
+Episode: 805
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 12 | Total: 13
+Summary: Hosts discuss JavaScript's complexity and unpredictability compared to other languages, its versatility (frontend, backend, CLI), and recommend TypeScript for expanding developer consciousness. They address npm ecosystem quality issues and how JavaScript developers often implement solutions without proper consideration.
+Key quotes: "Джаваскрипт чудовищно сложный, непоследовательный, непонятный" (JavaScript is monstrously complex, inconsistent, incomprehensible) | "TypeScript, которая для меня первый JavaScript-подобный нормальный, комфортный язык" (TypeScript is for me the first JavaScript-like normal, comfortable language) | "Проблема – это только то, что люди не включают голову" (The problem is just that people don't use their heads)

@@ -1,0 +1,6 @@
+Episode: 930
+Classification: MIXED
+TS mentions: 4 | JS mentions: 1 | Total: 5
+Summary: Bobuk notes that a tool was initially written in TypeScript, designed for strong typing from the start.
+Key quotes: Ну, типа того, да.
+  | На самом деле, причем я бы сказал, что там самая главная для меня штука была, что все это изначально было на TypeScript, в смысле, что оно было изначально заточено под TypeScript.

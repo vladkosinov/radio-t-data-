@@ -1,0 +1,5 @@
+Episode: 588
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion focusing on JavaScript development practices, performance considerations, and ecosystem challenges. Analysis of developer workflows and how JavaScript ecosystem differs from other language communities.
+Key quotes: [Bobuk]: Она сделана на React плюс CSS в JavaScript, и параллельно Bleeding весь сделан на WebGL.

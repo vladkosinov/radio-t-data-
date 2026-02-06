@@ -1,0 +1,5 @@
+Episode: 729
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief technical mentions of JavaScript - discussing code snippets and syntax highlighting in Firefox experimental features. No substantive discussion of JavaScript itself - just contextual mentions in broader discussion about browser development features.
+Key quotes: "Вот если бы на JavaScript писали как на Go, тогда бы подсветка была вот такая" (If people wrote JavaScript like they write Go, the highlighting would be like this). Simple syntax comparison without deeper analysis.

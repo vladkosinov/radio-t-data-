@@ -1,0 +1,5 @@
+Episode: 622
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief discussion touching on JavaScript in development context.
+Key quotes: [Umputun]: Трудно в это потом, конечно, JavaScript компонентно подключить, скорее всего.

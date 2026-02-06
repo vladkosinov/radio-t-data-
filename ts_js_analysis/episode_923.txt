@@ -1,0 +1,6 @@
+Episode: 923
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of Z language as alternative to JavaScript for quick scripts and tools, comparing tool choices for everyday needs.
+Key quotes: Вот, но для всяких бытовых нужд, там, типа, тут в коде что-то поправить, тут по-быстрому что-то сделать, у меня, да, Z всегда под рукой, да.
+  | Ну вот я думаю на него, да, вместо типа Sublime перейти, но вот для того, чтобы, ну то есть на работе все равно, мне кажется, хотя можно попробовать, там что, в принципе, он Go и всякий JavaScript он же умеет хорошо, наверное.

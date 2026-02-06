@@ -1,0 +1,6 @@
+Episode: 864
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of JavaScript bookmarklet as a browser tool example.
+Key quotes: Ты можешь выбросить, к чертовой матери, сделать себе bookmarklet, который будешь нажимать, и в котором будет кусок джаваскрипта, который ты любовно сам напишешь.
+  | Но вот если бы мы хотели вот такого подхода, мы бы с Лёхой на джаваскрипте программировали.

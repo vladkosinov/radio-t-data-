@@ -1,0 +1,5 @@
+Episode: 961
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 4 | Total: 6
+Summary: Alek.sys explains ClojureScript is a hosted Clojure running on JavaScript runtime and uses Google Closure Compiler for optimization. He discusses how Closure Compiler performs aggressive JavaScript optimization including tree-shaking and minification. Also mentions someone was fired for rewriting TypeScript to Go and improving its performance.
+Key quotes: "Clojus Script это по сути хостед Clojus, который работает поверх JavaScript рантайма" | "ядерно оптимизировать JavaScript, он умеет тришейкинги делать"

@@ -1,0 +1,5 @@
+Episode: 710
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript mentioned in context of Barclays bank security incident where JavaScript files were distributed. Mostly discussing the anecdote about developers including external dependencies from archive.org without verification. No substantive discussion of JavaScript features or ecosystem.
+Key quotes: "Барклайс банк уличили в распространении своих JavaScript файлов" (Barclays bank caught distributing JavaScript files). Discussion treats this as a general story about dependency management rather than JavaScript-specific issues.

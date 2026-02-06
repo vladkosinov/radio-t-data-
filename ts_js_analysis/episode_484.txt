@@ -1,0 +1,5 @@
+Episode: 484
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Discussion of Ceylon and Kotlin languages targeting both Java and JavaScript compilation. Hosts compare cross-platform capabilities and conceptual differences between languages.
+Key quotes: [dima_zhemerov]: Направлен более-менее на те же самые целевые, на тот же самый таргет, то есть это и Java, и JavaScript | [dima_zhemerov]: Он намного лучше, чем мы на данный момент поддерживает кроссплатформенную разработку, когда один и тот же код используется и в Java, и в JavaScript.

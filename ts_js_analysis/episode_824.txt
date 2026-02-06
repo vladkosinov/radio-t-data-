@@ -1,0 +1,5 @@
+Episode: 824
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript in context of package naming and tool implementations. The mentions are incidental references without substantive discussion of JavaScript features or ecosystem characteristics.
+Key quotes: "Есть какое-нибудь эхо, написанное на джаваскрипте" (There's some echo written in JavaScript) | "Это не JavaScript какой-то" (It's not some JavaScript)

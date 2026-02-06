@@ -1,0 +1,5 @@
+Episode: 952
+Classification: SUBSTANTIVE
+TS mentions: 18 | JS mentions: 11 | Total: 29
+Summary: Extensive technical discussion about why Microsoft chose Go to rewrite the TypeScript compiler instead of JavaScript. They analyze why C#, Rust, and JavaScript weren't viable choices from both technical and community perspectives. The discussion covers compiler idioms, ecosystem compatibility, and how JavaScript/TypeScript developers would struggle to contribute to idiomatic code in other languages.
+Key quotes: "У них есть язык программирования TypeScript, который компиляторы не написали на JavaScript" | "TypeScript'еры, ну, наверное, попытаются, но тогда она точно не улучшится"

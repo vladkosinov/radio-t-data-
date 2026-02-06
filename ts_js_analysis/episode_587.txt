@@ -1,0 +1,5 @@
+Episode: 587
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Broad discussion of JavaScript ecosystem, framework trends, and development culture. Covers rapid framework evolution, community size, library management challenges, and developer practices in web development.
+Key quotes: [Bobuk]: Так там JavaScript есть?

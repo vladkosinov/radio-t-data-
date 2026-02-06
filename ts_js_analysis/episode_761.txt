@@ -1,0 +1,5 @@
+Episode: 761
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Anecdote about a complex even/odd function implementation in JavaScript retrieved from code search. Discussion of knowledge transfer between JavaScript developers. Used as example of code complexity and over-engineering in JavaScript context, but without substantive technical discussion of the language itself.
+Key quotes: "Функция четная-нечетная на JavaScript, которая по комплиту выдавала классическую функцию" (Even/odd function in JavaScript that was overly complex). Mostly used as punchline about JavaScript code quality without deeper technical analysis. Discussion of transferring code examples between developers.

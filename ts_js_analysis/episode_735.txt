@@ -1,0 +1,5 @@
+Episode: 735
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 29 | Total: 29
+Summary: Extensive discussion of JavaScript ecosystem evolution, V8 engine optimization (JIT compilation), JavaScript's role in web development transformation, and philosophy of frontend architecture. Detailed debate about server-side rendering vs client-side rendering approaches, JSON API patterns vs HTML fragments, and the role of JavaScript frameworks. Discussion of HTML/CSS/JS distributions in modern web applications and performance considerations.
+Key quotes: "JIT в JavaScript внутри браузера. Это, вообще говоря, довольно большой скачок, который случился в 2008 году" (JIT in browser JavaScript was a major leap in 2008). Extended philosophical debate about whether separate frontend teams with JavaScript frameworks are necessary, or if simpler server-rendered approaches are preferable. Discussion of modern web development paradigm shifts.

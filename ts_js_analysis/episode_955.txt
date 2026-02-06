@@ -1,0 +1,5 @@
+Episode: 955
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 6 | Total: 6
+Summary: Gray explains how to configure AI coding assistants (Cursor) for TypeScript projects using configuration files to enforce best practices and project-specific conventions. Demonstrates practical development practices like context-aware rules to avoid mixing unrelated code patterns across different parts of a TypeScript codebase.
+Key quotes: "ты опытный программист, разработчик на TypeScript" | "для каждого типа написать свои rules"

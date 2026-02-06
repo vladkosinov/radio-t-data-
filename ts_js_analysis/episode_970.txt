@@ -1,0 +1,5 @@
+Episode: 970
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 4 | Total: 6
+Summary: They discuss the complexity of JavaScript build pipelines requiring compilation, profiling, linting, testing with multiple TypeScript versions, bundling with Rollup, and CDN distribution—taking 6 days to deliver a simple feature. Alek.sys notes backend/ML projects have similar complexity regardless of language, contrasting with Gray's criticism of JavaScript ecosystem complexity.
+Key quotes: "JavaScript Broke the Web. And call it progress" | "надо задачу запустить через компайлер, профайлер, линтер, тесты... скомпилировать какой-нибудь новый TypeScript шестью разными компиляторами"

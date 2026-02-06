@@ -1,0 +1,5 @@
+Episode: 806
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 12 | Total: 14
+Summary: Hosts discuss language choices for web development, comparing JavaScript/PHP/Python to alternatives like Clojure, and debating Flutter vs JavaScript/TypeScript. They argue that TypeScript is the first acceptable JavaScript-like language, while Dart is unnecessary and worse than JavaScript, and criticize Flutter for forcing Dart when JavaScript/TypeScript are better options.
+Key quotes: "JavaScript постепенно эволюционирует, и есть его разновидность, которая называется TypeScript, которая для меня первый JavaScript-подобный нормальный, комфортный язык" (JavaScript gradually evolves, and there's a variation called TypeScript, which for me is the first normal, comfortable JavaScript-like language) | "Чуваки придумали свой собственный язык для своего собственного фреймворка, и это просто отвратительно" (Guys invented their own language for their own framework, and it's simply disgusting)

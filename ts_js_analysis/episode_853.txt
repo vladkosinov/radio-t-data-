@@ -1,0 +1,6 @@
+Episode: 853
+Classification: NAME-DROP
+TS mentions: 7 | JS mentions: 11 | Total: 18
+Summary: GitHub mentions Python, Go, and JavaScript as languages used in pull requests (20% each).
+Key quotes: То есть два JavaScript и Python.
+  | под JavaScript, ну или Python.

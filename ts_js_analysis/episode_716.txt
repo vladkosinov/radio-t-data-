@@ -1,0 +1,5 @@
+Episode: 716
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion about rewriting services from PHP to JavaScript, arguing that improvements from rewrites happen regardless of target language - it's about the process, not JavaScript itself. Brief mention of JavaScript code on client side for word processing. Mostly anecdotal examples rather than technical analysis.
+Key quotes: "Стало вообще лучше. Так стало лучше не потому, что это JavaScript, а потому, что вы переписали" (It got better. But it got better not because of JavaScript, but because you rewrote it). Discussion uses JavaScript as an example in broader point about rewrites.

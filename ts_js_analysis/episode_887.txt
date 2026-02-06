@@ -1,0 +1,6 @@
+Episode: 887
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Bobuk explains Go's strict typing vs other languages using Java/JavaScript as loose typing examples.
+Key quotes: Это у вас в Go из-за того, что ты строго типируешь value, у тебя либо все инты, либо все флоаты.
+  | В нормальных языках такой проблемы нет, ты можешь там типа как угодно хранить, в JavaScript ты хранишь как угодно, там могут и инты, и флоаты быть.

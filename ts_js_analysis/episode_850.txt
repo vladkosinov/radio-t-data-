@@ -1,0 +1,6 @@
+Episode: 850
+Classification: MIXED
+TS mentions: 2 | JS mentions: 2 | Total: 4
+Summary: Discussing language design philosophy with Rust as example. Brief mentions of JavaScript and TypeScript when comparing syntax approaches.
+Key quotes: Здесь нет ничего вообще. Здесь есть синтаксис, который смесь питона, джаваскрипта и я не знаю еще чего.
+  | И TypeScript, наверное.

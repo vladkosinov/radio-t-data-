@@ -1,0 +1,5 @@
+Episode: 489
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of JavaScript's weak typing problems and fragmented NPM ecosystem. Hosts debate type safety issues, Array detection problems, and dependency management challenges.
+Key quotes: [Ksenks]: Мне кажется, какая-то проблема у джаваскрипта, если у тебя 350 тестов на испозитив. | [Ksenks]: Я это имела в виду, что это проблема слабой типизации. У них в JavaScript понятие это хрень. Array или не Array, это прямо нетривиальное занятие.

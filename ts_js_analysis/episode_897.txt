@@ -1,0 +1,6 @@
+Episode: 897
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 3 | Total: 6
+Summary: Bobuk compares language performance, suggesting JavaScript and Python are slower than Go when performance matters.
+Key quotes: Там вон есть питон с JavaScript.
+  | Скорость очень важна, знаете, когда вы пользуетесь каким-нибудь NPM, написанным на JavaScript для того, чтобы установить нужные зависимости, разрезолвить даже нужные зависимости, и потом сидите и 20 секунд наблюдаете, как у вас резолвится зависимость.

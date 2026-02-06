@@ -1,0 +1,5 @@
+Episode: 442
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief comments on editor autocomplete functionality for JavaScript. No substantive discussion of the technology itself, just tool comparisons.
+Key quotes: [Umputun]: Там completion, может, он для JavaScript хороший, для всего остального он сделан по осмотру символов в текущем файле. | [Bobuk]: Я думаю, что на JavaScript как раз хуже будет.

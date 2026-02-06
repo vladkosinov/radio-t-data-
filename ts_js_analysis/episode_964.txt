@@ -1,0 +1,5 @@
+Episode: 964
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: Umputun notes MongoDB's MCP is written in JavaScript with proper containerization, mentions Cloudflare Workers as JavaScript handlers, and discusses how nobody can predict JavaScript rendering behavior. Gray mentions a library was written in TypeScript for Cloudflare Workers. Brief mentions without deep technical discussion of features.
+Key quotes: "MCP тоже на JavaScript написан, но там нормальный контейнер есть" | "Да, все из-за JavaScript, правильно пишет PD"

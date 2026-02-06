@@ -1,0 +1,6 @@
+Episode: 904
+Classification: MIXED
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: Alek.sys and Ksenks discuss Prisma ORM tool designed for TypeScript with MongoDB driver support.
+Key quotes: Которая для TypeScript, но у нее есть драйвер для Mongo.
+  | Слушай, у тебя просто язык такой странный, видишь, вот представь, пишешь ты на JavaScript, вот нахрен тебе там баш какой-нибудь условный.

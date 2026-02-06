@@ -1,0 +1,5 @@
+Episode: 639
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Philosophical discussion comparing Rust and JavaScript in terms of abstraction levels and proximity to hardware. Argues that Rust requires memory thinking unlike JavaScript garbage collection. Discusses languages as different evolutionary branches rather than linear progression.
+Key quotes: "Rust это не эволюция, это совершенно в другой, в параллельной вселенной" | "JavaScript явно дальше от железа, чем довольно новый Rust"

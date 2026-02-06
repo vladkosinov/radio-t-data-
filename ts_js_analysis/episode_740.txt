@@ -1,0 +1,5 @@
+Episode: 740
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of JavaScript's capability for browser fingerprinting and user tracking (screen size, font detection). Technical discussion of API responses containing HTML with embedded JavaScript fragments that must be executed client-side. Debate about API design patterns and whether backend should return executable code. Includes debugging anecdote where JavaScript issues were mistaken for CPU bugs.
+Key quotes: "То, что можно в JavaScript узнать, из JavaScript узнать разные данные о том, какой у пользователя был размер экрана" (You can learn screen size and other details from JavaScript). Discussion of anti-patterns where API responses contain client-side JavaScript execution requirements rather than pure data.

@@ -1,0 +1,5 @@
+Episode: 691
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Discussion of Dart language as attempt to fix JavaScript problems for frontend. Mentions Google team creating improved JavaScript variant. Discusses Angular framework attempting to bring Dart/TypeScript concepts to JavaScript. Covers JavaScript-based web framework challenges.
+Key quotes: "критерий определить, что такое станет мейнстримом, каждый определяет сам" | "При выключенном JavaScript вообще даже теперь не умеют рендерить страницы"

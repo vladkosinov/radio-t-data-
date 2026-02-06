@@ -1,0 +1,7 @@
+Episode: 499
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript is mentioned in development context.
+Key quotes:
+  - "Ну, ты понимаешь, как бы сайт ни был построен статически или динамически, прием платежей будет, скорее всего, внешним модулем, который я включу куском JavaScript."
+  - "А надо поставить 5 строк JavaScript в любое правильное место своего замечательного сайта, каким бы образом он ни был построен."

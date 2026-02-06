@@ -1,0 +1,5 @@
+Episode: 570
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 6 | Total: 11
+Summary: Bobuk praises TypeScript extensively for solving fundamental problems inherent to JavaScript's dynamic typing, noting that JavaScript's flexibility causes arithmetic operations to behave unexpectedly. He compares TypeScript to Python's MyPy and discusses similar type-checking solutions like Hack for PHP, emphasizing how static typing helps developers.
+Key quotes: [Bobuk]: Не понял, что там пишут про то, что я всегда хвалю TypeScript.

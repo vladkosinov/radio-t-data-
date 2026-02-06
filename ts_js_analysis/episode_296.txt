@@ -1,0 +1,5 @@
+Episode: 296
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Comparison of programming languages including JavaScript. Mentions Node.js community and NPM package manager. Mostly comparative language discussion.
+Key quotes: Objective-G — это такой диалект джаваскрипта, написанный ради одного фреймворка. | они посчитали количество... у них такая система, называется NPM для установки пакетов нодовских.

@@ -1,0 +1,5 @@
+Episode: 249
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of JavaScript library CDN optimization and browser loading behavior. Hosts explain that JavaScript should be extracted to separate files on separate domains without cookies to optimize page loading, and discuss how modern browsers block other downloads while loading JavaScript. Some technical substance about optimization best practices, but mostly practical advice about CSS/JavaScript loading strategies.
+Key quotes: "JavaScript должен быть вынесен в отдельный файл, этот файл должен лежать на отдельном домене... современные браузеры построены таким образом, что когда они грозят JavaScript, они больше ничего не грозят" (JavaScript should be in separate file on separate domain - modern browsers block other downloads while loading JavaScript); "очень в вещах построены таким образом, что когда они грозят JavaScript" (browsers are structured so that while loading JavaScript they don't load other things)

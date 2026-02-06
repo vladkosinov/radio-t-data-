@@ -1,0 +1,5 @@
+Episode: 636
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 7 | Total: 8
+Summary: Brief mention of best practices guide with TypeScript recommendations. Mostly discusses YAML configuration format compatibility with JSON/JavaScript syntax. TypeScript mentioned as reference but not deeply discussed.
+Key quotes: "Может полчаса добавить ссылочку, а переписать на TypeScript, не знаю, годы"

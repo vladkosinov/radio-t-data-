@@ -1,0 +1,5 @@
+Episode: 802
+Classification: MIXED
+TS mentions: 1 | JS mentions: 4 | Total: 5
+Summary: Hosts discuss hiring JavaScript frontend developers and conducting technical interviews. Brief discussion of JavaScript roles and TypeScript's complexity features in comparison. The mentions span both contextual hiring discussion and some substantive technical content about JavaScript complexity.
+Key quotes: "Мы позавчера интервьюировали чувака на JavaScript фронтендовую позицию" (We interviewed a guy for a JavaScript frontend position two days ago) | "В TypeScript, например" (In TypeScript, for example)

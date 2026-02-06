@@ -1,0 +1,5 @@
+Episode: 270
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript as a possible web development choice, with discussion of developer shortage in the country. The mention is purely contextual - comparing JavaScript developer availability to C++ developer availability - without any technical discussion of JavaScript features or capabilities.
+Key quotes: "На JavaScript можно, да... В стране количество джаваскриптовых разработчиков меньше, чем количество C++'ных" (You can use JavaScript, yes... but the country has fewer JavaScript developers than C++ developers); "В стране количество джаваскриптовых разработчиков меньше" (the country has fewer JavaScript developers)

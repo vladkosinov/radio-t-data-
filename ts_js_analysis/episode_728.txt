@@ -1,0 +1,5 @@
+Episode: 728
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 0 | Total: 3
+Summary: Discussion of Visual Studio Code's extension architecture using TypeScript as the base language. Discussion of language servers written in TypeScript, including Python language server implementation. Practical analysis of how TypeScript is used in real production software development tools and infrastructure.
+Key quotes: "Visual Studio Code вообще написан так, что ты можешь, на самом деле, писать для него экстеншены почти на чем угодно. Но базовый это TypeScript" (VS Code lets you write extensions in almost anything, but the base is TypeScript). "Лингвич-сервер для Python был написан на TypeScript" (Python language server was written in TypeScript).

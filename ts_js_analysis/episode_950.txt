@@ -1,0 +1,5 @@
+Episode: 950
+Classification: SUBSTANTIVE
+TS mentions: 4 | JS mentions: 1 | Total: 5
+Summary: Gray and Alek.sys discuss someone's remarkable implementation of DOOM written entirely using TypeScript's type system. They explore how the type system is Turing Complete and how the compiler was leveraged as a runtime for type processing—a creative technical achievement that pushes TypeScript to its limits.
+Key quotes: "он написал не просто Doom, он написал Runtime на типах тейпскрипта" | "компиляторе типов TypeScript, который Turing Complete"

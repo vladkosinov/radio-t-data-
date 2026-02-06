@@ -1,0 +1,5 @@
+Episode: 287
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of functional programming paradigms in JavaScript. Bobuk argues that JavaScript is essentially a functional programming language supporting most FP concepts needed in real development. Hosts discuss functional programming characteristics (pure functions, higher-order functions) and debate whether JavaScript qualifies as functional. Discussion includes philosophical debate about language purity and practical functional programming paradigms.
+Key quotes: "главный функциональный язык... это JavaScript. JavaScript, на мой взгляд, вполне себе почти функциональный язык, почти по всем параметрам" (the main functional language is JavaScript - it's practically a functional language by almost every measure); "с точки зрения чистоты языка JavaScript не чистый язык. Но не все функциональные языки являются чистыми" (JavaScript isn't a pure language, but not all functional languages are pure)

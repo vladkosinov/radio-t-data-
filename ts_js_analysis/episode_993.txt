@@ -1,0 +1,5 @@
+Episode: 993
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 3 | Total: 4
+Summary: Umputun discusses building a full-stack application with Go backend and JavaScript frontend using Docker Compose with integration testing. He notes TypeScript has superior API support for Playwright testing with built-in wait mechanisms, while Go's Playwright API requires more manual handling. Practical comparison of language capabilities for testing.
+Key quotes: "Go Backend, JavaScript Frontend, поднимается полностью приложение в композе" | "в TypeScript'е такие штуки как раз очень круто сделаны... ты в большинстве мест... можешь не париться... когда ты говоришь... нажать кнопку, он, типа, сам подождет"

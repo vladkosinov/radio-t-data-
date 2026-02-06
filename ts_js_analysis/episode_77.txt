@@ -1,0 +1,5 @@
+Episode: 77
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JavaScript performance issues in IE7 and security vulnerabilities. Hosts mention that JavaScript execution speed in IE7 is frustratingly slow. They discuss a specific breach where attackers injected malicious JavaScript code into websites to exploit Windows vulnerabilities, RealPlay, and other software on users' machines.
+Key quotes: "скорость работы JavaScript в нем меня иногда просто угнетает" (JavaScript speed sometimes really depresses me); "взламывали через разные уязвимости в IIS и Apache" (hacked through various vulnerabilities in IIS and Apache)

@@ -1,0 +1,5 @@
+Episode: 98
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Detailed discussion of the Prototype JavaScript framework. Bobuk explains what Prototype is - a library that eases HTML and JavaScript programming - and clarifies the distinction between a "framework" and a collection of libraries. He notes the framework's historical importance as one of the first major JavaScript frameworks, mentions his migration to jQuery, and acknowledges both frameworks' purposes in simplifying web development.
+Key quotes: "Прототайп это просто феноменальная вещь сама по себе" (Prototype is simply phenomenal); "Фреймворк в данном случае это очень громкое название, это набор библиотек, которые облегчают программирование HTML и JavaScript" (Framework in this case is an overstated term - it's a library collection that eases HTML and JavaScript programming)

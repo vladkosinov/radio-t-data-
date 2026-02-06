@@ -1,0 +1,5 @@
+Episode: 473
+Classification: MIXED
+TS mentions: 0 | JS mentions: 36 | Total: 36
+Summary: Discussion of coding academies teaching JavaScript to programmers. Mostly social commentary on programmer elitism, with JavaScript mentioned as common curriculum.
+Key quotes: [Umputun]: А это код Академии, я так помню правильно, она этих самых джаваскриптов учит программировать, да? | [Alek.sys]: Я, говорит, рос в тяжелом окружении, умел программировать только на джаваскрипте, другие программисты смеялись и били меня

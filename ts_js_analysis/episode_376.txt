@@ -1,0 +1,5 @@
+Episode: 376
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: DOSBox emulator ported to JavaScript using Emscripten (LLVM backend). Technical achievement of running complex C code in JavaScript.
+Key quotes: Представляете, портировали DOSBox на JavaScript. Полный эмулятор DOSа. | Есть такой Emscripten. Это бэкэнд LLVM в JavaScript.

@@ -1,0 +1,5 @@
+Episode: 605
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 10 | Total: 10
+Summary: Discussion of JavaScript ecosystem, package management, framework landscape, and development practices.
+Key quotes: [Bobuk]: У тебя это кусок, который вставляется JavaScript в страницу.

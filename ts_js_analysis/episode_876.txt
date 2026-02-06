@@ -1,0 +1,6 @@
+Episode: 876
+Classification: NAME-DROP
+TS mentions: 10 | JS mentions: 6 | Total: 16
+Summary: Mentions of IDE tools and language choice context.
+Key quotes: Нет, вопрос скорее наоборот, то есть GoLan, GoLanJ это побочный продукт, IntelliJ это по сути... Это главное со всеми плагинами, которые могут что угодно делать, и которые непонятно зачем мне нужны, когда... А как же ты JavaScript пишешь, когда ты делаешь FullStack разработку?
+  | То есть там и Go, и какой-нибудь TypeScript, и какой-нибудь HTML, и какой-нибудь React, и какой-нибудь CSS.

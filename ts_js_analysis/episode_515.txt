@@ -1,0 +1,7 @@
+Episode: 515
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript's callback-based asynchronous patterns and their syntactic complexity are analyzed.
+Key quotes:
+  - "Взять JSON, грубо говоря, засунуть его в такой glorified map."
+  - "Ну, то есть, где ты можешь как бы в JavaScript по точке брать поля."

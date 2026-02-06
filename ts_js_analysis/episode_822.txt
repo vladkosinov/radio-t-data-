@@ -1,0 +1,5 @@
+Episode: 822
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Hosts discuss JavaScript backend development challenges, criticizing the JavaScript ecosystem for creating unnecessary complexity in deployment and containerization. They point out problems with npm dependencies and JavaScript cold start times in serverless environments, but acknowledge Cloudflare's clever solution for JavaScript execution in sandboxes.
+Key quotes: "У этих программистов бэкэнда на джаваскрипте какой-то ад в голове" (JavaScript backend programmers have some kind of hell in their heads) | "они ограничили одним языком, в смысле JavaScript... они взяли кусок хромиума... и при этом на одной машине может совершенно спокойно жить 2 миллиона параллельных процессов" (they limited it to one language, meaning JavaScript... they took a piece of Chrome... and 2 million parallel processes can happily live on one machine)

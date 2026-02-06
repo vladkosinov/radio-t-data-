@@ -1,0 +1,6 @@
+Episode: 896
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Plugin author given choice between Lua and JavaScript. Hosts discuss why JavaScript is the obvious choice, suggesting it's standard in plugin ecosystems.
+Key quotes: Автор плагина предложил, ты на чем хочешь, на Ло или на JavaScript?
+  | Если в языках, Алекс, в которых ты вводишься, в каких-нибудь джаваскриптах, прости господи, или в растах, что еще хуже,

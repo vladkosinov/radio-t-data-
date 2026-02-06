@@ -1,0 +1,5 @@
+Episode: 647
+Classification: MIXED
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discusses Bootstrap framework with significant JavaScript dependencies for Grid system. Mentions CSS Grid can be implemented with pure CSS instead. Brief mention of Realm supporting JavaScript for mobile. Mostly technical implementation details.
+Key quotes: "Bootstrap Grid это как раз перетасовка при помощи JavaScript" | "Realm умеет... Java, и JavaScript для Android"

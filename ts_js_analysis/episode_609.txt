@@ -1,0 +1,5 @@
+Episode: 609
+Classification: SUBSTANTIVE
+TS mentions: 26 | JS mentions: 20 | Total: 46
+Summary: Major discussion with significant focus on both TypeScript and JavaScript, covering type systems, ecosystem features, language design decisions, framework popularity, and developer productivity.
+Key quotes: [Umputun]: Они говорят, нет, на Java не надо, нам на JavaScript.

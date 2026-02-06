@@ -1,0 +1,5 @@
+Episode: 668
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Discussion of server-side JavaScript code generation issue where region names were embedded in generated JavaScript with encoding problems. Covers actual debugging in JavaScript console. Shows practical security/internationalization issue in JavaScript-generated code.
+Key quotes: "На сервере сгенерировали JavaScript, куда просто вставлена московская область" | "обнаруживаю кучу ошибок, иду в JavaScript смотреть"

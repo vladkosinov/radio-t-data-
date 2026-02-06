@@ -1,0 +1,5 @@
+Episode: 134
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript's first update since 1999 (ES5/ECMAScript 5). Umputun indicates they have little to say about this major update, describing it as a draft/candidate specification. Bobuk admits to only casually following the development. The discussion is entirely superficial without any technical analysis of JavaScript language features or improvements.
+Key quotes: "JavaScript обновился первый раз с 99-го года" (JavaScript updated for the first time since 1999); "Я не думаю, что нам есть что-то сказать по поводу этого мажорного обновления" (I don't think we have anything to say about this major update)

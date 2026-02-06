@@ -1,0 +1,5 @@
+Episode: 341
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Brief mentions of using JavaScript for form handling and button event binding. No substantive discussion of JavaScript features.
+Key quotes: у меня сейчас на кнопку Submit завязан кусочек в JavaScript. | Ты же говоришь, нельзя.

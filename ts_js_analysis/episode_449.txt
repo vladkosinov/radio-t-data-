@@ -1,0 +1,5 @@
+Episode: 449
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 33 | Total: 34
+Summary: Technical discussion on WebAssembly as a bytecode alternative to JavaScript. Hosts compare Asm.js with WebAssembly, debate optimization opportunities and necessity of new standards versus JavaScript improvements.
+Key quotes: [Bobuk]: Asm.js — это очень маленькое подмножество JavaScript, которое, по сути, и есть в некотором смысле байткод. | [Bobuk]: JavaScript при первом старте может легко компилироваться в WebAssembly и дальше уже выполняться.

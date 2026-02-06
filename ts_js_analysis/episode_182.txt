@@ -1,0 +1,5 @@
+Episode: 182
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion of JavaScript limitations on iPhone platform. Context discusses Flash compilation to native iPhone code and the restricted environment on iPhone which includes C++, Objective-C, and JavaScript (only within Safari WebKit). Hosts discuss how this limitation affects various JavaScript-based development tools (PhoneGap, Titanium) that were previously viable for iPhone app development. Focus is on JavaScript's constraints within the Apple platform ecosystem.
+Key quotes: "JavaScript оговорен только в рамках выполнения... только внутри веб-кита. Только в Safari" (JavaScript is restricted only to execution within WebKit, only in Safari); "сейчас под очень большим вопросом... PhoneGap, Titanium и всякие другие средства, которые позволяли на JavaScript писать приложение для iPhone" (PhoneGap, Titanium, and other tools that let you write iPhone apps in JavaScript are now in question)

@@ -1,0 +1,5 @@
+Episode: 771
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of how frontend developers who wrote JavaScript eventually wanted to write it on the server side, explaining the origin of Node.js. The mention is purely contextual without deeper discussion of JavaScript's qualities or ecosystem.
+Key quotes: "Какова вероятность того, что чуваки, которые писали фронтенд когда-то на джаваскрипте, внезапно вдруг решили, что хотим и на сервере тоже на джаваскрипте писать" (What's the probability that guys who wrote frontend in JavaScript suddenly decided they want to write JavaScript on the server too)

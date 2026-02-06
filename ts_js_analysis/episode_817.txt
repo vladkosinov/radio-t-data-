@@ -1,0 +1,5 @@
+Episode: 817
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Hosts discuss technical trade-offs when choosing between declarative approaches and JavaScript implementation. They note that while writing certain functionality in JavaScript would be more convenient, doing it in another way avoids JavaScript's execution performance overhead. There's substantive discussion of practical constraints but mixed with passing mentions.
+Key quotes: "Конечно, JavaScript-ом это было бы удобнее" (Of course, it would be more convenient in JavaScript) | "Ты получишь скорость исполнения JavaScript" (You get JavaScript execution speed)

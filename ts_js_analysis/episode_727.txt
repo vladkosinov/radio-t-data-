@@ -1,0 +1,5 @@
+Episode: 727
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript developer profile - person is described as "Ruby and JavaScript Developer" but there's no discussion of the language itself. Used as contextual detail in an anecdote about a developer from Yekaterinburg rather than technical discussion.
+Key quotes: "Experience, Ruby и JavaScript Developer" (Resume profile listing). Brief joke about people writing bugs in Ruby and JavaScript, but not substantive technical analysis.

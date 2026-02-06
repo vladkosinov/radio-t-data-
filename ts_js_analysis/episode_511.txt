@@ -1,0 +1,7 @@
+Episode: 511
+Classification: MIXED
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Это такая балалайка, которая сама умеет генерить JavaScript и CSS и все прочее из кода, который ты напишешь на стороне сервера."
+  - "Давайте нарисуем в генераторе интерфейса какой-то простой интерфейс, а потом, как в случае с ГВИДом, я знаю, может, типа CSS и JavaScript снаружи еще дорисуем непонятных сложных штук."

@@ -1,0 +1,5 @@
+Episode: 326
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Extensive discussion of JavaScript quirks and peculiarities. Analyzes type system oddities, operator behavior (++ operator on variables, typeof results). Bobuk shares numerous examples of JavaScript's unusual behavior.
+Key quotes: Типа, как вы думаете, что будет, если в JavaScript сложить два пустых массива? | Есть также в JavaScript такой объект, который называется none, not a number.

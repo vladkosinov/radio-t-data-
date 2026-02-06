@@ -1,0 +1,7 @@
+Episode: 506
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript is mentioned in development context.
+Key quotes:
+  - "Дальше C Sharp, PHP, JavaScript, Ruby и Go."
+  - "Да, смотрели, и это очень удивительно, что R выше, чем JavaScript."

@@ -1,0 +1,5 @@
+Episode: 255
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of JavaScript as supported technology in Windows Metro ecosystem (along with HTML), contrasted with Flash and Silverlight. No substantive discussion of JavaScript capabilities or technical aspects - merely noting its existence as an option alongside other technologies in the platform.
+Key quotes: "то, что написано реально для метро, для этого, и то, что написано, по-моему, на HTML и JavaScript" (what's actually written for Metro is written in HTML and JavaScript); "не JavaScript, это не ActiveX, это не Flash, это не Air" (not JavaScript, not ActiveX, not Flash, not Adobe Air)

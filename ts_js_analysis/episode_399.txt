@@ -1,0 +1,5 @@
+Episode: 399
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Philosophical debate about JavaScript as a serious programming language. Discussion of language transitions and what distinguishes real languages.
+Key quotes: Ну как можно в качестве серьезного языка рассматривать JavaScript? | что кто-то станет умнее меня, такие сомнения пропали уже 25 лет назад.

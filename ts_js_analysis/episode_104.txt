@@ -1,0 +1,5 @@
+Episode: 104
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Technical discussion comparing JavaScript engine performance and architecture. Hosts compare TraceMonkey (Mozilla), V8 (Google Chrome), and Squirrelfish (WebKit) implementations, with analysis of their relative speeds and practical impact on web applications like Google Docs and Spreadsheets. Discussion emphasizes how performance competition between browsers has forced vendors to finally release highly optimized JavaScript engines they'd been developing for 1.5+ years, which is crucial for modern complex web applications.
+Key quotes: "они кодили в течение полутора лет, все эти быстрые джаваскриптовые энджайны, они, наконец-то, поедут в продакшн" (they've been coding for 1.5 years, all these fast JS engines are finally going to production); "сейчас джаваскрипт реально очень сильно тормозит на некоторых сложных приложениях" (JavaScript really bottlenecks on some complex applications)

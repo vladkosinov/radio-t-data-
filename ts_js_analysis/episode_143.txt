@@ -1,0 +1,5 @@
+Episode: 143
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Technical discussion of JavaScript engine improvements in Firefox 3. Hosts mention new features in Firefox including HTML5 support and the TraceMonkey JavaScript engine, which is noticeably faster than its predecessor. Comparison of JavaScript performance across browsers (Safari vs Firefox), noting that Safari has inherent performance advantages being native, but Firefox is better tested on complex sites. Discussion includes JavaScript API standardization through W3C.
+Key quotes: "Притащили правильный джаваскриптовый движок TraceMonkey, который намного быстрее, чем предыдущий, прямо ощутимо быстрее" (They brought the proper TraceMonkey JavaScript engine which is much faster, noticeably faster); "Safari быстрее работает сам по себе, просто потому что он как-то более нативный у тебя" (Safari is faster in itself because it's more native)

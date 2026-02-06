@@ -1,0 +1,5 @@
+Episode: 803
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript in the context of CISSP book coverage, discussing JavaScript as a functional language. The mentions are incidental to the discussion of how programming books cover different languages.
+Key quotes: "CISCP JavaScript Edition" | "JavaScript как нормальный функциональный язык с очень большими упрощениями" (JavaScript as a normal functional language with very big simplifications)

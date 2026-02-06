@@ -1,0 +1,5 @@
+Episode: 676
+Classification: MIXED
+TS mentions: 3 | JS mentions: 13 | Total: 16
+Summary: Story about JavaScript programmer writing bot for vote manipulation in comments. Discussion of WebAssembly moving away from JavaScript dominance. Mentions TypeScript with JSON for proxy bypass. Mix of anecdote and technical ecosystem discussion.
+Key quotes: "в мире JavaScript вообще счастье какое-то... хочет делать что-то еще" | "WebAssembly... превращается в такую кроссплатформенную среду"

@@ -1,0 +1,7 @@
+Episode: 537
+Classification: MIXED
+TS mentions: 8 | JS mentions: 11 | Total: 19
+Summary: TypeScript is discussed in the context of modern JavaScript development. JavaScript's market dominance and role as a programming language are discussed.
+Key quotes:
+  - "Потом он работал в команде по C-Sharp, еще где-то, а потом, в конце концов, он приземлился и создал, по сути, TypeScript, который, ну, прямо, я не знаю, это человек, который создал действительно новый язык на базе старого, причем TypeScript даже я пользоваться могу, в смысле, что он мне не вызывает такого отторжения, как обычный JavaScript."
+  - "То есть для C-Sharp, для C++ и для TypeScript с C-Sharp скриптом."

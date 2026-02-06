@@ -1,0 +1,5 @@
+Episode: 814
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Brief technical mentions of JavaScript in context of runtimes, transpilers, and Node.js. The mentions are incidental references in discussing various tools and runtime environments without substantive discussion of JavaScript features or philosophy.
+Key quotes: "Очередной Runtime JS, Runtime в разы быстрее Node.js" (Another JavaScript runtime, runtime times faster than Node.js) | "JavaScript Core, который написан на ZIG" (JavaScript Core written in ZIG)

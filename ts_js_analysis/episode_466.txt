@@ -1,0 +1,5 @@
+Episode: 466
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Critique of JavaScript performance issues in email client applications with large datasets. Hosts discuss CPU usage and browser hang problems caused by JavaScript.
+Key quotes: [Umputun]: Как только он какое-то значительное количество почты загрузит, ты начинаешь чувствовать, что это был лайк и написано в джаваскрипте. | [Umputun]: Пытаешься их скролить вниз, и прямо все повисает, и прямо CPU 120%, и прямо белый экран

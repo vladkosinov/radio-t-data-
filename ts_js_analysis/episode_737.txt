@@ -1,0 +1,5 @@
+Episode: 737
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JavaScript usage in a static site generator (with dynamic elements like face drawings) and Testing Library ecosystem for JavaScript testing. Some technical discussion about JavaScript's role in supposedly static sites, and mention of Testing Library's rapid growth and adoption as a standard JavaScript testing tool.
+Key quotes: "Генерируется статически, но там есть немалый кусок джаваскрипта" (Generated statically but contains substantial JavaScript). "Testing Library – это реально библиотека для тестирования на JavaScript" (Testing Library is a real JavaScript testing library). Mix of technical points and passing mentions.

@@ -1,0 +1,5 @@
+Episode: 584
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JavaScript development tool improvements in package managers and debugging features. Mentions interface improvements for JavaScript tools and debugger functionality compared to other languages.
+Key quotes: [Umputun]: Ну, в общем, все остальное какое-то про JavaScript.

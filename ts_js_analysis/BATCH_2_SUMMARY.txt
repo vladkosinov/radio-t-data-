@@ -1,0 +1,109 @@
+================================================================================
+BATCH_2 ANALYSIS SUMMARY
+Radio-T Podcast - TypeScript/JavaScript Mentions Classification
+================================================================================
+
+ANALYSIS PERIOD: Episodes 422-491 (40 episodes total)
+
+CLASSIFICATION RESULTS:
+================================================================================
+SUBSTANTIVE (Real Discussion):     20 episodes (50.0%)
+  - Technical details, ecosystem, features, design decisions
+  
+NAME-DROP (Just Mentioned):        14 episodes (35.0%)
+  - Passing references, jokes, comparisons
+  
+MIXED (Some of Both):               6 episodes (15.0%)
+  - Partial substantive content with passing references
+
+MENTION STATISTICS:
+================================================================================
+TypeScript Mentions:  14 (4.2% of total)
+JavaScript Mentions: 320 (95.8% of total)
+Total TS/JS Mentions: 334
+
+TOP EPISODES BY MENTION COUNT:
+================================================================================
+1. Episode 473: 36 mentions (MIXED)
+   - Coding academy education, programmer community discussion
+   
+2. Episode 449: 34 mentions (SUBSTANTIVE)
+   - WebAssembly vs JavaScript, Asm.js comparison
+   
+3. Episode 441: 24 mentions (SUBSTANTIVE)
+   - Dart compilation strategy, TypeScript for Angular 2, performance
+   
+4. Episode 425: 22 mentions (SUBSTANTIVE)
+   - Functional programming in JavaScript, Lisp comparison
+   
+5. Episode 486: 15 mentions (SUBSTANTIVE)
+   - JavaScript multiparadigm nature, functional programming
+
+SUBSTANTIVE DISCUSSION THEMES (20 episodes):
+================================================================================
+1. Language Design & Philosophy (425, 467, 468)
+   - Functional programming paradigms in JavaScript
+   - Type safety and language safety features
+   - C-like syntax vs actual behavior
+
+2. Framework & Ecosystem (434, 437, 441, 463, 486)
+   - TypeScript adoption in Angular 2
+   - Dart compilation strategies
+   - Nginx JavaScript support vs Lua
+   - Multiparadigm capabilities
+
+3. Technical Internals (451, 452, 455, 469, 484, 485)
+   - JavaScript engine implementations (V8, SpiderMonkey)
+   - ClojureScript transpilation
+   - MongoDB JavaScript support
+   - ZeroNet distributed system architecture
+
+4. Performance & Problems (466, 489)
+   - JavaScript performance in email clients
+   - Type system weaknesses and NPM ecosystem fragmentation
+
+5. Backend Usage (452, 468, 471)
+   - Node.js REST APIs
+   - TypeScript for server-side development
+   - Go language comparison
+
+NAME-DROP EPISODES (14 episodes):
+================================================================================
+- Brief mentions in passing
+- JavaScript used as reference point
+- Jokes or casual comparisons
+- Part of broader discussion topic
+
+Examples: Episodes 422, 424, 438, 442, 446, 447, 457, 461, 465, 470, 478, 480, 481
+
+MIXED EPISODES (6 episodes):
+================================================================================
+- Episode 464: Framework fatigue in JavaScript ecosystem
+- Episode 473: Coding education and programmer elitism
+- Episode 475: Teaching JavaScript in schools
+- Episode 488: Atom editor (written in JS) vs ecosystem trends
+- Episode 491: Debugging tools and language syntax issues
+- Episode 428: Python/JavaScript learning path discussion
+
+KEY INSIGHTS:
+================================================================================
+1. JavaScript dominance: 95.8% of all TS/JS mentions are JavaScript
+2. TypeScript adoption slow in 2014-2015 timeframe (only 14 mentions across 40 episodes)
+3. Functional programming in JavaScript is a frequent discussion topic
+4. Performance and ecosystem fragmentation are consistent concerns
+5. Backend JavaScript (Node.js) emerging as significant topic
+6. Transpilation languages (Dart, TypeScript, ClojureScript) gaining attention
+
+OUTPUT FILES:
+================================================================================
+All 40 episodes have individual analysis files:
+  /home/user/radio-t-data-/ts_js_analysis/episode_NNN.txt
+
+Each file contains:
+  - Episode number
+  - Classification (SUBSTANTIVE/NAME-DROP/MIXED)
+  - TS and JS mention counts
+  - 2-3 sentence summary of discussion
+  - 1-2 key quotes from the episode
+
+================================================================================

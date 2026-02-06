@@ -1,0 +1,5 @@
+Episode: 455
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of ClojureScript transpilation to JavaScript, browser execution via V8, and Node.js/Angular adoption patterns for JavaScript developers.
+Key quotes: [Bobuk]: Ты можешь взять ради интереса позапускать то, что у тебя написано на Clojure, запускать его, например, под V8, в смысле на JavaScript | [AlexeyAbashev]: Скорее, ну, все-таки, наверное, Node.js, там ангуляры всякие набирают людей, которые знают JavaScript

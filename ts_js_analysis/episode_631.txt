@@ -1,0 +1,5 @@
+Episode: 631
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of JavaScript framework options and development practices in web development context.
+Key quotes: [Ksenks]: Говорит, вот нужно plain JavaScript.

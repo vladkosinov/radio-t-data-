@@ -1,0 +1,5 @@
+Episode: 600
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 22 | Total: 24
+Summary: Discussion of TypeScript and JavaScript in modern development practices, framework ecosystems, and language feature comparisons.
+Key quotes: [Ksenks]: Ну, там совсем про JavaScript, но мне понравилось, как автор статьи пытается немножко поглубже копнуть, то есть он говорит, что просто очень часто есть такая шутка про front-end development, что только ты начинаешь изучать фреймворк, и когда ты его заканчиваешь, что он уже деприкейтед, и есть 10 новых, и он пытается рассмотреть, действительно ли есть такая проблема, с чем она может быть связана,

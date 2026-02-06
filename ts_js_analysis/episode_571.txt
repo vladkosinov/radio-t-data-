@@ -1,0 +1,5 @@
+Episode: 571
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Bobuk explains that MongoDB's primary advantage isn't about querying in JavaScript, but rather its data organization principles. MongoDB drivers exist for JavaScript, Python, Java, and C#. The discussion is mainly about database design philosophy rather than JavaScript language features.
+Key quotes: [Bobuk]: В данном конкретном случае это все прелести Монгги не в том, что все запросы в JavaScript делаются.

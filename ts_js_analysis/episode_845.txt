@@ -1,0 +1,5 @@
+Episode: 845
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Hosts debate whether JavaScript is more secure than Java and .NET based on security metrics. They discuss how the number of reported vulnerabilities and time-to-fix statistics are misleading because percentages hide absolute numbers, and question what the real security implications are for JavaScript ecosystem compared to more stable languages.
+Key quotes: "JavaScript безопаснее, чем Java и .NET" (JavaScript is more secure than Java and .NET) | "у JavaScript 54%, а у Java 65%" (JavaScript 54%, Java 65%) | "может, там в джаве было 6, а в джаваскрипте было 600. Проценты, оно уж... Дело хитрое" (Maybe Java had 6 but JavaScript had 600. Percentages are... tricky business) | "severity... в джаве может быть 6, но таких, что прям там, ух" (severity... Java might have 6 but they're really bad)

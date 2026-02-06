@@ -1,0 +1,5 @@
+Episode: 704
+Classification: MIXED
+TS mentions: 2 | JS mentions: 9 | Total: 11
+Summary: Discussion of TypeScript gaining popularity in developer rankings, surpassing Python. Mentions jQuery legacy vs modern JavaScript. Discusses Blazor WebAssembly as JavaScript alternative. HTMX framework for dynamic pages without JavaScript.
+Key quotes: "Rust уже 5 лет лидирует, Питон был вторым, а сейчас он стал третьим" | "Без JavaScript. То есть ты все это пишешь... исключительно вот в этом типа HTML"

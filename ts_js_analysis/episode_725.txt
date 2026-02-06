@@ -1,0 +1,5 @@
+Episode: 725
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of C# vs JavaScript language popularity and usage patterns, analyzing data that shows JavaScript dominates in web development while Java is rarely used for web. Substantive analysis of why different languages dominate in different domains. Debate about what "losing" to JavaScript means in context of specialized use cases.
+Key quotes: "C Sharp проигрывает JavaScript. В этом учете все проигрывают JavaScript" (C# loses to JavaScript. Everything loses to JavaScript in these rankings). "JavaScript очень сильно используется в вебе. И совсем не используется... Java не используется в вебе почти" (JavaScript is heavily used in web. Java is almost never used in web). Analysis of market segmentation.

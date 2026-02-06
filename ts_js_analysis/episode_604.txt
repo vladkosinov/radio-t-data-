@@ -1,0 +1,5 @@
+Episode: 604
+Classification: MIXED
+TS mentions: 1 | JS mentions: 8 | Total: 9
+Summary: Discussion touching on JavaScript and TypeScript in modern development context with some substantive elements but mixed focus.
+Key quotes: [Umputun]: Немножко на JavaScript там вовнутрь вы сможете вписать чего-то.

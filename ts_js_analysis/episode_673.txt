@@ -1,0 +1,5 @@
+Episode: 673
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of Firefox JavaScript rendering engine (Quantum) performance implications. Analyzes potential bottlenecks in JavaScript performance vs rendering. Mentions challenges hiring JavaScript developers from Python backgrounds.
+Key quotes: "движок JavaScript и рендеринг у них не изменился, и он до сих пор Quantum" | "возможно в производительности JavaScript"

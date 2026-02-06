@@ -1,0 +1,5 @@
+Episode: 736
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Discussion of JavaScript ecosystem maturity and philosophy. Topics include: Google's acquisition of NPM, WebAssembly replacing JavaScript for UI development, immutable data structures and performance tradeoffs, functional programming paradigms in JavaScript, JavaScript's role in modern web testing and frameworks. Debate about whether JavaScript developers are following cargo-cult programming patterns without understanding underlying principles.
+Key quotes: "Она, по сути, только JavaScript уберет. То есть все остальное с точки зрения WebUI... JavaScript и его фреймворки" (WebAssembly only removes JavaScript and its frameworks from the UI equation). Discussion of how JavaScript ecosystems encourage certain architectural patterns and whether they're optimal. Critical perspective on JavaScript development culture.

@@ -1,0 +1,5 @@
+Episode: 356
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of Node.js for server-side JavaScript, aspect-oriented programming patterns in JavaScript. Mentions JavaScript compilation to JavaScript.
+Key quotes: Ты прислал ссылка на введение в аспектно-ориентированное программирование на JavaScript. | Он компилируется в JavaScript, да.

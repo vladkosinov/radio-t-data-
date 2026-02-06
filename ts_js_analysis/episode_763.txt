@@ -1,0 +1,5 @@
+Episode: 763
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of a new shell (Monga Shell) being written on JavaScript/Node.js platform. Mostly used as context for discussing shell features and emoji support, not substantive discussion of JavaScript technology itself.
+Key quotes: "Написано на JavaScript с использованием платформы Node.js" (Written on JavaScript using Node.js platform). Simple statement of implementation language without technical elaboration or discussion of JavaScript's suitability for the task.

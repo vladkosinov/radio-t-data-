@@ -1,0 +1,5 @@
+Episode: 749
+Classification: MIXED
+TS mentions: 0 | JS mentions: 10 | Total: 10
+Summary: Discussion of specialized JavaScript roles and ecosystem - JavaScript framework builders vs frontend developers using frameworks. Discussion of IDE support for JavaScript in JetBrains IDEs compared to other languages. Some technical points about JavaScript ecosystem roles and tool support, but mostly anecdotal discussion of developer specialization within JavaScript community.
+Key quotes: "JavaScript-программист, но не фронтендер" (JavaScript programmer but not a frontend developer). "Он из тех джаваскрипт-писателей, которые занимаются написанием фреймворков" (He's a JavaScript writer specializing in framework development). Discussion of IDE treating JavaScript similarly to other languages with full support.

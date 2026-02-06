@@ -1,0 +1,5 @@
+Episode: 818
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Hosts discuss security vulnerabilities in JavaScript projects and criticize the JavaScript ecosystem for inherent complexity and dependency issues. They note that simple static sites are better than JavaScript-heavy ones, and discuss the fundamental problem of JavaScript ecosystem design that leads to constantly changing tooling and dependencies.
+Key quotes: "14 критических секьюрити уязвимостей у всей этой херни, которая на джаваскрипте написана" (14 critical security vulnerabilities in all this crap written in JavaScript) | "Они без JavaScript не умеют" (They can't do anything without JavaScript) | "это способ условно-декларативного программирования типичных ситуаций" (it's a way of conditional-declarative programming for typical situations)

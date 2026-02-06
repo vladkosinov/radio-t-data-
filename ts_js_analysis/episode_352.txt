@@ -1,0 +1,5 @@
+Episode: 352
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 34 | Total: 35
+Summary: Extensive discussion of JavaScript in enterprise contexts. Covers V8 engine, Asm.js, JavaScript limitations, and proper approaches. Bobuk argues for alternatives like Java with Asm.js compilation.
+Key quotes: я искренне считаю, что JavaScript для Enterprise подходит очень слабо. | это как бы признание того, что JavaScript в чистом виде сейчас это такой ассемблер для веба

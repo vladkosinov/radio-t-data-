@@ -1,0 +1,5 @@
+Episode: 424
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of JavaScript in a joke context about pizza diagrams. No substantive discussion of the technology itself.
+Key quotes: [Gray]: И JavaScript, да, лопатом. | [Ksenks]: А у тебя на всех компаниях JavaScript, да?

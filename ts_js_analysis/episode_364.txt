@@ -1,0 +1,5 @@
+Episode: 364
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 10 | Total: 10
+Summary: Discussion of JavaScript book 'Good Parts', ecosystem tools (JSHint), Node.js for Java developers. Mentions avatar project and Nashorn JavaScript engine in Java 8.
+Key quotes: есть такая приблуда, которая рануется поверх какого-нибудь контейнера типа GlassFish или JVOS и так далее, и позволяет писать свои программы на JavaScript. | совершенно новый engine, который будет исполнять JavaScript, работает в 10 раз быстрее, чем Rhino.

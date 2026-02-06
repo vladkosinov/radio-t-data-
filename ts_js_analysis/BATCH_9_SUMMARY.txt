@@ -1,0 +1,67 @@
+BATCH 9 ANALYSIS SUMMARY
+========================
+
+Total Episodes Analyzed: 28
+
+CLASSIFICATION BREAKDOWN:
+- SUBSTANTIVE: 16 episodes
+- NAME-DROP: 10 episodes
+- MIXED: 2 episodes
+
+EPISODES BY CLASSIFICATION:
+
+SUBSTANTIVE DISCUSSIONS (16):
+  950 - DOOM written in TypeScript types (Turing Complete compiler trick)
+  952 - Why TypeScript compiler was rewritten in Go instead of other languages
+  954 - JavaScript linters vs TypeScript type system design
+  955 - AI coding assistant configuration for TypeScript projects
+  959 - Rewriting JavaScript service to Go, comparing IDE support
+  961 - ClojureScript and JavaScript optimization with Closure Compiler
+  962 - JavaScript vs TypeScript for rapid development, Codex rewrite
+  968 - JavaScript framework ecosystem churn and volatility
+  969 - TypeScript code review and quality assessment
+  970 - JavaScript/TypeScript build pipeline complexity
+  972 - Evolution from Node.js+MongoDB to Node.js+TypeScript+structured schemas
+  973 - JavaScript ecosystem bloat, constant updates and breakage
+  990 - Language categorization (high-velocity vs low-level), TypeScript ecosystem
+  991 - JavaScript web bloat, WebAssembly questions, TypeScript as solid language
+  992 - JavaScript serialization security vulnerabilities and RCE attacks
+  993 - Full-stack Go+JavaScript app, TypeScript vs JavaScript Playwright API
+  994 - TypeScript async/sync pattern generation by LLMs
+
+NAME-DROP ONLY (10):
+  949 - Brief mention of Tetris demo written in "JavaScript or TypeScript"
+  951 - JavaScript in browsers, passing mention of TypeScript backend
+  957 - NPM/JavaScript project, language support availability
+  964 - MongoDB MCP in JavaScript, Cloudflare Workers
+  966 - Brief mention of TypeScript/JavaScript language support
+  971 - Recommendation to use TypeScript, native app vs JavaScript
+  985 - Next.js optimization, TypeScript as most-used language ranking
+  989 - JavaScript over-engineering tendency
+  995 - LLMs writing poorly in TypeScript/C
+
+MIXED DISCUSSIONS (2):
+  953 - LLM handling of TypeScript documentation examples (substantive) + passing mentions
+  980 - Protobuf/web challenges (substantive) + language popularity rankings (passing)
+
+KEY FINDINGS:
+
+1. TypeScript Recognition: 16 episodes (57%) contained substantive discussion of TypeScript/JavaScript features, ecosystem, or technical aspects.
+
+2. Main Topics Covered:
+   - Language ecosystem evolution and tooling (episodes 952, 962, 972, 990, 991)
+   - Security and performance concerns (episodes 961, 970, 992)
+   - Developer experience and IDE support (episodes 954, 955, 959, 993, 994)
+   - Framework churn and ecosystem challenges (episodes 968, 973)
+
+3. Sentiment:
+   - Mixed to Critical: Episodes criticize JavaScript complexity, bloat, and ecosystem issues (968, 970, 973, 990, 991)
+   - Positive: TypeScript generally received praise as solid language with good features (954, 955, 991)
+   - Technical: Episodes discussing specific implementations (950, 952, 961, 962, 972)
+
+4. Most Substantive Discussions:
+   - Episode 952 (29 mentions): Deep technical analysis of TypeScript compiler redesign
+   - Episode 970 (6 mentions): JavaScript build pipeline complexity critique
+   - Episode 973 (8 mentions): JavaScript ecosystem bloat and maintenance burden
+
+Files created: /home/user/radio-t-data-/ts_js_analysis/episode_NNN.txt for episodes 949, 950, 951, 952, 953, 954, 955, 957, 959, 961, 962, 964, 966, 968, 969, 970, 971, 972, 973, 980, 985, 989, 990, 991, 992, 993, 994, 995

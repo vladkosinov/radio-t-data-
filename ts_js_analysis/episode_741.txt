@@ -1,0 +1,5 @@
+Episode: 741
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Extended discussion of JavaScript and NPM ecosystem security issues. Topics include Safari JavaScript compatibility issues, NPM dependency vulnerability through supply chain attacks, discussing pixel-tracking via HTML image tags vs JavaScript-based tracking as security evasion technique, CORS security model, and browser Tracking Protection. Historical analysis of why certain techniques (pixel tracking) originated in late 1990s when JavaScript was not universally available or disabled.
+Key quotes: "Многие разработчики создают внутри компании приватные репозитории с JavaScript пакетами NPM" (Many developers create private NPM repositories with JavaScript packages). Historical context: "Потому что это было так популярно" and discussion of JavaScript being optional in early web era. Technical security analysis of JavaScript capabilities and limitations.

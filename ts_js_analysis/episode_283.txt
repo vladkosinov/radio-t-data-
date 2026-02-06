@@ -1,0 +1,5 @@
+Episode: 283
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Technical discussion of JavaScript limitations for client-side encryption and security. Hosts explain that Flash and JavaScript are insufficient for implementing strong encryption on the client side, requiring alternative approaches. Brief mention of CoffeeScript as an alternative JavaScript dialect. Discussion focuses on JavaScript's security and capability constraints for cryptographic operations.
+Key quotes: "для того, чтобы сделать любое сильное шифрование на клиентской стороне, никакой флеш с JavaScript не подойдет" (for implementing strong client-side encryption, neither Flash nor JavaScript will work); "все, кто как бы понимают JavaScript, они молодцы и могут на нем писать. А я лошара, мне удобнее на кофе-скрипте" (those who understand JavaScript are great and can write in it - I'm dumb, CoffeeScript is more convenient for me)

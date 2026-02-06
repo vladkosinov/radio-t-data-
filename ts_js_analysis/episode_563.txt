@@ -1,0 +1,5 @@
+Episode: 563
+Classification: MIXED
+TS mentions: 2 | JS mentions: 11 | Total: 13
+Summary: Umputun discusses IDE support: Atom IDE supports TypeScript, Flow, JavaScript, Java, C#, and PHP out-of-the-box. Ksenks and Umputun joke about needing plugins for all these languages, with Umputun sarcastically suggesting that developers using multiple languages simultaneously suffer from some kind of 'disorder.'
+Key quotes: [Umputun]: Из коробки TypeScript, Flow, JavaScript, Java C, Sharp, PHP умеют понимать.

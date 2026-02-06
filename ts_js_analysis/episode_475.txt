@@ -1,0 +1,5 @@
+Episode: 475
+Classification: MIXED
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Discussion of teaching JavaScript in schools and its role in programmer development. Hosts debate whether 2-week courses can produce competent programmers and ecosystem quality.
+Key quotes: [Umputun]: Каждого ребенка мы научим программировать на JavaScript. | [Umputun]: И считать, что всякого за две недели мы научим писать на джаваскрипте или факультативный курс в школе нам обеспечит покрытие этого рынка

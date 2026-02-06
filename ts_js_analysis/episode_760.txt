@@ -1,0 +1,5 @@
+Episode: 760
+Classification: MIXED
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of search engine implementation by JavaScript developers, with observation that it's obvious from search functionality (results specifically for JavaScript/NPM). Comment about JavaScript developers using NPM philosophy of "let's make it an API" approach. Some technical observation about JavaScript developer culture and tooling choices, but mostly anecdotal commentary.
+Key quotes: "У этой поисковой системы я случайно обнаружил, что писали джаваскриптисты" (Discovered by accident that this search engine was written by JavaScript developers). "Давайте все сделаем через API" (Let's make everything an API) - observation about JavaScript ecosystem philosophy. Mostly cultural observation without deep technical analysis.

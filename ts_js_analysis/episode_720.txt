@@ -1,0 +1,5 @@
+Episode: 720
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion about why JavaScript became popular and dominant in web development. Key point: JavaScript's success is largely due to being the exclusive runtime available in browsers, not inherent language superiority. Discussion contrasts various languages in web context, analyzing market factors rather than technical merit. Philosophical debate about language adoption mechanisms.
+Key quotes: "JavaScript такой хороший, ну просто потому, что у него эксклюзив Access to Run для Runtime" (JavaScript is good simply because it has exclusive access to the browser runtime). "JavaScript был единственным бегущим в браузере" (JavaScript was the only language running in browsers). Analysis of market dominance factors.

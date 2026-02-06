@@ -1,0 +1,5 @@
+Episode: 601
+Classification: SUBSTANTIVE
+TS mentions: 10 | JS mentions: 3 | Total: 13
+Summary: Focused discussion on TypeScript's features, benefits, and its role in addressing JavaScript's type system limitations. Emphasis on how TypeScript improves development experience.
+Key quotes: [Bobuk]: Я тут весь, конечно, ванга, но прогнозирую, что останется только JavaScript и Python, и они будут лучшими подругами.

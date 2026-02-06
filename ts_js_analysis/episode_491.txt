@@ -1,0 +1,5 @@
+Episode: 491
+Classification: MIXED
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: Mixed discussion of JavaScript debugging tools and semicolon syntax issues. Includes technical debugging challenges and humorous observations about professional JavaScript developers.
+Key quotes: [Bobuk]: То тебе нужно развесистое средство для дебагинга джаваскрипта и для отлаживания идей | [Bobuk]: Вот я на JavaScript практически не пишу. Но это очень смешно выглядит, когда сидит чувак, который давно и профессионально пишет на джаваскрипте.

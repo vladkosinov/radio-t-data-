@@ -1,0 +1,7 @@
+Episode: 494
+Classification: MIXED
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: JavaScript/Node.js for server-side development and backend programming is discussed.
+Key quotes:
+  - "Мне кажется, что JavaScript как язык очень некомфортен для написания серверсайда."
+  - "И таки да, действительно обнаружил два решения, одно из которых на JavaScript, который я, ну, как бы, даже не так, на Node.js, правильно говорить, не на JavaScript."

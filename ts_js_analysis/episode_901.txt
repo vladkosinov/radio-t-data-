@@ -1,0 +1,6 @@
+Episode: 901
+Classification: MIXED
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: References to JavaScript problems or discussion topic mentioned.
+Key quotes: Про JavaScript, который накрученный?
+  | Суть в том, что действительно, хотя некоторые сайты все-таки у нас не грузят жуткие мегабайты джаваскрипта,

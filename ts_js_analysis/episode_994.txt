@@ -1,0 +1,5 @@
+Episode: 994
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 1 | Total: 6
+Summary: Umputun discusses LLM-generated code patterns in TypeScript—comparing synchronous versus asynchronous implementations and their trade-offs. He notes that forcing synchronous patterns with async wrappers doesn't achieve the ideal design. Discusses how LLMs struggle with TypeScript code generation but eventually produce working solutions.
+Key quotes: "я писал в процессе и для TypeScript версию, где все синхронно" | "Как он плохо работает с TypeScript. То бишь, вот такого, чтобы я изгнилил код, который синтаксически неверный, он его пытается запустить"

@@ -1,0 +1,7 @@
+Episode: 539
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 15 | Total: 17
+Summary: TypeScript is discussed in the context of modern JavaScript development. JavaScript/Node.js for server-side development and backend programming is discussed.
+Key quotes:
+  - "Реализована первоклассная поддержка Vue.js."
+  - "Кто-нибудь на этом Vue.js пишет из вас?"

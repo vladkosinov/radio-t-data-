@@ -1,0 +1,5 @@
+Episode: 652
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 8 | Total: 10
+Summary: Discussion of JavaScript/ECMAScript evolution and standardization process. Mentions TypeScript leading JavaScript development forward. Explains how JavaScript community fights language design issues through standards. References Bluetooth API standardization approach.
+Key quotes: "TypeScript ведет всех вперед... когда TypeScript станет нормальным ECMAScript N" | "У JavaScript есть сильная комьюнити, которая пытается развивать его"

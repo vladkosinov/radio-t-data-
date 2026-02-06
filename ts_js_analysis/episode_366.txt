@@ -1,0 +1,5 @@
+Episode: 366
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief comparison of Java and JavaScript capabilities. Mentions Node.js as JavaScript server-side solution.
+Key quotes: Они говорят, надо обязательно Java и JavaScript использовать | Для этого Node.js придумали программисты на JavaScript.

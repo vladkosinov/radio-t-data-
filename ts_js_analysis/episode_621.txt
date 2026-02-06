@@ -1,0 +1,5 @@
+Episode: 621
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Brief passing mentions of JavaScript scattered throughout discussion.
+Key quotes: [Umputun]: Но вот про всякие Ruby и про всякие JavaScript он давно уже умел.

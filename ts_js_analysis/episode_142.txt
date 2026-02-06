@@ -1,0 +1,5 @@
+Episode: 142
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of web development tools and JavaScript integration. Hosts compare IDE capabilities for different development stacks - mentioning specialized tools for PHP/HTML/CSS/JavaScript development that are superior to Eclipse for web work. Discussion covers Eclipse's limitations for different languages and the architecture of applications (XUL/JavaScript interface for Firefox-based tools). Technical discussion of how JavaScript interfaces are built within complex applications.
+Key quotes: "входит в стандартный комплект PHP, HTML, CSS, JavaScript, то есть много специализированных тузов, которые сильно лучше, чем Eclipse" (in the standard PHP, HTML, CSS, JavaScript stack there are many specialized tools much better than Eclipse); "большая часть приложений написана на Azul... на JavaScript с XML-ным интерфейсом" (most applications use JavaScript with XML interfaces)

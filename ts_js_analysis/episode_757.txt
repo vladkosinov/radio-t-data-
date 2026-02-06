@@ -1,0 +1,5 @@
+Episode: 757
+Classification: SUBSTANTIVE
+TS mentions: 7 | JS mentions: 5 | Total: 12
+Summary: Discussion of TypeScript praise from Python creator Guido van Rossum, who complimented TypeScript's design by language architect Anders Hejlsberg. Philosophical discussion of Node.js philosophy (creator lamenting that if Go existed earlier, Node.js wouldn't have been created). Discussion of TypeScript as JavaScript enhancement with type system, demonstration of TypeScript code examples showing superior design to vanilla JavaScript approaches. Debate about JavaScript ecosystem tooling and CSS preprocessors.
+Key quotes: "Гвида много лет говорит, что чуваки из TypeScript молодцы" (Guido has long said TypeScript guys are cool). Guido's quote praising TypeScript's type system design. Node.js creator's hypothetical: "если бы существовал Go, я бы не написал Node.js" (if Go existed, I wouldn't have written Node.js). Technical and philosophical analysis of JavaScript ecosystem evolution.

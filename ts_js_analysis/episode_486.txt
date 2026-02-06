@@ -1,0 +1,5 @@
+Episode: 486
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 14 | Total: 15
+Summary: Discussion of JavaScript and TypeScript as multiparadigm languages supporting functional programming. Expert explains paradigm flexibility and modern language capabilities.
+Key quotes: [Bobuk]: Большинство современных языков, то же Java 8, тот же Python, JavaScript, они мультипарадигменные | [Umputun]: Ну, скорее от мира TypeScript, и меня поразило, когда наш китаец рассказал, что он всю жизнь пишет в функциональном стиле

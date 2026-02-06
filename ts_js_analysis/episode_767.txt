@@ -1,0 +1,5 @@
+Episode: 767
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Hosts discuss JavaScript framework choices and complexity, debating whether developers need frameworks like React or if vanilla JavaScript with web components is sufficient. Bobuk argues that simple vanilla JavaScript often requires less learning than complex frameworks, while Umputun advocates for not refactoring JavaScript code.
+Key quotes: "вам не нужен сложный развесистый фреймворк, вам не нужен React, вам ничего такого не нужно, вам нужно просто организовать свою работу" (You don't need complex bloated frameworks, you don't need React, you don't need any of that, you just need to organize your work) | "ванила JavaScript, когда вы все пишете сами просто" (vanilla JavaScript, when you just write everything yourselves)

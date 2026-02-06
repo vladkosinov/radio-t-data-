@@ -1,0 +1,5 @@
+Episode: 694
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: Discussion of NPM package manager for JavaScript/Node.js. Mentions Microsoft acquisition and GitHub integration. Discusses JavaScript stdlib issues and strange library ecosystem. Compares top packages between different language ecosystems.
+Key quotes: "есть 20 тысяч способов проверить массив ли что-то в джаваскрипте" | "Полторы тысячи пакетов для того, чтобы страничку срендерить"

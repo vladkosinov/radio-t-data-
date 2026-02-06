@@ -1,0 +1,5 @@
+Episode: 788
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of a JavaScript faker library author whose package was removed from NPM, causing widespread breakage because half the world's JavaScript applications depended on it. This illustrates both the dependency crisis in JavaScript ecosystem and NPM's quick recovery mechanisms to prevent ecosystem collapse.
+Key quotes: "NPM восстановил его предыдущую версию пэккеджа... иначе бы полмира JavaScript разрушилась, потому что наверняка у всех в продакшене... это используется" (NPM restored the previous version of the package... otherwise half the JavaScript world would have collapsed, because everyone probably uses it in production) | "это богомерзкий мир джаваскрипта" (this cursed JavaScript world)

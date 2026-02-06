@@ -1,0 +1,5 @@
+Episode: 579
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Deep discussion of NPM package management ecosystem and JavaScript development culture. Alek.sys harshly criticizes NPM versions before 5, while Bobuk defends its architecture. Discussion covers framework hype (Angular, React Native), security risks in package dependencies, and how JavaScript can access kernel memory through timing attacks.
+Key quotes: [Bobuk]: У разработчиков, которые пишут активно на ноде и вообще пользуются JavaScript, есть такой большой репозиторий пакетов, который называется NPM.

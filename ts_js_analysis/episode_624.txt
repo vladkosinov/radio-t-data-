@@ -1,0 +1,5 @@
+Episode: 624
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 5 | Total: 10
+Summary: Balanced discussion of both TypeScript and JavaScript focusing on language features, ecosystem decisions, and practical development considerations.
+Key quotes: [Alek.sys]: То есть, например, если я знаю JavaScript с React, знаю Spring и знаю Postgres, то я могу на этом стэке реализовать задачу от и до.

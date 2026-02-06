@@ -1,0 +1,5 @@
+Episode: 596
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Brief mentions of JavaScript scattered through discussion without sustained analysis or focus.
+Key quotes: [Umputun]: Да, JavaScript-программисты.

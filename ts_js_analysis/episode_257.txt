@@ -1,0 +1,5 @@
+Episode: 257
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 13 | Total: 13
+Summary: Technical discussion of JavaScript's role in modern application platforms. Hosts discuss Chrome OS strategy of combining HTML5/JavaScript with Native Client (C++), comparing this to Windows 8's requirements for developers to either use C++ or HTML5/JavaScript/CSS. Debate about performance expectations for JavaScript and its suitability as primary application platform. Discussion covers why JavaScript performance matters practically and the strategic positioning of JavaScript as core to modern OS ecosystems.
+Key quotes: "На Chrome OS они выбрали похожую модель. То есть JavaScript и HTML5 плюс Native Client... это в том числе C++, да?" (Chrome OS uses similar model: JavaScript/HTML5 plus Native Client including C++); "все-таки это JavaScript. Понимаешь, да?" (after all it's JavaScript - you understand?)

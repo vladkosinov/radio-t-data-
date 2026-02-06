@@ -1,0 +1,5 @@
+Episode: 734
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Discussion of JavaScript ES6 arrow functions and functional programming features. Debate about full-stack developers and JavaScript's role as enabling language that works in both frontend and backend via Node.js. Discussion of JavaScript framework ecosystem and browser extension systems that can load JavaScript from servers. Technical focus on language features and ecosystem capabilities.
+Key quotes: "ECMAScript 6, там можно писать некое переменное, равно, стрелочка и сразу написать однострочное какое-то выполнение кода" (ES6 arrow functions allow concise one-liners). "Теперь JavaScript просто разработчиков уже можно назвать фулл стэком, потому что JavaScript там и там работает" (JavaScript developers can now be called full-stack because JavaScript works everywhere).

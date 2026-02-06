@@ -1,0 +1,5 @@
+Episode: 957
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 5 | Total: 6
+Summary: Umputun and Bobuk comment that a project is written in JavaScript using NPM, question why JavaScript was chosen over Python, and note that various editors have support for Rust, TypeScript, C#, and Go but not Ruby. Brief mentions of language support without substantive discussion of features.
+Key quotes: "почему-то оно все на NPM написано, на JavaScript" | "для Rust есть, для TypeScript есть"

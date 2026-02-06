@@ -1,0 +1,5 @@
+Episode: 732
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Passing mentions of JavaScript in context of backend experience (Java, Kotlin, Rust, PHP, JavaScript), and one mention of JavaScript in web development context. Brief mentions without technical discussion - just listing technologies developers have worked with.
+Key quotes: "Мы все пишем на JavaScript понемножку" (We all write a bit of JavaScript). Used as an aside without elaboration about the language itself.

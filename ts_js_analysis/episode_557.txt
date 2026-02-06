@@ -1,0 +1,7 @@
+Episode: 557
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 14 | Total: 14
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "На самом деле это не про рендеринг, а про выполнение JavaScript в параллели."
+  - "Пишут стандарт же, вроде JavaScript будет однопоточным."

@@ -1,0 +1,5 @@
+Episode: 343
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: Discussion of JavaScript as a real programming language vs. scripting. Compares Rust and JavaScript, discusses interface concepts and polymorphism. Umputun criticizes JavaScript's quirks but acknowledges its capabilities.
+Key quotes: JavaScript – настоящий язык. | Мне правда действительно гораздо ближе Rust, может быть потому, что он намного более читаемый

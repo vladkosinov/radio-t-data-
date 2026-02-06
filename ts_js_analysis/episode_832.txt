@@ -1,0 +1,5 @@
+Episode: 832
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mentions of JavaScript as one of multiple language options for QA automation testing. The mentions are contextual references without substantive discussion of JavaScript's testing capabilities or ecosystem.
+Key quotes: "Писать автотесты на JavaScript, завтра писать автотесты... на Пайтоне" (Write automated tests in JavaScript, tomorrow write automated tests in Python) | "Много талантливых QA, которые... приходится переключаться между фреймворками, языками" (Many talented QA who have to switch between frameworks and languages)

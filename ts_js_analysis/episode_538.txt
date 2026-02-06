@@ -1,0 +1,7 @@
+Episode: 538
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Пока там будет направление перехода с ассемблера на JavaScript, я вообще не доверю этой картинке."
+  - "Ты сможешь сгенерить скелет какого-то JavaScript, который будет делать что?"

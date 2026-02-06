@@ -1,0 +1,7 @@
+Episode: 518
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Там как бы такой JavaScript браузер виртуальный."
+  - "По-моему, он весь написан, ну, кроме Go, там еще JavaScript какой-то есть, но все остальное... Нет, конечно, там внутри... Слушай, ну кончай, это что?"

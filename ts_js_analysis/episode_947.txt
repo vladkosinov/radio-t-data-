@@ -1,0 +1,6 @@
+Episode: 947
+Classification: SUBSTANTIVE
+TS mentions: 10 | JS mentions: 8 | Total: 18
+Summary: Hosts express opinions on language quality: Umputun says 'let's not talk about JavaScript' but TypeScript is 'almost normal'. Alek discusses professional experience with TypeScript and JavaScript. Deep discussion of JavaScript ecosystem reliability - breaking changes occur every few months, showing fundamental problems.
+Key quotes: Про JavaScript лучше помолчим.
+  | TypeScript тоже почти нормальный.

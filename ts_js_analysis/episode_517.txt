@@ -1,0 +1,7 @@
+Episode: 517
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Ну, типа отключением доступа вообще к состоянию из JavaScript, так, к состоянию, к цвету ссылки."
+  - "Так, новый менеджер зависимости для JavaScript, я. Новый день, новый мавин для JavaScript."

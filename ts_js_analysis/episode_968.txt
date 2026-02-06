@@ -1,0 +1,5 @@
+Episode: 968
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Umputun and Alek.sys discuss JavaScript ecosystem's constant framework churn—new frameworks appear frequently and become obsolete just as fast. They humorously compare JavaScript framework dynamics to fanatics who adopt each new trend regardless of stability or utility. A commentary on JavaScript ecosystem volatility.
+Key quotes: "это такие фанатики примерно, как в мире JavaScript очередного нового фреймворка, который завтра поменяется неузнаваемо" | "Так это любой фреймворк в JavaScript такой. То есть теперь реально любой"

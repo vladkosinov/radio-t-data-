@@ -1,0 +1,7 @@
+Episode: 514
+Classification: SUBSTANTIVE
+TS mentions: 14 | JS mentions: 23 | Total: 37
+Summary: TypeScript is discussed in the context of modern JavaScript development. JavaScript/Node.js for server-side development and backend programming is discussed.
+Key quotes:
+  - "Хотя, конечно, рынок серверов для тебя так же далек, как был рынок серверов для программистов на JavaScript, но вот как они рванули... Как для тебя рынок мобильных приложений."
+  - "Это такой суперсет от JavaScript, даже по-другому скажу, суперсет, наверное, даже от шестого ECMAScript, с попытками, ну, 15-го, 6-го, с попытками..."

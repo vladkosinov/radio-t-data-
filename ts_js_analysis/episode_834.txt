@@ -1,0 +1,5 @@
+Episode: 834
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Hosts discuss JavaScript developer onboarding and team dynamics, praising JavaScript's ease for bringing new team members up to speed compared to other languages. Umputun argues that Go is easier than Java for JavaScript developers, and they discuss the balance between hiring specialists and training generalists.
+Key quotes: "такого гладкого внедрения новых людей даже из JavaScript, даже совсем уж таких отмороженных в команду... у меня ни с каким другим языком не было" (I've never had such smooth onboarding of new people even from JavaScript, even really crazy ones, with any other language) | "есть два современных скриптовых языка, которые работают. Один из них называется Python, второй называется JavaScript" (There are two modern scripting languages that work. One is called Python, the other is called JavaScript)

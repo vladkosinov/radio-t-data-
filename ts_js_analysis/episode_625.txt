@@ -1,0 +1,5 @@
+Episode: 625
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 12 | Total: 13
+Summary: Discussion of TypeScript and JavaScript in modern development practices with focus on language features and ecosystem tools.
+Key quotes: [Alek.sys]: Так я тоже пишу, но и на JavaScript я писал, Бобок, так что... А, ну это просто ты чуть-чуть приподнялся, но твоя клавиатура не дает тебе подняться выше.

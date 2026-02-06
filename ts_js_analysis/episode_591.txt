@@ -1,0 +1,5 @@
+Episode: 591
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief passing mention of JavaScript in context of unrelated programming language discussion.
+Key quotes: [Umputun]: Я так понимаю, вы можете зайти вместе, значит, поредактировать какой-то недобитый HTML-чик, написать какого-то странненького JavaScript, добавить туда картинок и все вместе, значит, всем миром создать какой-нибудь следующий Facebook.

@@ -1,0 +1,5 @@
+Episode: 670
+Classification: MIXED
+TS mentions: 1 | JS mentions: 7 | Total: 8
+Summary: Historical perspective on CoffeeScript as JavaScript alternative solving problems that have since been fixed by ES6/modern JavaScript. Mentions JavaScript and TypeScript stdlib discussions. Mixed substantive history with some name-dropping.
+Key quotes: "CoffeeScript был таким более нормальным диалектом джаваскрипта" | "TypeScript умеют писать"

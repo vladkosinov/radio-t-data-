@@ -1,0 +1,5 @@
+Episode: 573
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 15 | Total: 15
+Summary: Extensive analysis of code duplication across programming languages shows JavaScript dominates with 97% duplicated code versus 3% unique code. Discussion covers NPM package management practices, IDE refactoring capabilities, developer behavior in web development, and how JavaScript developers prioritize speed-to-market over code uniqueness.
+Key quotes: [Bobuk]: А чемпионом, по-прежнему, кажется, является JavaScript.

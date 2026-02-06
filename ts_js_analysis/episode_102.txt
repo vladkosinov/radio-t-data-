@@ -1,0 +1,5 @@
+Episode: 102
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 18 | Total: 18
+Summary: Deep technical discussion of competing JavaScript engine implementations. Topics include WebKit's new JavaScript engine with JIT (just-in-time) compilation that converts JavaScript source to native code, comparison with Adobe's Tamarin engine (faster but less clean implementation), Google's V8 engine, Mozilla's TraceMonkey, and WebKit's Squirrelfish. Extensive performance benchmarking discussion, with Squirrelfish claimed to be 2-3x faster than competitors. Focus on how browser vendors are racing to optimize JS execution.
+Key quotes: "он работает как... у него есть, так скажем, компилятор реального времени" (it has a real-time compiler); "они с этим новым своим энджайном, они несколько опоздали, потому что, собственно, Adobe уже отдала свой этот самый Tamarin" (they're a bit late with their new engine because Adobe already released Tamarin)

@@ -1,0 +1,7 @@
+Episode: 540
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 7 | Total: 9
+Summary: TypeScript is discussed in the context of modern JavaScript development. JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Ну, я с тобой согласен, но если ты считаешь, что для Васи с улицы, или для Джо, который раньше имел тротуар, а теперь выучил JavaScript, поставить и сконфигурировать монеты, это вот такая простая вещь, как для тебя, так ты таки сильно ошибаешься."
+  - "И с точки зрения find, вот если он передает JSON, а я его в find вставляю, есть одна, ровным счетом, одна опасная, которая where."

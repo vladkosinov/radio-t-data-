@@ -1,0 +1,5 @@
+Episode: 838
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 2 | Total: 7
+Summary: Hosts discuss Pulumi, a cloud infrastructure language that looks like TypeScript. They debate whether Pulumi should be its own language or just a TypeScript library, discussing the design decision to create a new language (with TypeScript-like syntax) versus providing libraries. Umputun questions why not just use TypeScript with libraries instead.
+Key quotes: "Это такой язык, который выглядит как TypeScript" (It's a language that looks like TypeScript) | "Идея интересна, но почему бы не предоставить к TypeScript библиотеку... и не возиться с этим всем" (The idea is interesting, but why not just provide a TypeScript library... instead of all this fiddling) | "У них там свой CLI есть, свой компайлер" (They have their own CLI, their own compiler)

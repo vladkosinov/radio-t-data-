@@ -1,0 +1,5 @@
+Episode: 485
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Technical discussion of ZeroNet distributed system using HTML, JavaScript, and distributed SQL-like databases. Hosts explain architecture for building distributed forums.
+Key quotes: [Bobuk]: Это такая сеть, которая позволяет тебе хранить статические файлы, ну, то есть читая HTML, JavaScript и все такое. | [Bobuk]: Если ты хочешь сделать форум, который по-настоящему распределенный, то у тебя просто прямо из JavaScript вызываются там примерно SQL-запросы

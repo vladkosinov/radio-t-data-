@@ -1,0 +1,5 @@
+Episode: 992
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussion about JavaScript serialization vulnerability similar to Java deserialization attacks that could lead to RCE (Remote Code Execution). Mentions that React was once exploited this way. Notes JavaScript remains the most popular programming language, with HTML as the second language. A security-focused discussion on JavaScript ecosystem vulnerabilities.
+Key quotes: "как весь интернет сломался, весь JavaScript в мире сломался" | "Они изобрели Java Serialization. Ну, в этом случае JavaScript Serialization. Естественно, первое, что они словили, это RCE"

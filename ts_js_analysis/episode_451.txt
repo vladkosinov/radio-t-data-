@@ -1,0 +1,5 @@
+Episode: 451
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of MongoDB JavaScript engine options and performance optimizations. Mentions V8, SpiderMonkey engines and Just-in-Time compilation for JavaScript.
+Key quotes: [Umputun]: У меня в Монге на Джаваскрипт это написать. | [Bobuk]: Ну, то есть там, по крайней мере, есть оптимизация, ну, в ресурсе Realtime, этот самый, как он называется, Just-in-Time компилятор для JavaScript

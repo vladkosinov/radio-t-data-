@@ -1,0 +1,5 @@
+Episode: 327
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: Mentions of JavaScript plugin issue and language popularity statistics. JavaScript is just one of several languages mentioned in GitHub statistics discussion.
+Key quotes: меня тут удивляет, например, еще, что JavaScript так мало. | JavaScript достаточно сейчас популярен

@@ -1,0 +1,4 @@
+Episode: 662
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Mention of JavaScript as language for examples and npm as package manager. Discussing broader ecosystem topics rather than JavaScript-specific features.

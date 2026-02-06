@@ -1,0 +1,5 @@
+Episode: 705
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Criticism of Dart as overly complicated JavaScript derivative. Discusses attempt to improve JavaScript through new language but resulting in unmaintainable syntax. Shows frustration with language proliferation in JavaScript ecosystem.
+Key quotes: "ухудшить JavaScript – это прямо талант какой-то нужен был" | "смесь Java и Scala, которую вырастили из JavaScript"

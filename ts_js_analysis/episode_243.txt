@@ -1,0 +1,5 @@
+Episode: 243
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Discussion of JavaScript as a universal platform alternative. Hosts debate Windows 8's push toward HTML5/JavaScript development as replacement for C++ and .NET platforms. Humorous but substantive discussion of JavaScript's growing role as a platform for everything - from applications to theoretically even OS kernels - with mentions of C++ to JavaScript translation possibilities via LLVM, and joking examples about Linux/macOS in JavaScript. Focus on JavaScript's emergence as Microsoft's new recommended platform for modern development.
+Key quotes: "нам теперь развидеть C++ и увидеть JavaScript отказываемся" (we're refusing to stop using C++ and start using JavaScript); "почему до сих пор никто не написал транслятор C++ в JavaScript?" (why hasn't anyone written a C++ to JavaScript translator?); "новая macOS написана на JavaScript" (new macOS is written in JavaScript - said humorously)

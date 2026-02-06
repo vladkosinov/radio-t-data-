@@ -1,0 +1,5 @@
+Episode: 246
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of a PDF reader application written entirely in JavaScript/HTML5, and passing reference to Node.js for server-side JavaScript. No substantive technical discussion of JavaScript capabilities or features - primarily stating that such applications can be written in JavaScript without elaborating on techniques, performance, or implications.
+Key quotes: "полноценная программа для чтения PDF написана целиком для JavaScript" (a full-featured PDF reader is written entirely in JavaScript); "есть там всякие Node.js и так далее" (there are various Node.js implementations and such)

@@ -1,0 +1,5 @@
+Episode: 170
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript mentioned only in context of programming language popularity statistics, where it's noted as declining in rankings. Also brief mention of a BASIC implementation written in JavaScript. No substantive discussion of JavaScript features, capabilities, or use - purely statistical references to the language's position in broader programming language surveys.
+Key quotes: "На девятом месте JavaScript тоже падает в популярности" (JavaScript is also dropping in popularity at ninth place); "Реализация кубейсика на джаваскрипте... это прям профанация всех идей" (BASIC implementation in JavaScript - that's a profanation of all ideas)

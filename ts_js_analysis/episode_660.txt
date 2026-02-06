@@ -1,0 +1,4 @@
+Episode: 660
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Passing comparison of Go developer trying to replicate JavaScript-like features. Mentioned in context of language design philosophy, not substantive discussion.

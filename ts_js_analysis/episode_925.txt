@@ -1,0 +1,6 @@
+Episode: 925
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 10 | Total: 10
+Summary: Alek starts reading about JavaScript Runtime on Go (likely going.js or similar), planning to discuss JavaScript runtime implementation in Go.
+Key quotes: Я начал ее читать про JavaScript Runtime на ГОК.
+  | Ну, короче, кто-то написал JavaScript Runtime на Go.

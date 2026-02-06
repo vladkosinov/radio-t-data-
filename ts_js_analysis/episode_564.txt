@@ -1,0 +1,5 @@
+Episode: 564
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Brief mention of JavaScript as one of the programming languages Codewars supports (along with Ruby). Alek.sys comments that complex frontend work in JavaScript can be as challenging as backend work, but the context is primarily about distributed systems challenges rather than JavaScript specifics.
+Key quotes: [Umputun]: По-моему, у них там кроме Ruby и JavaScript ничего больше не поддерживают.

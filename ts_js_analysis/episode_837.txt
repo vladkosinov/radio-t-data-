@@ -1,0 +1,5 @@
+Episode: 837
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mentions of a developer's JavaScript skills and Apple's security concerns about JavaScript on iOS. The mentions are contextual without substantive discussion of JavaScript features or capabilities.
+Key quotes: "Я только JavaScript умею" (I only know JavaScript) | "ваш дырявый JavaScript пробьет их замечательный Mac iOS защиту" (your leaky JavaScript will pierce their wonderful Mac iOS protection)

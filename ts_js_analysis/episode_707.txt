@@ -1,0 +1,5 @@
+Episode: 707
+Classification: MIXED
+TS mentions: 1 | JS mentions: 4 | Total: 5
+Summary: Discussion of server-side rendering approach avoiding client-side JavaScript for initial page load. Mentions configuration formats with JavaScript/TypeScript/Dockerfile. Shows tradeoff between performance and dynamic interactivity.
+Key quotes: "Что первоначальная страница... она прилетает уже от рендеринга. У тебя нет задержки" | "в котором нужно их JavaScript-код запускать"

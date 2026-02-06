@@ -1,0 +1,5 @@
+Episode: 567
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Alek.sys notes that JavaScript lacks a standard library, necessitating use of external packages for even basic functionality. Discussion mentions NPM and JavaScript package dependencies, but remains brief without deeper analysis.
+Key quotes: [Alek.sys]: Ну, у JavaScript вообще нет стандартной библиотеки, начнем с этого.

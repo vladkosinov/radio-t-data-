@@ -1,0 +1,7 @@
+Episode: 492
+Classification: MIXED
+TS mentions: 0 | JS mentions: 8 | Total: 8
+Summary: JavaScript's async/await patterns and asynchronous programming complexity are discussed.
+Key quotes:
+  - "Люди, которые пишут, что Async Await слезали с JavaScript, видимо, вообще никогда не программировали ни на чем кроме JavaScript, потому что, конечно же, эта конструкция есть в огромном количестве языков."
+  - "Конкретно Async Await, если что, в JavaScript нет."

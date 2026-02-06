@@ -1,0 +1,7 @@
+Episode: 533
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: JavaScript frameworks (React, Angular) and their ecosystem are discussed.
+Key quotes:
+  - "Ну, JavaScript это просто вот идеально стабильный и iOS."
+  - "То есть JavaScript, iOS разработчики, Facebook и так далее."

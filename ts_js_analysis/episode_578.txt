@@ -1,0 +1,5 @@
+Episode: 578
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript mentioned in passing when Umputun lists it as one of three technologies (along with PHP and Microsoft) that the show frequently criticizes. Context is about browser security vulnerabilities and cross-site attacks, not JavaScript-specific features.
+Key quotes: [Umputun]: Что неужели в JavaScript мире и в UI настолько так все плохо, что можно прочитать фрейм с чужого сайта?

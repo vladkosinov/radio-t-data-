@@ -1,0 +1,6 @@
+Episode: 863
+Classification: SUBSTANTIVE
+TS mentions: 1 | JS mentions: 6 | Total: 7
+Summary: Umputun and Bobuk discuss how Go tooling targets both NPM and JavaScript/Node.js package ecosystems, analyzing the package management differences.
+Key quotes: И в нодовские, и в JavaScript-овские пакеты.
+  | Ну, Go это маленький... Я просто пример на Go привожу, потому что библиотек для Go существенно меньше, чем библиотека для JavaScript.

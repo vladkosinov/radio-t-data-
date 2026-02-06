@@ -1,0 +1,6 @@
+Episode: 941
+Classification: NAME-DROP
+TS mentions: 3 | JS mentions: 1 | Total: 4
+Summary: TypeScript and JavaScript mentioned as options for solving tasks but not discussed substantively.
+Key quotes: Но потом идут JavaScript, что показывает, что не все были в TSV-уме.
+  | Подожди, подожди, ну там TypeScript есть, но TypeScript, наверное, можно решать эти задачи?

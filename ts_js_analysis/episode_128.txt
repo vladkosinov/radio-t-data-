@@ -1,0 +1,5 @@
+Episode: 128
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of JavaScript debugging and performance problems. Hosts discuss a 12KB JavaScript code injected into every HTML document that only works in IE6 with poor quality. The discussion covers debugging scripts that fetch data via HTTP protocol and manipulate it, with examples of obfuscated/minified JavaScript. While heavily negative, it's substantive technical discussion of JavaScript implementation challenges.
+Key quotes: "12-килобайтный джаваскрипт... Который работает только под Е6" (12KB JavaScript that only works in IE6); "я просто долго пытался отлаживать скрипт, который, ну, простите, по HTTP протоколу забирает некоторые данные и пытается там с ними оперировать" (I spent a long time debugging a script that fetches data via HTTP and manipulates it)

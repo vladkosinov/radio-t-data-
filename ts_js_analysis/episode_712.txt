@@ -1,0 +1,5 @@
+Episode: 712
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion about whether knowing a programming language means you're good at it. Ksenks mentions JavaScript as "readable" even if one isn't an expert, discussing the difference between reading code and being proficient. Debate about JavaScript syntax clarity versus actual expertise required.
+Key quotes: "Я не знаю, кто не может прочитать джаваскрипт" (I don't know who can't read JavaScript). "JavaScript может быть плохой пример, потому что там никогда не поймешь, что это на самом деле значит" (JavaScript might be a bad example because you can never really understand what it actually means).

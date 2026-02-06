@@ -1,0 +1,5 @@
+Episode: 162
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript is mentioned briefly in context of language comparisons while discussing another language (appears to be Go or Lua). Host notes that this new language is a compiled language similar to something between C++, Python, and JavaScript, mentioning prototypes as a JavaScript feature. No substantive discussion of JavaScript itself - just a passing reference to explain another language's features.
+Key quotes: "Это язык, который представляет из себя нечто среднее между... между C++, Python и JavaScript" (It's a language that's something between C++, Python, and JavaScript); "прототипы в JavaScript" (prototypes in JavaScript)

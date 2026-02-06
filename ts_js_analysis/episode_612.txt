@@ -1,0 +1,5 @@
+Episode: 612
+Classification: MIXED
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Discussion with multiple JavaScript mentions in development context but mixed substantive depth.
+Key quotes: [Bobuk]: как бы приложение, но вообще-то оно написано на JavaScript.

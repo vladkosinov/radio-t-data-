@@ -1,0 +1,5 @@
+Episode: 347
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 19 | Total: 19
+Summary: Extensive philosophical debate about JavaScript developers vs. real programmers. Discussion of neural networks in JavaScript, JavaScript's rise in popularity, and the democratization of programming.
+Key quotes: я считаю, что это разработчики на джаваскрипте, потому что я недавно тут видел реализацию, например, нейронных сетей на джаваскрипте. | Как ты относишься к тому, что на первом месте вдруг стал JavaScript?

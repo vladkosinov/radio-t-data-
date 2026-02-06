@@ -1,0 +1,4 @@
+Episode: 656
+Classification: NAME-DROP
+TS mentions: 2 | JS mentions: 1 | Total: 3
+Summary: Brief identification of frontend using TypeScript with Preact framework. Mentions React as comparison point. No substantive discussion of features or design choices.

@@ -1,0 +1,5 @@
+Episode: 780
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Alek.sys compares Go and JavaScript ecosystems for library stability and maintenance. He notes that JavaScript packages update constantly with breaking changes, while Go libraries from years ago remain stable and usable, illustrating cultural differences in ecosystem practices between the two language communities.
+Key quotes: "Если ты там нагуглишь что-нибудь, я не знаю, статью 2003 года, то она будет актуальна... А в джаваскрипте нет" (If you find an article from 2003 in Java, it will still be relevant... But not in JavaScript) | "Последний коммит... там 9 лет назад... 3 года назад обновил на модуле, и понимаешь, что нормально, можно пользоваться" (Last commit was 9 years ago... updated on the module 3 years ago, and you understand it's fine, you can use it)

@@ -1,0 +1,6 @@
+Episode: 874
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 3 | Total: 6
+Summary: Detailed discussion of how TypeScript handles first-class types vs JavaScript's JIT compilation and approach. Hosts compare TypeScript's type system design with JavaScript's runtime behavior and other language implementations.
+Key quotes: То есть тип становится first class как с функциями.
+  | Смотри, я же тебе говорю, они сделали по сути так же, как это было сделано в TypeScript.

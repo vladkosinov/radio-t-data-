@@ -1,0 +1,5 @@
+Episode: 469
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of MongoDB JavaScript stored procedures and engine changes between V8 and SpiderMonkey. Includes discussion of JavaScript client library improvements.
+Key quotes: [Umputun]: Теперь у них, кстати, одно из изменений, он перешел на вот этот модный движок JavaScript. | [Bobuk]: Могу и V8 обратно на SpiderMonkey. Но при этом поддерживает совместимость, новый SDK более логичный на JavaScript и Python

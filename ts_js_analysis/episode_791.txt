@@ -1,0 +1,5 @@
+Episode: 791
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Hosts discuss alternatives to JavaScript, including Python, WebAssembly, and future directions for web development. They suggest that JavaScript will eventually become a thin wrapper around WebAssembly, and debate whether developers should avoid writing JavaScript altogether in favor of compile-to-WebAssembly languages.
+Key quotes: "Со временем просто все, что на джаваскрипте, превратится в тонкую оберточку вокруг веб-ассемблей" (Over time, everything in JavaScript will become a thin wrapper around WebAssembly) | "Если бы мы взяли настоящего JavaScript разработчика, он бы нам объяснил, почему мы полные кретины" (If we took a real JavaScript developer, they'd explain why we're complete idiots)

@@ -1,0 +1,5 @@
+Episode: 748
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 19 | Total: 19
+Summary: Philosophical discussion about programming language culture and ecosystem impact, using JavaScript as key example. Contrasts JavaScript ecosystem culture with Go's culture (safety-conscious vs "credentials don't matter" attitude). Discussion of JavaScript's role in building frontend frameworks and SPAs requiring 15MB of JavaScript for simple functionality. Debate about whether Python transpiling to JavaScript is viable alternative. Discussion of language culture impact on code quality and security practices.
+Key quotes: "Язык программирования — это скорее культура вокруг этого языка программирования. И, например, не знаю, язык программирования Go с точки зрения культуры очень сильно отличается от JavaScript" (Programming language is really about culture around it; Go's culture differs greatly from JavaScript's). Critical analysis of JavaScript ecosystem's impact on development practices.

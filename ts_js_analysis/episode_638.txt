@@ -1,0 +1,5 @@
+Episode: 638
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: Discussion of modern SPA development with JavaScript/API approach vs static content. Covers how search engines handle JavaScript-based indexing. Mentions JavaScript form validation issues with password managers not being recognized by JS validation logic.
+Key quotes: "все современные поисковые системы умеют индексировать с учетом JavaScript" | "Вы контролируете валидность полей ввода... JavaScript, который не понимает, когда в него что-то вставляет паспорт-менеджер"

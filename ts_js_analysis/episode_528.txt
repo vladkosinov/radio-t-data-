@@ -1,0 +1,7 @@
+Episode: 528
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: JavaScript transpilation and code generation techniques are discussed.
+Key quotes:
+  - "Ну, я честно скажу, я ни разу не смог этой системой воспользоваться, потому что всегда оказывалось, что мне чем строить систему с транспиллером, который компилирует JavaScript, проще написать на JavaScript."
+  - "Один из самых клевых, наверное, транспилеров, это транспилеры в JavaScript."

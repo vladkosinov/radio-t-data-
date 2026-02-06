@@ -1,0 +1,5 @@
+Episode: 265
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Technical discussion of JavaScript in database access patterns and browser security. Hosts discuss CouchDB database with client-side JavaScript libraries that directly access database documents, and the limitations of JavaScript access to external resources based on domain origin (same-origin policy). Discussion covers practical implications of JavaScript security constraints for web application architecture.
+Key quotes: "dgenaскриптовые твои клиентские библиотеки обращаются непосредственно напрямую в базу к документу" (your JavaScript client libraries directly access the database); "JavaScript работает, да? С какого домена загрузился файл, грубо говоря, куком того домена он имеет доступ" (JavaScript execution depends on domain origin - cookies from that domain are accessible)

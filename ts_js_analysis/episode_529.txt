@@ -1,0 +1,7 @@
+Episode: 529
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: JavaScript is mentioned in development context.
+Key quotes:
+  - "Отделение Майкрософта этой же страны просто один в один в наглую скопировало Plurk с точностью до багов в дизайне и кусков JavaScript кода, и даже кусков CSS, и торжественно запустило под названием Plurk."
+  - "Знаешь, есть терминал на JavaScript написан."

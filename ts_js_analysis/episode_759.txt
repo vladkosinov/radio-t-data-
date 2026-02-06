@@ -1,0 +1,5 @@
+Episode: 759
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of NJS (Nginx scripting module) using JavaScript instead of Lua for Nginx configuration. Technical analysis of embedding a JavaScript parser and runtime inside Nginx kernel, discussing limitations of space-constrained environments. Philosophical debate about whether scripting languages in web servers are utopian/impractical ideas. Discussion of what JavaScript can actually accomplish within Nginx module constraints vs pure configuration approaches.
+Key quotes: "НИС-конфиги для Nginx теперь можно писать на JavaScript" (Nginx configs can now be written in JavaScript). "Идея в том, чтобы был какой-то скриптовый язык внутри веб-сервера, нам с тобой обоим кажется немножко стремноватой идеей" (The idea of scripting languages inside web servers seems a bit sketchy to both of us). Discussion of trade-offs between flexibility and constraints.

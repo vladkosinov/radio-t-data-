@@ -1,0 +1,5 @@
+Episode: 790
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 9 | Total: 9
+Summary: Hosts debate React's necessity versus vanilla JavaScript, discussing whether complex frameworks are justified for most applications. They address the real constraint of slow phones executing JavaScript and discuss practical trade-offs between simple DOM updates and full-featured frameworks like React.
+Key quotes: "Просто засунуть туда из Джейсона, перерисовать странички — это несложный процесс" (Just stick JSON in there and redraw the pages - it's a simple process) | "Медленно исполняют JavaScript" (slowly execute JavaScript)

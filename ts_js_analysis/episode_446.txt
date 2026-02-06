@@ -1,0 +1,5 @@
+Episode: 446
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Casual mention of functional constructs (map, filter) and JavaScript in comparison to Protocol Buffers format. No deep technical discussion.
+Key quotes: [ViktorGamov]: Но он из джаваскрипта пришел, там как бы присутствуют функциональные конструкции. | [Umputun]: связи с вот этим убогым миром джаваскрипта, куда надо туда-сюда ресты отдавать

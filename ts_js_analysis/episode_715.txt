@@ -1,0 +1,5 @@
+Episode: 715
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of JavaScript ecosystem and programmer practices. Criticized JavaScript developers for inability to perform simple mathematical operations (integer division) without libraries. Debate about whether this reflects on the language, the developers, or cultural practices within the JavaScript community. Discussion of how JavaScript libraries encourage dependency on external utilities.
+Key quotes: "Программистам на джаваскрипте, которые не могут целую часть от числа взять без библиотеки" (JavaScript programmers who can't do integer division without a library). Critical perspective on JavaScript developer culture and practices.

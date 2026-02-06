@@ -1,0 +1,6 @@
+Episode: 895
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Discussing multi-language support: parts of codebase in JavaScript, Go, Python, and other languages.
+Key quotes: Так как они поддерживают много разных языков, она у них местами полная на JavaScript, местами полная на Go, местами на Python, еще где-то.
+  | Ну, нет, тут гораздо страшнее JavaScript не слыхали, Python не слыхали, да, вот это все.

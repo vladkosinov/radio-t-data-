@@ -1,0 +1,7 @@
+Episode: 542
+Classification: MIXED
+TS mentions: 0 | JS mentions: 12 | Total: 12
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Видишь, когда появился JavaScript, в принципе, он был не таким уж и ужасным языком."
+  - "Там как раз про все косяки JavaScript и почему это ужасный язык."

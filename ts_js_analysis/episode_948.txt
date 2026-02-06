@@ -1,0 +1,6 @@
+Episode: 948
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of semantic versioning issues with evidence being many projects not following it, context about language ecosystem practices.
+Key quotes: Он там, да, перечислил Uno CSS, SleetDef, какие-то эзотерические слова из джаваскриптового мира, которые живут на версии 0.76.5.
+  | Ну, совместимость с библиотеками, с версиями джаваскрипта, например, какими-то.

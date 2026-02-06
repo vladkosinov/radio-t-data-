@@ -1,0 +1,5 @@
+Episode: 645
+Classification: MIXED
+TS mentions: 0 | JS mentions: 16 | Total: 16
+Summary: Cites Stack Overflow survey showing HTML/CSS/SQL/JavaScript as most popular technologies. Discusses full-stack development with Node.js using JavaScript end-to-end. Includes mostly statistical references with some practical framework discussion.
+Key quotes: "HTML, CSS, они вместе идут на втором месте, и SQL на третьем" | "JavaScript вообще скоро станет нормальным языком"

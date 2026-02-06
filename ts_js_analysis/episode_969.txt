@@ -1,0 +1,5 @@
+Episode: 969
+Classification: SUBSTANTIVE
+TS mentions: 4 | JS mentions: 0 | Total: 4
+Summary: Gray discusses comparing two different code review approaches for a TypeScript-based business logic system. One AI provided 1.5 pages of review, another provided 8 pages. Both mentioned improving test coverage and security practices. Shows discussion of TypeScript code quality and review practices.
+Key quotes: "Что в целом, ну, перейдите на TypeScript, ну, вот сделайте вот это" | "Mouse Business Logic написан на TypeScript"

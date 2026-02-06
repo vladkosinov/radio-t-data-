@@ -1,0 +1,5 @@
+Episode: 581
+Classification: MIXED
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Alek.sys makes humorous comments mixing language jokes with mentions of JavaScript, NPM, and Angular. While the mentions exist, the tone is satirical rather than analytical. Brief comments about JavaScript and Angular as technologies without substantive discussion.
+Key quotes: [Alek.sys]: Так работает JavaScript.

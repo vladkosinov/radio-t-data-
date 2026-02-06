@@ -1,0 +1,5 @@
+Episode: 792
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Very brief technical mentions about JavaScript context in browser and method implementation. The mentions are contextual without any substantive discussion of JavaScript features or ecosystem.
+Key quotes: "В контексте джаваскрипта" (In the context of JavaScript) | "Какие там слова в методе написаны?" (What words are in the method?)

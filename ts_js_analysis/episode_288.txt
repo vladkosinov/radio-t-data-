@@ -1,0 +1,5 @@
+Episode: 288
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of inserting JavaScript snippets into templates. No detailed discussion of the technology itself.
+Key quotes: Или там просто JavaScript нужно поставить? | Там просто вставляется кусок JavaScript в темплейт.

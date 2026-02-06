@@ -1,0 +1,5 @@
+Episode: 603
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 23 | Total: 26
+Summary: Comprehensive discussion of JavaScript and TypeScript across multiple aspects: ecosystem, frameworks, development practices, and technology comparisons.
+Key quotes: [Umputun]: Мне кажется, это действительно круто, что старперам типа меня не надо будет JavaScript учить.

@@ -1,0 +1,5 @@
+Episode: 990
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 5 | Total: 8
+Summary: Umputun discusses language categorization—Python and TypeScript as high-velocity languages, while Zig and C++ as low-level system languages, with Go intended as middle ground. He critiques JavaScript and NPM ecosystem replacing simpler tooling, noting VS Code's bloat (several GB memory) to show text. Mentions Bun as a fast universal tool for JavaScript/TypeScript build/bundle/test operations.
+Key quotes: "high-velocity языки, типа Python, TypeScript, а есть языки, типа low-level system language" | "пришел JavaScript и все испохайбился своим NPM" | "универсальная тулза, которая делает все связанное с JavaScript, делает это очень быстро"

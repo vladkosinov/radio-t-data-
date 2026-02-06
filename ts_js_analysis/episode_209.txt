@@ -1,0 +1,5 @@
+Episode: 209
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: JavaScript mentioned only in context of language usage statistics. Hosts discuss programming language market share showing PHP at 20%, JavaScript at approximately 6% (comparable to C#). Brief statistical observations with no substantive discussion of JavaScript capabilities, features, or applications. JavaScript is mentioned purely as a data point in broader language popularity rankings.
+Key quotes: "Если сейчас отбросить в сторону надписи HTML, JavaScript, которых еще 17%... то C-Sharp всего 6% составляет... JavaScript сравним с C-Sharp, они примерно по 6% оба" (If we exclude HTML and JavaScript which are another 17%, C# is only 6%... JavaScript is comparable to C#, both around 6%)

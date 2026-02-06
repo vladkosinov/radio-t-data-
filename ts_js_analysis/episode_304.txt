@@ -1,0 +1,5 @@
+Episode: 304
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Substantive discussion of JavaScript in MongoDB MapReduce operations. Discusses translators between Python and JavaScript, subset of languages that convert to JavaScript.
+Key quotes: А MapReduce ты пишешь на каком-то богомерзком JavaScript'е. | есть куча трансляторов, которые позволяют перегонять Python в JavaScript с некоторыми 7-8 ограничениями.

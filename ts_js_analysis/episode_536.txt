@@ -1,0 +1,7 @@
+Episode: 536
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 35 | Total: 35
+Summary: JavaScript's role in frontend and browser-based development is discussed.
+Key quotes:
+  - "Действительно, теперь можно писать Kotlin код, который будет компилироваться в JavaScript, и я уже планирую, допустим, использовать это для валидации, ну, шарить правила валидации между backend и frontend."
+  - "Ну, JavaScript очень простой язык ведь."

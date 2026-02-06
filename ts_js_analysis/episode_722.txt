@@ -1,0 +1,5 @@
+Episode: 722
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief comparative mentions of JavaScript and Python regarding type systems, and analogy between Kubernetes tooling ecosystem chaos and JavaScript ecosystem from a few years ago. Mostly passing references without substantive technical discussion.
+Key quotes: "Python и JavaScript это классно, типы вообще никому не нужны" (Python and JavaScript are cool, no one needs types). Kubernetes tooling compared to "как JavaScript 3-4 года назад" (like JavaScript 3-4 years ago).

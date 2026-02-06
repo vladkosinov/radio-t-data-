@@ -1,0 +1,5 @@
+Episode: 826
+Classification: SUBSTANTIVE
+TS mentions: 2 | JS mentions: 13 | Total: 15
+Summary: Extended discussion about Go's appeal to JavaScript developers and JavaScript ecosystem culture. Hosts debate whether Go is simple because JavaScript developers find it intuitive or vice versa, discuss framework rewrites in JavaScript (React Router, SASS), compare ecosystem maturity, and discuss AssemblyScript (TypeScript compiled to WebAssembly) as an alternative.
+Key quotes: "У меня на ГО пишут джаваскриптисты. И это говорит о многом" (JavaScript developers write in Go. That says a lot) | "JavaScript — это нормальный язык, в отличие от Java" (JavaScript is a normal language, unlike Java) | "ты просто... они пиары пиндюрят, и эти пиары даже что-то делают" (you just... they're spewing bullshit, and this bullshit actually does something)

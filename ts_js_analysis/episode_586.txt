@@ -1,0 +1,5 @@
+Episode: 586
+Classification: MIXED
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Ksenks analyzes why frontend frameworks change rapidly: JavaScript's simplicity as a language, low entry barrier for developers, and weak standard library compared to Java/Objective-C. Marin_k_a discusses how JavaScript skills are essential even for non-programmer roles like UX design.
+Key quotes: [Ksenks]: На фронтенде, насколько я понимаю, они меняются очень быстро как раз потому, что очень большая комьюнити веб-разработчиков, потому что JavaScript достаточно простой язык, и порог входа людей, программистов не так высок, как даже

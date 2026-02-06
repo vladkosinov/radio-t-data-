@@ -1,0 +1,5 @@
+Episode: 457
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Casual comparison of JavaScript to Visual Basic as entry-level language. Discussion of JavaScript developers becoming server-side programmers, used mostly as a joke.
+Key quotes: [Umputun]: JavaScript это Visual Basic сегодняшнего дня. Вот оно и переносится. | [Ksenks]: JavaScript достаточно двух недель каких-нибудь курсов, и можно делать сайтики.

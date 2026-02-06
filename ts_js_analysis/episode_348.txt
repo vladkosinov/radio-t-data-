@@ -1,0 +1,5 @@
+Episode: 348
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief anecdote about JavaScript being disabled in surveys, contrasting with actual usage statistics. No substantive discussion.
+Key quotes: сказали, что у них выключен Джаваскрипт. При этом количество людей с выключенным JavaScript у меня на сайте составляло 5%. | Они даже не знают, где у них выключается JavaScript.

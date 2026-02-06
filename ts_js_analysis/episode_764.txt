@@ -1,0 +1,5 @@
+Episode: 764
+Classification: SUBSTANTIVE
+TS mentions: 9 | JS mentions: 5 | Total: 14
+Summary: Detailed discussion of GitHub research on programming language bug density, where TypeScript appeared very safe but was later discovered to be QT configuration files from Bitcoin project, not actual TypeScript code. Discussion of statistical methodology issues in language comparison research, multiple Bitcoin forks skewing data. Extended debate about JavaScript's popularity as most-used backend language according to surveys, discussion of VS Code's JavaScript support quality and features.
+Key quotes: "Получились данные в таком ключе, что да, действительно, язык программирования прям так статистически значимо влияет на количество багов" (Language does affect bug density). Discovery that TypeScript results "это вообще были QT-конфиги" (were actually Qt configs). Technical discussion of research methodology and JavaScript ecosystem tooling quality.

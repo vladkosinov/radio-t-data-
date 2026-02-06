@@ -1,0 +1,5 @@
+Episode: 101
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 11 | Total: 11
+Summary: Extensive technical discussion of JavaScript engine optimization breakthroughs. Gray reports Mozilla's 7x (or up to 37x for specific operations) JavaScript acceleration in Firefox 3.1. Hosts debate the significance and competing implementations: Google's V8 engine in Chrome, Mozilla's TraceMonkey, and Adobe's optimized JavaScript from Flash. Discussion focuses on performance implications for web applications and how faster JS engines will enable better web apps. Umputun considers JavaScript speed improvements a revolutionary development comparable to Flash's impact.
+Key quotes: "Mozilla ускорила обработку JavaScript, браузер Firefox в 7 раз" (Mozilla accelerated JavaScript processing 7x in Firefox); "Это революция, мне кажется. Если действительно джаваскрипт ускорила в 7 раз, это удар по всем более шустрым технологиям" (This is revolutionary. If JavaScript is really 7x faster, that's a blow to all faster technologies)

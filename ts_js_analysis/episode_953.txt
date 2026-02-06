@@ -1,0 +1,5 @@
+Episode: 953
+Classification: MIXED
+TS mentions: 3 | JS mentions: 5 | Total: 8
+Summary: Gray discusses how LLMs (like Claude) handle TypeScript examples better when only TypeScript documentation is provided instead of mixed language examples. Shows practical observation about how limiting input to a single language improves LLM code generation. Also general mentions of JavaScript in database contexts.
+Key quotes: "удалил из документации все, кроме TypeScript примеров, и сказал, используй стандартные библиотеки, и будет счастье"

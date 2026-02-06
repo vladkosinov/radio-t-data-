@@ -1,0 +1,4 @@
+Episode: 642
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Brief mention of GSON 5 format supporting ECMAScript 5 JavaScript syntax features (trailing commas, comments). JavaScript mentioned as basis for configuration syntax, not discussed substantively.

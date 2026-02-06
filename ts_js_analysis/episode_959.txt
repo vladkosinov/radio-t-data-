@@ -1,0 +1,5 @@
+Episode: 959
+Classification: SUBSTANTIVE
+TS mentions: 3 | JS mentions: 1 | Total: 4
+Summary: Alek.sys describes how he rewrote a small JavaScript service (3 files, 4 endpoints) to Go without external libraries. Gray discusses Go's poor IDE support compared to Rust, Kotlin, and TypeScript. They note that Rust, TypeScript, and WebAssembly are growing languages while Go is declining.
+Key quotes: "у меня был кусок кода, написан на JavaScript'е, а мне надо было на Go его переписать" | "У Go нет мощной поддержки IDE, особенно в сравнении с Rust, Kotlin или даже TypeScript"

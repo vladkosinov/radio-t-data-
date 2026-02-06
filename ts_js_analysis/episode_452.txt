@@ -1,0 +1,5 @@
+Episode: 452
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 4 | Total: 4
+Summary: Discussion of Node.js and JavaScript usage in backend REST API architecture. Hosts explain API unification through JavaScript execution in browsers and servers.
+Key quotes: [PetrDidenko]: Допустим, нода какая-нибудь, раз мы тут JavaScript упоминали | [Umputun]: Туда-сюда ты, как правило, JSON гоняешь, и это раз. Второй плюс, тот рест, который дергаешь ты внутри, может точно так же дернуть и JavaScript внутри странички

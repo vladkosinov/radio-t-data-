@@ -1,0 +1,5 @@
+Episode: 708
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 7 | Total: 7
+Summary: Discussion of JavaScript capabilities and limitations - what it can do for browser fingerprinting, detecting Safari incognito mode, and detecting installed fonts. Also discusses JetBrains survey data showing JavaScript now surpassing Java in popularity rankings among professional developers.
+Key quotes: "Любой джаваскриптизер тебе покажет, что как нечего делать, детектится сафариевский режим инкогнито" (Any JavaScript developer can show you that Safari incognito mode detection is trivially easy). JavaScript is trending higher than Java in language rankings.

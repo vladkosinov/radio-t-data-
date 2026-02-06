@@ -1,0 +1,5 @@
+Episode: 646
+Classification: SUBSTANTIVE
+TS mentions: 5 | JS mentions: 4 | Total: 9
+Summary: Discusses scripting language (ReScript) that compiles to TypeScript, combining traditional JavaScript simplicity with type checking. Compares scripted languages to TypeScript for data validation at compile-time. Explains TypeScript as middle ground between pure scripting and traditional compilation.
+Key quotes: "это TypeScript, понимаешь, да? ... комбинацию TypeScript плюс ML" | "проверяют данные на этапе компиляции"

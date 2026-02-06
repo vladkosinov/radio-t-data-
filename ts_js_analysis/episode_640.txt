@@ -1,0 +1,5 @@
+Episode: 640
+Classification: SUBSTANTIVE
+TS mentions: 0 | JS mentions: 18 | Total: 18
+Summary: Detailed exploration of Graal polyglot environment executing JavaScript alongside other languages. Discusses JavaScript threading abstractions versus actual concurrency issues in Node.js. Extensive comparison with Lua, exploring JavaScript's evolution from extension language to general-purpose.
+Key quotes: "JavaScript изначально был языком для расширения... развили до языка, задача которого писать про все" | "Lua зафиксировался в версии 5 и так и живет"

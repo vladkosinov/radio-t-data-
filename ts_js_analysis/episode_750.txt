@@ -1,0 +1,5 @@
+Episode: 750
+Classification: MIXED
+TS mentions: 0 | JS mentions: 5 | Total: 5
+Summary: Discussion of JAMstack architecture (JavaScript APIs Markups acronym) and its relationship to static site generation. Brief discussion of JavaScript-based static site generators like Gatsby and Next.js that use Node.js/JavaScript for build processes. Mix of technical explanation of JAM concept with passing mentions of JavaScript frameworks.
+Key quotes: "Jam это JavaScript APIs Markups" (JAM stands for JavaScript APIs Markups). Discussion of how most JAMstack tools are JavaScript-based, but focus is more on architecture pattern than JavaScript specifics. Brief technical explanation without deep analysis.

@@ -1,0 +1,5 @@
+Episode: 422
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 3 | Total: 3
+Summary: Casual mention that Obama writes JavaScript, used as a joke about his busy schedule. JavaScript is mentioned in passing regarding LastPass password manager functionality.
+Key quotes: [Gray]: Обама пишет на Джаваскрипт. | [Bobuk]: То есть на самом деле это выглядит так, ты нажимаешь на кнопку «Сменить пароль», у тебя в браузере выполняется набор JavaScript, который меняет твой пароль.

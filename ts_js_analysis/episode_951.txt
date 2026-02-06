@@ -1,0 +1,5 @@
+Episode: 951
+Classification: NAME-DROP
+TS mentions: 1 | JS mentions: 2 | Total: 3
+Summary: Brief mentions of JavaScript applications in browsers requiring complex authentication and database APIs. TypeScript mentioned once as a language option for backend services. The discussion is about general web architecture challenges, not TS/JS features.
+Key quotes: "JavaScript-приложение в браузере" | "Node.js-овский там или там TypeScript-овый движок"

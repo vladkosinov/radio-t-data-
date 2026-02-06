@@ -1,0 +1,6 @@
+Episode: 871
+Classification: NAME-DROP
+TS mentions: 0 | JS mentions: 6 | Total: 6
+Summary: No significant TypeScript or JavaScript content.
+Key quotes: То есть, окей, там сейчас передается 3 байта информации, но представь, по большому счету, это та же самая идея peer-to-peer, но только хостит, не знаю... Ну, это же прям сайтом... Запускаемые, запускаемые и написанные заказчиком JavaScript, и это будет хостить.
+  | Не JavaScript, а какие-нибудь... Ну, сделают свой формат какой-нибудь там прям специальный, я не знаю, Apple Mobile в web какой-нибудь там на своем языке, на Swift или что-нибудь такое.
